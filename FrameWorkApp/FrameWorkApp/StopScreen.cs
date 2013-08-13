@@ -26,7 +26,7 @@ namespace FrameWorkApp
 		private const double SPEED_THRESHOLD_STARTS = 4;
 		private const double TURNING_THRESHOLD = 30;
 		private const double TURNING_SPEED_THRESHOLD = 24;//km/h
-		private const int MINIMUM_DISTANCE_REQUIRED = 1;
+		private const int MINIMUM_DISTANCE_REQUIRED = -1;
 		private double initialHeading;
 		private double finalHeading;
 		//Type Codes for Events
@@ -241,9 +241,9 @@ namespace FrameWorkApp
 		}
 		public void checkIfDriverTraveledMinimumDistance(int minDist){
 			if(distanceTraveledForCurrentTrip < minDist){
-				fileManager.clearCurrentTripEventFile();
-				fileManager.clearCurrentTripDistanceFile();
-				fileManager.clearGooglePathFile();
+				fileManager.deleteCurrentTripData();
+				fileManager.deleteCurrentTripDistanceFile();
+				fileManager.deleteGooglePathFile();
 				new UIAlertView ("Oops!", "You have to travel at least " + MINIMUM_DISTANCE_REQUIRED + " Km for it to count as a trip!", null, "My Bad!", null).Show();
 				MainNavigationController.goTrip = true;
 				DismissViewController(true, null);

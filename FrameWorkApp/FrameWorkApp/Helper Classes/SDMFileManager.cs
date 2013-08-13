@@ -16,23 +16,28 @@ namespace FrameWorkApp
 		String tripHistoryFolder;
 		String userFile;
 		String achievementsFile;
-		String googlePathFile;
+		String currentGooglePathFile;
 
 		const int MAX_NUMBER_OF_TRIPS = 10;
 
 		public SDMFileManager ()
 		{
 			//Set Paths for All Files
-			var libraryCache = Path.Combine (Environment.GetFolderPath (Environment.SpecialFolder.MyDocuments), "..", "Library", "Caches");
-			libraryAppFolder = Path.Combine (Environment.GetFolderPath (Environment.SpecialFolder.MyDocuments), "..", "Library", "SafeDrivingMate");
+			//Temp Directory
+			var libraryCache = Path.Combine (Environment.GetFolderPath (Environment.SpecialFolder.MyDocuments), "..", "tmp");
+			//Documents Folder For Backup to iCloud
+			libraryAppFolder = Path.Combine (Environment.GetFolderPath (Environment.SpecialFolder.MyDocuments));
 
-			currentTripEventFile = Path.Combine (libraryCache, "currentTripEvents_SafeDrivingMate.txt");
+			//User Data
 			tripHistoryFolder = Path.Combine (libraryAppFolder, "tripHistory");
 			tripLogFile = Path.Combine (tripHistoryFolder, "tripHistory.txt");
-			currentTripDistanceFile = Path.Combine (libraryCache, "currentTripDistance_SafeDrivingMate.txt");
 			userFile = Path.Combine (libraryAppFolder, "userData.txt");
 			achievementsFile = Path.Combine (libraryAppFolder, "achievementsData.txt");
-			googlePathFile = Path.Combine (libraryAppFolder, "googlePathData.txt");
+
+			//Temp Files (Will be Deleted)
+			currentTripEventFile = Path.Combine (libraryCache, "currentTripEvents.txt");
+			currentTripDistanceFile = Path.Combine (libraryCache, "currentTripDistance.txt");
+			currentGooglePathFile = Path.Combine (libraryCache, "currentgooglePathData.txt");
 
 
 
@@ -44,22 +49,13 @@ namespace FrameWorkApp
 				Directory.CreateDirectory (tripHistoryFolder);
 				File.Create (tripLogFile).Close ();
 			}
-			if (!File.Exists (currentTripDistanceFile)) {
-				File.Create (currentTripDistanceFile).Close ();
-			}
-			if (!File.Exists (currentTripEventFile)) {
-				File.Create (currentTripEventFile).Close ();
-			}
 			if (!File.Exists (userFile)) {
 				File.Create (userFile).Close ();
-				File.WriteAllText (userFile, "0, 0, 0, 0, 0, 0, -1");
+				File.WriteAllText (userFile, "0, 0, 0, 0, 0, 0, -1, -1");
 			}
 			if (!File.Exists (achievementsFile)) {
 				File.Create (achievementsFile).Close ();
 				File.WriteAllText (achievementsFile, "0;01/01/1900;0;false;false;false;false;false;false;false;false;false;false;false;false;false;false;false");
-			}
-			if (!File.Exists (googlePathFile)) {
-				File.Create (googlePathFile).Close ();
 			}
 
 			//Console.WriteLine ("Trip Log Path:" + tripLogFile);
@@ -67,7 +63,8 @@ namespace FrameWorkApp
 			//Console.WriteLine ("Current Trip Distance File Path: " + currentTripDistanceFile);
 		}
 
-		//Overall Helper Methods
+		/************Overall Helper Methods************/
+
 		//Returns True of Trip is still in progress, false if not.
 		public Boolean currentTripInProgress ()
 		{
@@ -91,7 +88,8 @@ namespace FrameWorkApp
 				return distanceFileDateTime;
 			}
 		}
-		//-------Trip Log Methods-------
+
+		/************Trip Log Methods************/
 		//Adds Trip to Trip Log
 		public void addDataToTripLogFile (Trip newTrip)
 		{
@@ -119,7 +117,7 @@ namespace FrameWorkApp
 			//Create Copy of Files
 			File.Copy(currentTripEventFile, Path.Combine (tripHistoryFolder, newTrip.DateTime.ToString ("MMddyyyyhmm")+"_events.txt"), true);
 			File.Copy(currentTripDistanceFile, Path.Combine (tripHistoryFolder, newTrip.DateTime.ToString ("MMddyyyyhmm")+"_distance.txt"), true);
-			File.Copy(googlePathFile, Path.Combine (tripHistoryFolder, newTrip.DateTime.ToString ("MMddyyyyhmm")+"_paths.txt"), true);
+			File.Copy(currentGooglePathFile, Path.Combine (tripHistoryFolder, newTrip.DateTime.ToString ("MMddyyyyhmm")+"_paths.txt"), true);
 
 			//Write everything back to file
 			this.writeTripLogFile ((Trip[])listOfTrips.ToArray (typeof(Trip)));
@@ -152,16 +150,6 @@ namespace FrameWorkApp
 				temporaryArrayListForData.Add (newTrip);
 			}
 			return (Trip[])temporaryArrayListForData.ToArray (typeof(Trip));
-		}
-
-		public List<String> readSavedGooglePathData (Trip t)
-		{
-			string googlePathFile=Path.Combine (tripHistoryFolder, t.DateTime.ToString ("MMddyyyyhmm")+"_paths.txt");
-			List<string> googlePathsRead = new List<string> ();
-			foreach (string currentPath in File.ReadLines(googlePathFile)) {
-				googlePathsRead.Add (currentPath);
-			}
-			return googlePathsRead;
 		}
 
 		//Read Saved Trip Event Data for a Specifc Trip
@@ -208,10 +196,14 @@ namespace FrameWorkApp
 
 		}
 
-		//------Trip Event File Methods------
+		/************Trip Event File Methods************/
+
 		//Add Event Cooridnate to Current Trip Event File
 		public  void addEventToTripEventFile (Event newEvent)
 		{
+			if (!File.Exists (currentTripEventFile)) {
+				File.Create (currentTripEventFile).Close ();
+			}
 			FileStream currentTripFile_FileStream = File.Open (currentTripEventFile, FileMode.Append);
 			StreamWriter currentTripFile_SteamWriter = new StreamWriter (currentTripFile_FileStream);
 
@@ -224,6 +216,9 @@ namespace FrameWorkApp
 		//Reads Current Trip Event File back in and returns a Array of CLLocationCordinates2D objects.
 		public  Event[] readDataFromTripEventFile ()
 		{
+			if (!File.Exists (currentTripEventFile)) {
+				File.Create (currentTripEventFile).Close ();
+			}
 			ArrayList temporaryArrayListForCoordinateData = new ArrayList ();
 
 			foreach (String line in File.ReadLines (currentTripEventFile)) {
@@ -235,16 +230,20 @@ namespace FrameWorkApp
 			return (Event[])temporaryArrayListForCoordinateData.ToArray (typeof(Event));
 		}
 
-		//Clears Current Trip Event File
-		public void clearCurrentTripEventFile ()
+		//Deletes Current Trip Event File
+		public void deleteCurrentTripData ()
 		{
-			File.WriteAllText (currentTripEventFile, "");
+			File.Delete (currentTripEventFile);
 		}
 
-		//-------Trip Distance File Methods-------
+		/************Trip Distance File Methods************/
+
 		//Adds a location to the Current ,ooTrip Distance File
 		public  void addLocationToTripDistanceFile (CLLocationCoordinate2D newCoordiante)
 		{
+			if (!File.Exists (currentTripDistanceFile)) {
+				File.Create (currentTripDistanceFile).Close ();
+			}
 			FileStream currentTripFile_FileStream = File.Open (currentTripDistanceFile, FileMode.Append);
 			StreamWriter currentTripFile_SteamWriter = new StreamWriter (currentTripFile_FileStream);
 
@@ -257,6 +256,9 @@ namespace FrameWorkApp
 		//Reads Current Trip Distance File back in returns a Array of CLLocation objects.
 		public  CLLocation[] readDataFromTripDistanceFile ()
 		{
+			if (!File.Exists (currentTripDistanceFile)) {
+				File.Create (currentTripDistanceFile).Close ();
+			}
 			ArrayList temporaryArrayListForData = new ArrayList ();
 
 			foreach (String line in File.ReadLines (currentTripDistanceFile)) {
@@ -268,15 +270,15 @@ namespace FrameWorkApp
 		}
 
 		//Clears Current Trip Distance File.
-		public void clearCurrentTripDistanceFile ()
+		public void deleteCurrentTripDistanceFile ()
 		{
-			File.WriteAllText (currentTripDistanceFile, "");
+			File.Delete (currentTripDistanceFile);
 		}
 
-		//User Data File Methods
+		/************User Data File Methods************/
 		public void updateUserFile (User updatedUser)
 		{
-			String dataToWrite = updatedUser.TotalDistance + "," + updatedUser.TotalPoints + "," + updatedUser.TotalHardStops + "," + updatedUser.TotalHardStarts+ "," + updatedUser.TotalHardTurns + "," + updatedUser.TotalNumberTrips+","+updatedUser.Id;
+			String dataToWrite = updatedUser.TotalDistance + "," + updatedUser.TotalPoints + "," + updatedUser.TotalHardStops + "," + updatedUser.TotalHardStarts+ "," + updatedUser.TotalHardTurns + "," + updatedUser.TotalNumberTrips+","+updatedUser.Id+","+updatedUser.AllowAmazonServices;
 			File.WriteAllText (userFile, dataToWrite);
 
 		}
@@ -285,8 +287,7 @@ namespace FrameWorkApp
 		{
 			String dataFromFile = File.ReadAllText (userFile);
 			String[] splitDataFromFile = dataFromFile.Split (',');
-
-			User userData = new User (Double.Parse(splitDataFromFile[0]), int.Parse(splitDataFromFile[1]), int.Parse(splitDataFromFile[2]) , int.Parse(splitDataFromFile[3]), int.Parse(splitDataFromFile[4]), int.Parse (splitDataFromFile[5]), splitDataFromFile[6].Trim());
+			User userData = new User (Double.Parse(splitDataFromFile[0]), int.Parse(splitDataFromFile[1]), int.Parse(splitDataFromFile[2]) , int.Parse(splitDataFromFile[3]), int.Parse(splitDataFromFile[4]), int.Parse (splitDataFromFile[5]), splitDataFromFile[6].Trim(),int.Parse(splitDataFromFile[7].Trim()));
 			return userData;
 		}
 
@@ -294,12 +295,9 @@ namespace FrameWorkApp
 		{
 			File.WriteAllText (userFile, "");
 		}
-
-
-
 		
-		
-		//Achievements Data File Methods
+		/************Achievements Data File Methods************/
+
 		public void updateAchievementsFile(AchievementData achievementData){
 			String dataToWrite = achievementData.NumberConsecutiveDaysOfAppUse + ";" + achievementData.LastDateOfAppUse.ToString () + ";" + achievementData.NumberConsecutiveTripsWithoutIncidents + ";" + achievementData.TakeTenValue + ";" + achievementData.KangarooJackValue + ";" + achievementData.CrossCountryValue + ";" + achievementData.RoadWarriorValue + ";" + achievementData.CrikeyValue + ";" + achievementData.SuperSteveValue + ";" + 
 				achievementData.SmoothOperatorValue + ";" + achievementData.TediousTurnerValue + ";" + achievementData.GrannyStyleValue + ";" + achievementData.CarefulCatieValue + ";" + achievementData.TrainingWheelsValue + ";" + achievementData.PerfectPeterValue + ";" + achievementData.ConstantCommuterValue + ";" + achievementData.FrequentFlyerValue + ";" + achievementData.SteadyPedalerValue;
@@ -327,8 +325,13 @@ namespace FrameWorkApp
 			File.WriteAllText (achievementsFile, "");
 		}
 
+		/************Google Path Data File Methods************/
+
 		public void updateGooglePathFile(List<String> pathStringsToBeAdded){
-			FileStream currentGooglePathFile_FileStream = File.Open (googlePathFile, FileMode.Append);
+			if (!File.Exists (currentGooglePathFile)) {
+				File.Create (currentGooglePathFile).Close ();
+			}
+			FileStream currentGooglePathFile_FileStream = File.Open (currentGooglePathFile, FileMode.Append);
 			StreamWriter currentTripFile_SteamWriter = new StreamWriter (currentGooglePathFile_FileStream);
 			foreach (String singlePath in pathStringsToBeAdded) {
 				currentTripFile_SteamWriter.WriteLine (singlePath);
@@ -337,8 +340,20 @@ namespace FrameWorkApp
 			currentTripFile_SteamWriter.Close ();
 			currentGooglePathFile_FileStream.Close ();
 		}
-
 		public List<String> readGooglePathFile(){
+			if (!File.Exists (currentGooglePathFile)) {
+				File.Create (currentGooglePathFile).Close ();
+			}
+			List<string> googlePathsRead = new List<string> ();
+			foreach (string currentPath in File.ReadLines(currentGooglePathFile)) {
+				googlePathsRead.Add (currentPath);
+			}
+			return googlePathsRead;
+		}
+
+		public List<String> readSavedGooglePathData (Trip t)
+		{
+			string googlePathFile=Path.Combine (tripHistoryFolder, t.DateTime.ToString ("MMddyyyyhmm")+"_paths.txt");
 			List<string> googlePathsRead = new List<string> ();
 			foreach (string currentPath in File.ReadLines(googlePathFile)) {
 				googlePathsRead.Add (currentPath);
@@ -346,9 +361,9 @@ namespace FrameWorkApp
 			return googlePathsRead;
 		}
 
-		public void clearGooglePathFile ()
+		public void deleteGooglePathFile ()
 		{
-			File.WriteAllText (googlePathFile, "");
+			File.Delete (currentGooglePathFile);
 		}
 
 	}

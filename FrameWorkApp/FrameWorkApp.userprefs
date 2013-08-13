@@ -1,8 +1,11 @@
 ﻿<Properties GitUserInfo="UsingMD">
-  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug|iPhone" PreferredExecutionTarget="MonoDevelop.IPhone.IPhoneDeviceTarget.Doug's iPhone" />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug|iPhone" PreferredExecutionTarget="MonoDevelop.IPhone.IPhoneDeviceTarget.Emily’s iPhone" />
   <MonoDevelop.Ide.Workbench ActiveDocument="FrameWorkApp/Helper Classes/SDMFileManager.cs">
     <Files>
-      <File FileName="FrameWorkApp/Helper Classes/SDMFileManager.cs" Line="1" Column="1" />
+      <File FileName="FrameWorkApp/Helper Classes/SDMFileManager.cs" Line="62" Column="4" />
+      <File FileName="FrameWorkApp/MainViewController.cs" Line="101" Column="107" />
+      <File FileName="FrameWorkApp/TripSummaryScreen.cs" Line="40" Column="53" />
+      <File FileName="FrameWorkApp/StopScreen.cs" Line="29" Column="50" />
     </Files>
   </MonoDevelop.Ide.Workbench>
   <MonoDevelop.Ide.DebuggingService.Breakpoints>

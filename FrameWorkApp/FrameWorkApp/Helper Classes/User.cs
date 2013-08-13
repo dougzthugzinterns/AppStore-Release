@@ -17,8 +17,9 @@ namespace FrameWorkApp
 		private const int UPPER_LIMIT_PRO = 5000;
 		private const int UPPER_LIMIT_ALLSTAR = 10000;
 		private const int UPPER_LIMIT_VETERAN = 50000;
+		private int allowAmazonServices = -1;	//-1 Not been Asked Premission, 1 Allow, 0 not allowed
 
-		public User (double totalDistance, int totalPoints, int totalHardStarts, int totalHardStops, int totalHardTurns, int totalNumberTrips, string id)
+		public User (double totalDistance, int totalPoints, int totalHardStarts, int totalHardStops, int totalHardTurns, int totalNumberTrips, string id, int allowAmazonServices)
 		{
 			this.totalDistance = totalDistance;
 			this.totalPoints = totalPoints;
@@ -27,11 +28,16 @@ namespace FrameWorkApp
 			this.totalHardTurns = totalHardTurns;
 			this.totalNumberTrips = totalNumberTrips;
 			this.id = id;
+			this.allowAmazonServices = allowAmazonServices;
 		}
 
 		public double TotalDistance {
 			get { return totalDistance;}
 			set { this.totalDistance = value;}
+		}
+		public int AllowAmazonServices{
+			get { return allowAmazonServices;}
+			set { this.allowAmazonServices = value;}
 		}
 		public string Id{
 			get { return id;}

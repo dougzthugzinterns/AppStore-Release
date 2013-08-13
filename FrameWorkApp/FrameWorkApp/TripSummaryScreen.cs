@@ -37,7 +37,7 @@ namespace FrameWorkApp
 		const string HOST = "https://dynamodb.us-west-2.amazonaws.com";
 		const string REGION="us-west-2";
 
-		private const double MINIMUM_DISTANCE_REQUIRED = 1;
+		private const double MINIMUM_DISTANCE_REQUIRED = -1;
 
 		public TripSummaryScreen (IntPtr handle) : base (handle)
 		{
@@ -89,32 +89,34 @@ namespace FrameWorkApp
 			//Add Trip to Trip Log
 			if (totalDistance > MINIMUM_DISTANCE_REQUIRED) {
 				fileManager.addDataToTripLogFile (new Trip(DateTime.Now, numberOfStarts, numberOfStops, numberOfTurns,totalDistance));
-				AmazonWebServices amazon = new AmazonWebServices (HOST, REGION, ACCESSID, PRIVATEKEY);
-				if (currentUser.Id == "-1") {
-					//Generate Unique ID
-					string id = "";
-					do {
-						Random random = new Random ();
-						id = random.Next ().ToString ("X8") + random.Next ().ToString ("X8");
-					} while(amazon.checkIdExists(id));
+				if(currentUser.AllowAmazonServices==1){
+					AmazonWebServices amazon = new AmazonWebServices (HOST, REGION, ACCESSID, PRIVATEKEY);
+					if (currentUser.Id == "-1") {
+						//Generate Unique ID
+						string id = "";
+						do {
+							Random random = new Random ();
+							id = random.Next ().ToString ("X8") + random.Next ().ToString ("X8");
+						} while(amazon.checkIdExists(id));
 
-					currentUser.Id=id;
-				}	
-				//Update Achievements Data
-				AchievementsCalculator calculationAfterCurrentTrip = new AchievementsCalculator(numberOfStarts, numberOfStops, numberOfTurns, totalDistance);
-				//AchievementsCalculator calculationAfterCurrentTrip = new AchievementsCalculator (0, 0, 0, 1000);
+						currentUser.Id=id;
+					}	
+					//Update Achievements Data
+					AchievementsCalculator calculationAfterCurrentTrip = new AchievementsCalculator(numberOfStarts, numberOfStops, numberOfTurns, totalDistance);
+					//AchievementsCalculator calculationAfterCurrentTrip = new AchievementsCalculator (0, 0, 0, 1000);
 
-				calculationAfterCurrentTrip.recalculateAchievements ();
-				MainViewController.hasJustUnlockedAchievement = calculationAfterCurrentTrip.getAchievementHasBeenUnlocked;
-				
-				//Send Trip Data to Amazon
-				amazon.sendTripData((int)totalDistance, numberOfStops, numberOfStarts, numberOfTurns, currentUser.Id);
+					calculationAfterCurrentTrip.recalculateAchievements ();
+					MainViewController.hasJustUnlockedAchievement = calculationAfterCurrentTrip.getAchievementHasBeenUnlocked;
+					
+					//Send Trip Data to Amazon
+					amazon.sendTripData((int)totalDistance, numberOfStops, numberOfStarts, numberOfTurns, currentUser.Id);
+				}
 
 			}
 			//Clear Current Trip
-			fileManager.clearCurrentTripEventFile();
-			fileManager.clearCurrentTripDistanceFile();
-			fileManager.clearGooglePathFile();
+			fileManager.deleteCurrentTripData();
+			fileManager.deleteCurrentTripDistanceFile();
+			fileManager.deleteGooglePathFile();
 
 			//Update User Data
 			currentUser.updateData (totalDistance, numberOfStops, numberOfStarts, numberOfTurns);
@@ -199,9 +201,9 @@ namespace FrameWorkApp
 		{
 
 			DismissModalViewControllerAnimated(true);
-			StopScreen.fileManager.clearCurrentTripEventFile();
-			StopScreen.fileManager.clearCurrentTripDistanceFile();
-			StopScreen.fileManager.clearGooglePathFile();
+			StopScreen.fileManager.deleteCurrentTripData();
+			StopScreen.fileManager.deleteCurrentTripDistanceFile();
+			StopScreen.fileManager.deleteGooglePathFile();
 		}
 
 

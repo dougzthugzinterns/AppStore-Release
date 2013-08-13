@@ -61,12 +61,11 @@ namespace FrameWorkApp
 
 			RawGPS rawGPS = new RawGPS ();
 			double totalDistance = rawGPS.convertMetersToKilometers(rawGPS.CalculateDistanceTraveled(new List<CLLocation>(fileManager.readDataFromTripDistanceFile())));
+			User currentUser = fileManager.readUserFile ();
 
 			//Phone Crashed during a Trip in Progress, write data recovered to trip log.
 			if (fileManager.currentTripInProgress() && totalDistance >= 1) {
 
-				User currentUser = fileManager.readUserFile ();
-				AmazonWebServices amazon = new AmazonWebServices (HOST, REGION, ACCESSID, PRIVATEKEY);
 
 				//Read Data from Recovered File.
 				Event[] events = fileManager.readDataFromTripEventFile ();
@@ -84,30 +83,30 @@ namespace FrameWorkApp
 						numberOfTurns++;
 					}
 				}
+				if(currentUser.AllowAmazonServices==1){
+					AmazonWebServices amazon = new AmazonWebServices (HOST, REGION, ACCESSID, PRIVATEKEY);
 
-				if (currentUser.Id == "-1") {
-					//Generate Unique ID
-					string id = "";
-					do {
-						Random random = new Random ();
-						id = random.Next ().ToString ("X8") + random.Next ().ToString ("X8");
-					} while(amazon.checkIdExists(id));
-					currentUser.Id=id;
+					if (currentUser.Id == "-1") {
+						//Generate Unique ID
+						string id = "";
+						do {
+							Random random = new Random ();
+							id = random.Next ().ToString ("X8") + random.Next ().ToString ("X8");
+						} while(amazon.checkIdExists(id));
+						currentUser.Id=id;
+					}
+					//Send data to Amazon Web Services
+					amazon.sendTripData((int)totalDistance, numberOfStops, numberOfStarts, numberOfTurns, currentUser.Id);
 				}
 
 				fileManager.addDataToTripLogFile(new Trip(fileManager.getDateOfLastPointEnteredInCurrentTrip(), numberOfStarts,numberOfStops,numberOfTurns, (int)totalDistance));
-
-				//Send data to Amazon Web Services
-				amazon.sendTripData((int)totalDistance, numberOfStops, numberOfStarts, numberOfTurns, currentUser.Id);
-
-
 				//Update user data
 				currentUser.updateData (totalDistance, numberOfStops, numberOfStarts, numberOfTurns);
 				fileManager.updateUserFile(currentUser);
 
 				//Clear current trip files
-				fileManager.clearCurrentTripEventFile();
-				fileManager.clearCurrentTripDistanceFile ();
+				fileManager.deleteCurrentTripData();
+				fileManager.deleteCurrentTripDistanceFile ();
 
 				//Update Achievements Files
 				AchievementsCalculator calcuationAfterCrashedTrip = new AchievementsCalculator(numberOfStarts, numberOfStops, numberOfTurns, totalDistance);
@@ -116,7 +115,6 @@ namespace FrameWorkApp
 				//Display Alert
 				new UIAlertView ("Trip Data Recovered!", "We detected your phone has shut down during a trip, but good news, we managed to recover your data up to that point your phone shut down.", null, "Yay!", null).Show ();
 			}
-		
 			if(CLLocationManager.Status==CLAuthorizationStatus.NotDetermined){
 
 				manager.AuthorizationChanged += (sender,e) => {
@@ -127,11 +125,30 @@ namespace FrameWorkApp
 				manager.StartUpdatingLocation ();
 				manager.StopUpdatingLocation ();
 			}
+
 			else{
 				if(CLLocationManager.Status == CLAuthorizationStatus.Denied){
 					new UIAlertView("Location Services must be enabled to use application!","We noticed you have disabled location services for this application. Please enable these before continuing. Please enable these before starting a new trip.", null, "OK", null).Show();
 				}
 			}
+
+			if (currentUser.AllowAmazonServices == -1) {
+				UIAlertView newAlert=new UIAlertView("Send Data", "Would you like to send data about your trips to help improve Safe Driving Mate? Don't worry, all recorded information is annonyous and will not be disclosed to third parties.", null, "No", "Yes");
+				newAlert.Clicked += (object sender2, UIButtonEventArgs e) => {
+					if(e.ButtonIndex==1){
+						//If Yes Button is Hit
+						currentUser.AllowAmazonServices=1;     
+					}
+					else{
+						currentUser.AllowAmazonServices=0;
+					}
+					fileManager.updateUserFile(currentUser);
+				};
+				newAlert.Show ();
+
+			}
+
+
 		}
 
 
