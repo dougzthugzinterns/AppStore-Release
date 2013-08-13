@@ -1,0 +1,299 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Project DefaultTargets="Build" ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">iPhoneSimulator</Platform>
+    <ProductVersion>10.0.0</ProductVersion>
+    <SchemaVersion>2.0</SchemaVersion>
+    <ProjectGuid>{0BCBBA23-A116-4252-8717-6AFAF3C39178}</ProjectGuid>
+    <ProjectTypeGuids>{6BC8ED88-2882-458C-8E55-DFD12B67127B};{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}</ProjectTypeGuids>
+    <OutputType>Exe</OutputType>
+    <RootNamespace>FrameWorkApp</RootNamespace>
+    <IPhoneResourcePrefix>Resources</IPhoneResourcePrefix>
+    <AssemblyName>FrameWorkApp</AssemblyName>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|iPhoneSimulator' ">
+    <DebugSymbols>true</DebugSymbols>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\iPhoneSimulator\Debug</OutputPath>
+    <DefineConstants>DEBUG;</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+    <ConsolePause>false</ConsolePause>
+    <MtouchLink>None</MtouchLink>
+    <MtouchDebug>true</MtouchDebug>
+    <MtouchI18n />
+    <MtouchArch>ARMv7</MtouchArch>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|iPhoneSimulator' ">
+    <Optimize>true</Optimize>
+    <OutputPath>bin\iPhoneSimulator\Release</OutputPath>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+    <ConsolePause>false</ConsolePause>
+    <MtouchLink>None</MtouchLink>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|iPhone' ">
+    <DebugSymbols>true</DebugSymbols>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\iPhone\Debug</OutputPath>
+    <DefineConstants>DEBUG;</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+    <ConsolePause>false</ConsolePause>
+    <MtouchDebug>true</MtouchDebug>
+    <CodesignKey>iPhone Distribution</CodesignKey>
+    <MtouchI18n />
+    <MtouchArch>ARMv7</MtouchArch>
+    <IpaPackageName />
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|iPhone' ">
+    <Optimize>true</Optimize>
+    <OutputPath>bin\iPhone\Release</OutputPath>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+    <ConsolePause>false</ConsolePause>
+    <CodesignKey>iPhone Distribution</CodesignKey>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Ad-Hoc|iPhone' ">
+    <Optimize>true</Optimize>
+    <OutputPath>bin\iPhone\Ad-Hoc</OutputPath>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+    <BuildIpa>true</BuildIpa>
+    <CodesignKey>iPhone Developer</CodesignKey>
+    <ConsolePause>false</ConsolePause>
+    <CodesignProvision>0B9EDF67-22B5-4200-B629-6F9104650673</CodesignProvision>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'AppStore|iPhone' ">
+    <Optimize>true</Optimize>
+    <OutputPath>bin\iPhone\AppStore</OutputPath>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+    <ConsolePause>false</ConsolePause>
+    <CodesignKey>iPhone Distribution</CodesignKey>
+    <CodesignProvision>Automatic:AppStore</CodesignProvision>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="System" />
+    <Reference Include="System.Xml" />
+    <Reference Include="System.Core" />
+    <Reference Include="monotouch" />
+    <Reference Include="GoogleMaps">
+      <HintPath>..\Components\googlemapsios-1.3.1.1\lib\ios\GoogleMaps.dll</HintPath>
+    </Reference>
+  </ItemGroup>
+  <ItemGroup>
+    <Folder Include="Resources\" />
+    <Folder Include="Helper Classes\" />
+    <Folder Include="Sounds\" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Helper Classes\Info.plist">
+      <DependentUpon>SDMFileManager.cs</DependentUpon>
+    </None>
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="Main.cs" />
+    <Compile Include="AppDelegate.cs" />
+    <Compile Include="MainViewController.cs" />
+    <Compile Include="MainViewController.designer.cs">
+      <DependentUpon>MainViewController.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FlipsideViewController.cs" />
+    <Compile Include="FlipsideViewController.designer.cs">
+      <DependentUpon>FlipsideViewController.cs</DependentUpon>
+    </Compile>
+    <Compile Include="MenuScreen.cs" />
+    <Compile Include="MenuScreen.designer.cs">
+      <DependentUpon>MenuScreen.cs</DependentUpon>
+    </Compile>
+    <Compile Include="SettingsScreen.cs" />
+    <Compile Include="SettingsScreen.designer.cs">
+      <DependentUpon>SettingsScreen.cs</DependentUpon>
+    </Compile>
+    <Compile Include="TripSummaryScreen.cs" />
+    <Compile Include="TripSummaryScreen.designer.cs">
+      <DependentUpon>TripSummaryScreen.cs</DependentUpon>
+    </Compile>
+    <Compile Include="MenuScreenTiles.cs" />
+    <Compile Include="MenuScreenTiles.designer.cs">
+      <DependentUpon>MenuScreenTiles.cs</DependentUpon>
+    </Compile>
+    <Compile Include="AchievementsScreen.cs" />
+    <Compile Include="AchievementsScreen.designer.cs">
+      <DependentUpon>AchievementsScreen.cs</DependentUpon>
+    </Compile>
+    <Compile Include="TripLogScreen.cs" />
+    <Compile Include="TripLogScreen.designer.cs">
+      <DependentUpon>TripLogScreen.cs</DependentUpon>
+    </Compile>
+    <Compile Include="StatsScreen.cs" />
+    <Compile Include="StatsScreen.designer.cs">
+      <DependentUpon>StatsScreen.cs</DependentUpon>
+    </Compile>
+    <Compile Include="GoogleMapScreen.cs" />
+    <Compile Include="GoogleMapScreen.designer.cs">
+      <DependentUpon>GoogleMapScreen.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Helper Classes\Trip.cs" />
+    <Compile Include="Helper Classes\TableSource.cs" />
+    <Compile Include="Helper Classes\RawGPS.cs" />
+    <Compile Include="Helper Classes\SDMFileManager.cs" />
+    <Compile Include="Helper Classes\GoogleMapsDirectionService.cs" />
+    <Compile Include="StopScreen.cs" />
+    <Compile Include="StopScreen.designer.cs">
+      <DependentUpon>StopScreen.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Helper Classes\Event.cs" />
+    <Compile Include="Helper Classes\User.cs" />
+    <Compile Include="LoadingOverlay.cs" />
+    <Compile Include="Helper Classes\AchievementsCalculator.cs" />
+    <Compile Include="Helper Classes\Achievement.cs" />
+    <Compile Include="Helper Classes\AchievementData.cs" />
+    <Compile Include="Helper Classes\AmazonWebServices.cs" />
+    <Compile Include="shareButton.cs" />
+    <Compile Include="shareButton.designer.cs">
+      <DependentUpon>shareButton.cs</DependentUpon>
+    </Compile>
+    <Compile Include="TripLogDetailScreen.cs" />
+    <Compile Include="TripLogDetailScreen.designer.cs">
+      <DependentUpon>TripLogDetailScreen.cs</DependentUpon>
+    </Compile>
+    <Compile Include="TripLogMapScreen.cs" />
+    <Compile Include="TripLogMapScreen.designer.cs">
+      <DependentUpon>TripLogMapScreen.cs</DependentUpon>
+    </Compile>
+    <Compile Include="MainNavigationController.cs" />
+    <Compile Include="MainNavigationController.designer.cs">
+      <DependentUpon>MainNavigationController.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Information.cs" />
+    <Compile Include="Information.designer.cs">
+      <DependentUpon>Information.cs</DependentUpon>
+    </Compile>
+  </ItemGroup>
+  <Import Project="$(MSBuildBinPath)\Microsoft.CSharp.targets" />
+  <ItemGroup>
+    <XamarinComponentReference Include="googlemapsios">
+      <InstallationInProgress>False</InstallationInProgress>
+      <Version>1.3.1.1</Version>
+      <Visible>False</Visible>
+    </XamarinComponentReference>
+  </ItemGroup>
+  <ItemGroup>
+    <BundleResource Include="Resources\Default-568h%402x.png" />
+    <BundleResource Include="Resources\Default%402x.png" />
+    <BundleResource Include="Resources\Default.png" />
+    <BundleResource Include="Resources\trophy2.png" />
+    <BundleResource Include="Resources\StatsPicture.jpg" />
+    <BundleResource Include="Resources\Safe-driving-mate-app-splash-screen copy 2.png" />
+    <BundleResource Include="Resources\Safe-driving-mate-app-splash-screen copy.png" />
+    <BundleResource Include="Resources\StartFinalHighlighted.png" />
+    <BundleResource Include="Resources\StartFinalDefault.png" />
+    <BundleResource Include="Resources\finalstop1.png" />
+    <BundleResource Include="Resources\finalstop.png" />
+    <BundleResource Include="Resources\achivementButton.png" />
+    <BundleResource Include="Resources\takeTripButton.png" />
+    <BundleResource Include="Resources\settingsButton.png" />
+    <BundleResource Include="Resources\smallYellow.png" />
+    <BundleResource Include="Resources\tallOrangeButton.png" />
+    <BundleResource Include="Resources\RoadWithoutLIne.jpeg" />
+    <BundleResource Include="Resources\RoadWithLine%28Final%29.jpeg" />
+    <BundleResource Include="Info.plist" />
+    <BundleResource Include="Resources\share-button-facebook.png" />
+    <BundleResource Include="Sounds\Car_Crash.aif" />
+    <BundleResource Include="Sounds\Start.aiff" />
+    <BundleResource Include="Sounds\Achievements.aiff" />
+    <BundleResource Include="Sounds\Done.aiff" />
+    <BundleResource Include="Sounds\Info.aiff" />
+    <BundleResource Include="Sounds\Map.aiff" />
+    <BundleResource Include="Sounds\Pop.aiff" />
+    <BundleResource Include="Sounds\Settings.aiff" />
+    <BundleResource Include="Sounds\Share.aiff" />
+    <BundleResource Include="Sounds\Stats.aiff" />
+    <BundleResource Include="Sounds\Stop!.aiff" />
+    <BundleResource Include="Sounds\Water.aiff" />
+    <BundleResource Include="Sounds\Menu.aiff" />
+    <BundleResource Include="Sounds\TakeTrip.aiff" />
+    <BundleResource Include="Sounds\TripLog.aiff" />
+    <BundleResource Include="Sounds\HardStart.aiff" />
+    <BundleResource Include="Sounds\HardStop.aiff" />
+    <BundleResource Include="Sounds\HardTurn.aiff" />
+    <BundleResource Include="Sounds\Chick.aiff" />
+    <BundleResource Include="Sounds\Click.aiff" />
+    <BundleResource Include="Sounds\KeyboardClick.aiff" />
+    <BundleResource Include="Sounds\POP!.aiff" />
+    <BundleResource Include="Sounds\PowerWrench.aiff" />
+    <BundleResource Include="Sounds\Screech.aiff" />
+    <BundleResource Include="Resources\BadgesOff.png" />
+    <BundleResource Include="Resources\BadgesOn.png" />
+    <BundleResource Include="Resources\InfoOff.png" />
+    <BundleResource Include="Resources\InfoOn.png" />
+    <BundleResource Include="Resources\LogOff.png" />
+    <BundleResource Include="Resources\LogOn.png" />
+    <BundleResource Include="Resources\TripOff.png" />
+    <BundleResource Include="Resources\TripOn.png" />
+    <BundleResource Include="Resources\BadgesNotifications.png" />
+    <BundleResource Include="Resources\AllStarLocked.png" />
+    <BundleResource Include="Resources\CatieLocked.png" />
+    <BundleResource Include="Resources\CommuterLocked.png" />
+    <BundleResource Include="Resources\CrikeyLocked.png" />
+    <BundleResource Include="Resources\FlyerLocked.png" />
+    <BundleResource Include="Resources\GrannyLocked.png" />
+    <BundleResource Include="Resources\GrannyStyleLocked.png" />
+    <BundleResource Include="Resources\KangarooLocked.png" />
+    <BundleResource Include="Resources\OperatorLocked.png" />
+    <BundleResource Include="Resources\PedalerLocked.png" />
+    <BundleResource Include="Resources\PeteLocked.png" />
+    <BundleResource Include="Resources\PretenderLocked.png" />
+    <BundleResource Include="Resources\ProLocked.png" />
+    <BundleResource Include="Resources\RookieLocked.png" />
+    <BundleResource Include="Resources\ShooterLocked.png" />
+    <BundleResource Include="Resources\ShowBoatLocked.png" />
+    <BundleResource Include="Resources\SuperLocked.png" />
+    <BundleResource Include="Resources\TakeTenLocked.png" />
+    <BundleResource Include="Resources\TrainingLocked.png" />
+    <BundleResource Include="Resources\TurnerLocked.png" />
+    <BundleResource Include="Resources\VetLocked.png" />
+    <BundleResource Include="Resources\WarriorLocked.png" />
+    <BundleResource Include="Resources\XCountryLocked.png" />
+    <BundleResource Include="Resources\Win.png" />
+    <BundleResource Include="Resources\mapIcon.png" />
+    <BundleResource Include="Resources\facebookIcon.png" />
+    <BundleResource Include="Resources\FB-f-Logo__blue_100.png" />
+    <BundleResource Include="Resources\MapButton.png" />
+    <BundleResource Include="Resources\ACHIEVEMENTS-01.png" />
+    <BundleResource Include="Resources\ACHIEVEMENTS-02.png" />
+    <BundleResource Include="Resources\ACHIEVEMENTS-03.png" />
+    <BundleResource Include="Resources\ACHIEVEMENTS-04.png" />
+    <BundleResource Include="Resources\ACHIEVEMENTS-05.png" />
+    <BundleResource Include="Resources\ACHIEVEMENTS-08.png" />
+    <BundleResource Include="Resources\ACHIEVEMENTS-09.png" />
+    <BundleResource Include="Resources\ACHIEVEMENTS-10.png" />
+    <BundleResource Include="Resources\ACHIEVEMENTS-11.png" />
+    <BundleResource Include="Resources\ACHIEVEMENTS-12.png" />
+    <BundleResource Include="Resources\ACHIEVEMENTS-13.png" />
+    <BundleResource Include="Resources\ACHIEVEMENTS-14.png" />
+    <BundleResource Include="Resources\ACHIEVEMENTS-15.png" />
+    <BundleResource Include="Resources\ACHIEVEMENTS-16.png" />
+    <BundleResource Include="Resources\ACHIEVEMENTS-17.png" />
+    <BundleResource Include="Resources\ACHIEVEMENTS-18.png" />
+    <BundleResource Include="Resources\ACHIEVEMENTS-19.png" />
+    <BundleResource Include="Resources\ACHIEVEMENTS-20.png" />
+    <BundleResource Include="Resources\ACHIEVEMENTS-21.png" />
+    <BundleResource Include="Resources\ACHIEVEMENTS-22.png" />
+    <BundleResource Include="Resources\ACHIEVEMENTS-24.png" />
+    <BundleResource Include="Resources\START.png" />
+    <BundleResource Include="Resources\STOP.png" />
+    <BundleResource Include="Resources\ACHIEVEMENTS-23.png" />
+    <BundleResource Include="Resources\Icon%402x.png" />
+    <BundleResource Include="Resources\Icon.png" />
+    <BundleResource Include="Resources\ACHIEVEMENTS-28.png" />
+    <BundleResource Include="Resources\MAP-28.png" />
+    <BundleResource Include="Resources\LOGO-30.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <InterfaceDefinition Include="MainStoryboard.storyboard" />
+  </ItemGroup>
+</Project>

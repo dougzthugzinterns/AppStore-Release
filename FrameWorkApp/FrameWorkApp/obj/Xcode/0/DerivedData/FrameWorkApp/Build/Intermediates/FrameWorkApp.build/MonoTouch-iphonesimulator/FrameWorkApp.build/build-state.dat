@@ -1,0 +1,1283 @@
+TFrameWorkApp
+v5
+r1
+cCheck dependencies
+cCompileC DerivedData/FrameWorkApp/Build/Intermediates/FrameWorkApp.build/MonoTouch-iphonesimulator/FrameWorkApp.build/Objects-normal/i386/AppDelegate-B3021CB824BE24ED.o "/Users/David/Desktop/Suncorp/Repositories/Release 2/FrameWorkApp/FrameWorkApp/obj/Xcode/0/AppDelegate.m" normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC DerivedData/FrameWorkApp/Build/Intermediates/FrameWorkApp.build/MonoTouch-iphonesimulator/FrameWorkApp.build/Objects-normal/i386/MainViewController-4070BA7EF6532EB.o "/Users/David/Desktop/Suncorp/Repositories/Release 2/FrameWorkApp/FrameWorkApp/obj/Xcode/0/MainViewController.m" normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC DerivedData/FrameWorkApp/Build/Intermediates/FrameWorkApp.build/MonoTouch-iphonesimulator/FrameWorkApp.build/Objects-normal/i386/FlipsideViewController-A37DDE9631A48DD4.o "/Users/David/Desktop/Suncorp/Repositories/Release 2/FrameWorkApp/FrameWorkApp/obj/Xcode/0/FlipsideViewController.m" normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC DerivedData/FrameWorkApp/Build/Intermediates/FrameWorkApp.build/MonoTouch-iphonesimulator/FrameWorkApp.build/Objects-normal/i386/MenuScreen-AD6585BA969F41DA.o "/Users/David/Desktop/Suncorp/Repositories/Release 2/FrameWorkApp/FrameWorkApp/obj/Xcode/0/MenuScreen.m" normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC DerivedData/FrameWorkApp/Build/Intermediates/FrameWorkApp.build/MonoTouch-iphonesimulator/FrameWorkApp.build/Objects-normal/i386/SettingsScreen-DEEB5E81631013E0.o "/Users/David/Desktop/Suncorp/Repositories/Release 2/FrameWorkApp/FrameWorkApp/obj/Xcode/0/SettingsScreen.m" normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC DerivedData/FrameWorkApp/Build/Intermediates/FrameWorkApp.build/MonoTouch-iphonesimulator/FrameWorkApp.build/Objects-normal/i386/TripSummaryScreen-9C1F2EA6F570C3F4.o "/Users/David/Desktop/Suncorp/Repositories/Release 2/FrameWorkApp/FrameWorkApp/obj/Xcode/0/TripSummaryScreen.m" normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC DerivedData/FrameWorkApp/Build/Intermediates/FrameWorkApp.build/MonoTouch-iphonesimulator/FrameWorkApp.build/Objects-normal/i386/MenuScreenTiles-1FAAF4485497F5CA.o "/Users/David/Desktop/Suncorp/Repositories/Release 2/FrameWorkApp/FrameWorkApp/obj/Xcode/0/MenuScreenTiles.m" normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC DerivedData/FrameWorkApp/Build/Intermediates/FrameWorkApp.build/MonoTouch-iphonesimulator/FrameWorkApp.build/Objects-normal/i386/AchievementsScreen-84B13DEBF8FBAFDF.o "/Users/David/Desktop/Suncorp/Repositories/Release 2/FrameWorkApp/FrameWorkApp/obj/Xcode/0/AchievementsScreen.m" normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC DerivedData/FrameWorkApp/Build/Intermediates/FrameWorkApp.build/MonoTouch-iphonesimulator/FrameWorkApp.build/Objects-normal/i386/TripLogScreen-B8B843A0EABDDFD6.o "/Users/David/Desktop/Suncorp/Repositories/Release 2/FrameWorkApp/FrameWorkApp/obj/Xcode/0/TripLogScreen.m" normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC DerivedData/FrameWorkApp/Build/Intermediates/FrameWorkApp.build/MonoTouch-iphonesimulator/FrameWorkApp.build/Objects-normal/i386/GoogleMapScreen-C5CFD75E14D1BAD3.o "/Users/David/Desktop/Suncorp/Repositories/Release 2/FrameWorkApp/FrameWorkApp/obj/Xcode/0/GoogleMapScreen.m" normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC DerivedData/FrameWorkApp/Build/Intermediates/FrameWorkApp.build/MonoTouch-iphonesimulator/FrameWorkApp.build/Objects-normal/i386/StatsScreen-A0343C9813BFEBEA.o "/Users/David/Desktop/Suncorp/Repositories/Release 2/FrameWorkApp/FrameWorkApp/obj/Xcode/0/StatsScreen.m" normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC DerivedData/FrameWorkApp/Build/Intermediates/FrameWorkApp.build/MonoTouch-iphonesimulator/FrameWorkApp.build/Objects-normal/i386/StopScreen-4992B6AABAF9FAD9.o "/Users/David/Desktop/Suncorp/Repositories/Release 2/FrameWorkApp/FrameWorkApp/obj/Xcode/0/StopScreen.m" normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC DerivedData/FrameWorkApp/Build/Intermediates/FrameWorkApp.build/MonoTouch-iphonesimulator/FrameWorkApp.build/Objects-normal/i386/shareButton-13D5749463D40DF.o "/Users/David/Desktop/Suncorp/Repositories/Release 2/FrameWorkApp/FrameWorkApp/obj/Xcode/0/shareButton.m" normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC DerivedData/FrameWorkApp/Build/Intermediates/FrameWorkApp.build/MonoTouch-iphonesimulator/FrameWorkApp.build/Objects-normal/i386/TripLogDetailScreen-AB36C5DA1D3AF8DD.o "/Users/David/Desktop/Suncorp/Repositories/Release 2/FrameWorkApp/FrameWorkApp/obj/Xcode/0/TripLogDetailScreen.m" normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC DerivedData/FrameWorkApp/Build/Intermediates/FrameWorkApp.build/MonoTouch-iphonesimulator/FrameWorkApp.build/Objects-normal/i386/TripLogMapScreen-C4C97C17D202C7F2.o "/Users/David/Desktop/Suncorp/Repositories/Release 2/FrameWorkApp/FrameWorkApp/obj/Xcode/0/TripLogMapScreen.m" normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC DerivedData/FrameWorkApp/Build/Intermediates/FrameWorkApp.build/MonoTouch-iphonesimulator/FrameWorkApp.build/Objects-normal/i386/MainNavigationController-3D8800E8335A67CF.o "/Users/David/Desktop/Suncorp/Repositories/Release 2/FrameWorkApp/FrameWorkApp/obj/Xcode/0/MainNavigationController.m" normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator6.1.sdk
+c0000000051C234B40000000000000110
+t1371681972
+s272
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator6.1.sdk/System/Library/Frameworks/CoreGraphics.framework/CoreGraphics
+c000000005159F48F0000000000228FE0
+t1364849807
+s2265056
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator6.1.sdk/System/Library/Frameworks/Foundation.framework/Foundation
+c000000005159F49200000000003DDFA0
+t1364849810
+s4054944
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator6.1.sdk/System/Library/Frameworks/MapKit.framework/MapKit
+c000000005159F49400000000000F9CF0
+t1364849812
+s1023216
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator6.1.sdk/System/Library/Frameworks/UIKit.framework/UIKit
+c000000005159F4980000000000AB6230
+t1364849816
+s11231792
+
+N/Users/David/Desktop/Suncorp/Repositories/Release 2/FrameWorkApp/FrameWorkApp/obj/Xcode/0/ACHIEVEMENTS-01.png
+c0000000052029BF300000000000195F4
+t1375902707
+s103924
+
+N/Users/David/Desktop/Suncorp/Repositories/Release 2/FrameWorkApp/FrameWorkApp/obj/Xcode/0/ACHIEVEMENTS-02.png
+c0000000052029BF30000000000026E28
+t1375902707
+s159272
+
+N/Users/David/Desktop/Suncorp/Repositories/Release 2/FrameWorkApp/FrameWorkApp/obj/Xcode/0/ACHIEVEMENTS-03.png
+c0000000052029BF3000000000002B37C
+t1375902707
+s177020
+
+N/Users/David/Desktop/Suncorp/Repositories/Release 2/FrameWorkApp/FrameWorkApp/obj/Xcode/0/ACHIEVEMENTS-04.png
+c0000000052029BF300000000000212C9
+t1375902707
+s135881
+
+N/Users/David/Desktop/Suncorp/Repositories/Release 2/FrameWorkApp/FrameWorkApp/obj/Xcode/0/ACHIEVEMENTS-05.png
+c0000000052029BF30000000000021F54
+t1375902707
+s139092
+
+N/Users/David/Desktop/Suncorp/Repositories/Release 2/FrameWorkApp/FrameWorkApp/obj/Xcode/0/ACHIEVEMENTS-08.png
+c0000000052029BF30000000000020840
+t1375902707
+s133184
+
+N/Users/David/Desktop/Suncorp/Repositories/Release 2/FrameWorkApp/FrameWorkApp/obj/Xcode/0/ACHIEVEMENTS-09.png
+c0000000052029BF30000000000028BC9
+t1375902707
+s166857
+
+N/Users/David/Desktop/Suncorp/Repositories/Release 2/FrameWorkApp/FrameWorkApp/obj/Xcode/0/ACHIEVEMENTS-10.png
+c0000000052029BF30000000000018CE9
+t1375902707
+s101609
+
+N/Users/David/Desktop/Suncorp/Repositories/Release 2/FrameWorkApp/FrameWorkApp/obj/Xcode/0/ACHIEVEMENTS-11.png
+c0000000052029BF30000000000020976
+t1375902707
+s133494
+
+N/Users/David/Desktop/Suncorp/Repositories/Release 2/FrameWorkApp/FrameWorkApp/obj/Xcode/0/AchievementsScreen.m
+c00000000520297A500000000000008D8
+t1375901605
+s2264
+
+N/Users/David/Desktop/Suncorp/Repositories/Release 2/FrameWorkApp/FrameWorkApp/obj/Xcode/0/AllStarLocked.png
+c0000000052029BF3000000000000450A
+t1375902707
+s17674
+
+N/Users/David/Desktop/Suncorp/Repositories/Release 2/FrameWorkApp/FrameWorkApp/obj/Xcode/0/AppDelegate.m
+c0000000051FFBD900000000000000144
+t1375714704
+s324
+
+N/Users/David/Desktop/Suncorp/Repositories/Release 2/FrameWorkApp/FrameWorkApp/obj/Xcode/0/BadgesNotifications.png
+c0000000052029BF300000000000010EE
+t1375902707
+s4334
+
+N/Users/David/Desktop/Suncorp/Repositories/Release 2/FrameWorkApp/FrameWorkApp/obj/Xcode/0/BadgesOff.png
+c0000000052029BF30000000000001513
+t1375902707
+s5395
+
+N/Users/David/Desktop/Suncorp/Repositories/Release 2/FrameWorkApp/FrameWorkApp/obj/Xcode/0/BadgesOn.png
+c0000000052029BF30000000000001561
+t1375902707
+s5473
+
+N/Users/David/Desktop/Suncorp/Repositories/Release 2/FrameWorkApp/FrameWorkApp/obj/Xcode/0/CatieLocked.png
+c0000000052029BF30000000000003BA9
+t1375902707
+s15273
+
+N/Users/David/Desktop/Suncorp/Repositories/Release 2/FrameWorkApp/FrameWorkApp/obj/Xcode/0/CommuterLocked.png
+c0000000052029BF300000000000040AF
+t1375902707
+s16559
+
+N/Users/David/Desktop/Suncorp/Repositories/Release 2/FrameWorkApp/FrameWorkApp/obj/Xcode/0/CrikeyLocked.png
+c0000000052029BF3000000000000383C
+t1375902707
+s14396
+
+N/Users/David/Desktop/Suncorp/Repositories/Release 2/FrameWorkApp/FrameWorkApp/obj/Xcode/0/Default-568h@2x.png
+c0000000052029BF3000000000006B933
+t1375902707
+s440627
+
+N/Users/David/Desktop/Suncorp/Repositories/Release 2/FrameWorkApp/FrameWorkApp/obj/Xcode/0/Default.png
+c0000000052029BF300000000000283EE
+t1375902707
+s164846
+
+N/Users/David/Desktop/Suncorp/Repositories/Release 2/FrameWorkApp/FrameWorkApp/obj/Xcode/0/Default@2x.png
+c0000000052029BF30000000000084CC2
+t1375902707
+s543938
+
+N/Users/David/Desktop/Suncorp/Repositories/Release 2/FrameWorkApp/FrameWorkApp/obj/Xcode/0/DerivedData/FrameWorkApp/Build/Intermediates/FrameWorkApp.build/MonoTouch-iphonesimulator/FrameWorkApp.build/Objects-normal/i386/AchievementsScreen-84B13DEBF8FBAFDF.o
+t2
+s0
+
+N/Users/David/Desktop/Suncorp/Repositories/Release 2/FrameWorkApp/FrameWorkApp/obj/Xcode/0/DerivedData/FrameWorkApp/Build/Intermediates/FrameWorkApp.build/MonoTouch-iphonesimulator/FrameWorkApp.build/Objects-normal/i386/AppDelegate-B3021CB824BE24ED.o
+t2
+s0
+
+N/Users/David/Desktop/Suncorp/Repositories/Release 2/FrameWorkApp/FrameWorkApp/obj/Xcode/0/DerivedData/FrameWorkApp/Build/Intermediates/FrameWorkApp.build/MonoTouch-iphonesimulator/FrameWorkApp.build/Objects-normal/i386/FlipsideViewController-A37DDE9631A48DD4.o
+t2
+s0
+
+N/Users/David/Desktop/Suncorp/Repositories/Release 2/FrameWorkApp/FrameWorkApp/obj/Xcode/0/DerivedData/FrameWorkApp/Build/Intermediates/FrameWorkApp.build/MonoTouch-iphonesimulator/FrameWorkApp.build/Objects-normal/i386/FrameWorkApp.LinkFileList
+c0000000052029E7F00000000000010DC
+t1375903359
+s4316
+
+N/Users/David/Desktop/Suncorp/Repositories/Release 2/FrameWorkApp/FrameWorkApp/obj/Xcode/0/DerivedData/FrameWorkApp/Build/Intermediates/FrameWorkApp.build/MonoTouch-iphonesimulator/FrameWorkApp.build/Objects-normal/i386/GoogleMapScreen-C5CFD75E14D1BAD3.o
+t2
+s0
+
+N/Users/David/Desktop/Suncorp/Repositories/Release 2/FrameWorkApp/FrameWorkApp/obj/Xcode/0/DerivedData/FrameWorkApp/Build/Intermediates/FrameWorkApp.build/MonoTouch-iphonesimulator/FrameWorkApp.build/Objects-normal/i386/Information-9FB5CFF3F364E8F2.o
+t2
+s0
+
+N/Users/David/Desktop/Suncorp/Repositories/Release 2/FrameWorkApp/FrameWorkApp/obj/Xcode/0/DerivedData/FrameWorkApp/Build/Intermediates/FrameWorkApp.build/MonoTouch-iphonesimulator/FrameWorkApp.build/Objects-normal/i386/MainNavigationController-3D8800E8335A67CF.o
+t2
+s0
+
+N/Users/David/Desktop/Suncorp/Repositories/Release 2/FrameWorkApp/FrameWorkApp/obj/Xcode/0/DerivedData/FrameWorkApp/Build/Intermediates/FrameWorkApp.build/MonoTouch-iphonesimulator/FrameWorkApp.build/Objects-normal/i386/MainViewController-4070BA7EF6532EB.o
+t2
+s0
+
+N/Users/David/Desktop/Suncorp/Repositories/Release 2/FrameWorkApp/FrameWorkApp/obj/Xcode/0/DerivedData/FrameWorkApp/Build/Intermediates/FrameWorkApp.build/MonoTouch-iphonesimulator/FrameWorkApp.build/Objects-normal/i386/MenuScreen-AD6585BA969F41DA.o
+t2
+s0
+
+N/Users/David/Desktop/Suncorp/Repositories/Release 2/FrameWorkApp/FrameWorkApp/obj/Xcode/0/DerivedData/FrameWorkApp/Build/Intermediates/FrameWorkApp.build/MonoTouch-iphonesimulator/FrameWorkApp.build/Objects-normal/i386/MenuScreenTiles-1FAAF4485497F5CA.o
+t2
+s0
+
+N/Users/David/Desktop/Suncorp/Repositories/Release 2/FrameWorkApp/FrameWorkApp/obj/Xcode/0/DerivedData/FrameWorkApp/Build/Intermediates/FrameWorkApp.build/MonoTouch-iphonesimulator/FrameWorkApp.build/Objects-normal/i386/SettingsScreen-DEEB5E81631013E0.o
+t2
+s0
+
+N/Users/David/Desktop/Suncorp/Repositories/Release 2/FrameWorkApp/FrameWorkApp/obj/Xcode/0/DerivedData/FrameWorkApp/Build/Intermediates/FrameWorkApp.build/MonoTouch-iphonesimulator/FrameWorkApp.build/Objects-normal/i386/StatsScreen-A0343C9813BFEBEA.o
+t2
+s0
+
+N/Users/David/Desktop/Suncorp/Repositories/Release 2/FrameWorkApp/FrameWorkApp/obj/Xcode/0/DerivedData/FrameWorkApp/Build/Intermediates/FrameWorkApp.build/MonoTouch-iphonesimulator/FrameWorkApp.build/Objects-normal/i386/StopScreen-4992B6AABAF9FAD9.o
+t2
+s0
+
+N/Users/David/Desktop/Suncorp/Repositories/Release 2/FrameWorkApp/FrameWorkApp/obj/Xcode/0/DerivedData/FrameWorkApp/Build/Intermediates/FrameWorkApp.build/MonoTouch-iphonesimulator/FrameWorkApp.build/Objects-normal/i386/TripLogDetailScreen-AB36C5DA1D3AF8DD.o
+t2
+s0
+
+N/Users/David/Desktop/Suncorp/Repositories/Release 2/FrameWorkApp/FrameWorkApp/obj/Xcode/0/DerivedData/FrameWorkApp/Build/Intermediates/FrameWorkApp.build/MonoTouch-iphonesimulator/FrameWorkApp.build/Objects-normal/i386/TripLogMapScreen-C4C97C17D202C7F2.o
+t2
+s0
+
+N/Users/David/Desktop/Suncorp/Repositories/Release 2/FrameWorkApp/FrameWorkApp/obj/Xcode/0/DerivedData/FrameWorkApp/Build/Intermediates/FrameWorkApp.build/MonoTouch-iphonesimulator/FrameWorkApp.build/Objects-normal/i386/TripLogScreen-B8B843A0EABDDFD6.o
+t2
+s0
+
+N/Users/David/Desktop/Suncorp/Repositories/Release 2/FrameWorkApp/FrameWorkApp/obj/Xcode/0/DerivedData/FrameWorkApp/Build/Intermediates/FrameWorkApp.build/MonoTouch-iphonesimulator/FrameWorkApp.build/Objects-normal/i386/TripSummaryScreen-9C1F2EA6F570C3F4.o
+t2
+s0
+
+N/Users/David/Desktop/Suncorp/Repositories/Release 2/FrameWorkApp/FrameWorkApp/obj/Xcode/0/DerivedData/FrameWorkApp/Build/Intermediates/FrameWorkApp.build/MonoTouch-iphonesimulator/FrameWorkApp.build/Objects-normal/i386/shareButton-13D5749463D40DF.o
+t2
+s0
+
+N/Users/David/Desktop/Suncorp/Repositories/Release 2/FrameWorkApp/FrameWorkApp/obj/Xcode/0/DerivedData/FrameWorkApp/Build/Products/MonoTouch-iphonesimulator/FrameWorkApp.app
+t2
+s0
+
+N/Users/David/Desktop/Suncorp/Repositories/Release 2/FrameWorkApp/FrameWorkApp/obj/Xcode/0/DerivedData/FrameWorkApp/Build/Products/MonoTouch-iphonesimulator/FrameWorkApp.app.dSYM
+t2
+s0
+
+N/Users/David/Desktop/Suncorp/Repositories/Release 2/FrameWorkApp/FrameWorkApp/obj/Xcode/0/DerivedData/FrameWorkApp/Build/Products/MonoTouch-iphonesimulator/FrameWorkApp.app/ACHIEVEMENTS-01.png
+t2
+s0
+
+N/Users/David/Desktop/Suncorp/Repositories/Release 2/FrameWorkApp/FrameWorkApp/obj/Xcode/0/DerivedData/FrameWorkApp/Build/Products/MonoTouch-iphonesimulator/FrameWorkApp.app/ACHIEVEMENTS-02.png
+t2
+s0
+
+N/Users/David/Desktop/Suncorp/Repositories/Release 2/FrameWorkApp/FrameWorkApp/obj/Xcode/0/DerivedData/FrameWorkApp/Build/Products/MonoTouch-iphonesimulator/FrameWorkApp.app/ACHIEVEMENTS-03.png
+t2
+s0
+
+N/Users/David/Desktop/Suncorp/Repositories/Release 2/FrameWorkApp/FrameWorkApp/obj/Xcode/0/DerivedData/FrameWorkApp/Build/Products/MonoTouch-iphonesimulator/FrameWorkApp.app/ACHIEVEMENTS-04.png
+t2
+s0
+
+N/Users/David/Desktop/Suncorp/Repositories/Release 2/FrameWorkApp/FrameWorkApp/obj/Xcode/0/DerivedData/FrameWorkApp/Build/Products/MonoTouch-iphonesimulator/FrameWorkApp.app/ACHIEVEMENTS-05.png
+t2
+s0
+
+N/Users/David/Desktop/Suncorp/Repositories/Release 2/FrameWorkApp/FrameWorkApp/obj/Xcode/0/DerivedData/FrameWorkApp/Build/Products/MonoTouch-iphonesimulator/FrameWorkApp.app/ACHIEVEMENTS-08.png
+t2
+s0
+
+N/Users/David/Desktop/Suncorp/Repositories/Release 2/FrameWorkApp/FrameWorkApp/obj/Xcode/0/DerivedData/FrameWorkApp/Build/Products/MonoTouch-iphonesimulator/FrameWorkApp.app/ACHIEVEMENTS-09.png
+t2
+s0
+
+N/Users/David/Desktop/Suncorp/Repositories/Release 2/FrameWorkApp/FrameWorkApp/obj/Xcode/0/DerivedData/FrameWorkApp/Build/Products/MonoTouch-iphonesimulator/FrameWorkApp.app/ACHIEVEMENTS-10.png
+t2
+s0
+
+N/Users/David/Desktop/Suncorp/Repositories/Release 2/FrameWorkApp/FrameWorkApp/obj/Xcode/0/DerivedData/FrameWorkApp/Build/Products/MonoTouch-iphonesimulator/FrameWorkApp.app/ACHIEVEMENTS-11.png
+t2
+s0
+
+N/Users/David/Desktop/Suncorp/Repositories/Release 2/FrameWorkApp/FrameWorkApp/obj/Xcode/0/DerivedData/FrameWorkApp/Build/Products/MonoTouch-iphonesimulator/FrameWorkApp.app/AllStarLocked.png
+t2
+s0
+
+N/Users/David/Desktop/Suncorp/Repositories/Release 2/FrameWorkApp/FrameWorkApp/obj/Xcode/0/DerivedData/FrameWorkApp/Build/Products/MonoTouch-iphonesimulator/FrameWorkApp.app/BadgesNotifications.png
+t2
+s0
+
+N/Users/David/Desktop/Suncorp/Repositories/Release 2/FrameWorkApp/FrameWorkApp/obj/Xcode/0/DerivedData/FrameWorkApp/Build/Products/MonoTouch-iphonesimulator/FrameWorkApp.app/BadgesOff.png
+t2
+s0
+
+N/Users/David/Desktop/Suncorp/Repositories/Release 2/FrameWorkApp/FrameWorkApp/obj/Xcode/0/DerivedData/FrameWorkApp/Build/Products/MonoTouch-iphonesimulator/FrameWorkApp.app/BadgesOn.png
+t2
+s0
+
+N/Users/David/Desktop/Suncorp/Repositories/Release 2/FrameWorkApp/FrameWorkApp/obj/Xcode/0/DerivedData/FrameWorkApp/Build/Products/MonoTouch-iphonesimulator/FrameWorkApp.app/CatieLocked.png
+t2
+s0
+
+N/Users/David/Desktop/Suncorp/Repositories/Release 2/FrameWorkApp/FrameWorkApp/obj/Xcode/0/DerivedData/FrameWorkApp/Build/Products/MonoTouch-iphonesimulator/FrameWorkApp.app/CommuterLocked.png
+t2
+s0
+
+N/Users/David/Desktop/Suncorp/Repositories/Release 2/FrameWorkApp/FrameWorkApp/obj/Xcode/0/DerivedData/FrameWorkApp/Build/Products/MonoTouch-iphonesimulator/FrameWorkApp.app/CrikeyLocked.png
+t2
+s0
+
+N/Users/David/Desktop/Suncorp/Repositories/Release 2/FrameWorkApp/FrameWorkApp/obj/Xcode/0/DerivedData/FrameWorkApp/Build/Products/MonoTouch-iphonesimulator/FrameWorkApp.app/Default-568h@2x.png
+t2
+s0
+
+N/Users/David/Desktop/Suncorp/Repositories/Release 2/FrameWorkApp/FrameWorkApp/obj/Xcode/0/DerivedData/FrameWorkApp/Build/Products/MonoTouch-iphonesimulator/FrameWorkApp.app/Default.png
+t2
+s0
+
+N/Users/David/Desktop/Suncorp/Repositories/Release 2/FrameWorkApp/FrameWorkApp/obj/Xcode/0/DerivedData/FrameWorkApp/Build/Products/MonoTouch-iphonesimulator/FrameWorkApp.app/Default@2x.png
+t2
+s0
+
+N/Users/David/Desktop/Suncorp/Repositories/Release 2/FrameWorkApp/FrameWorkApp/obj/Xcode/0/DerivedData/FrameWorkApp/Build/Products/MonoTouch-iphonesimulator/FrameWorkApp.app/FlyerLocked.png
+t2
+s0
+
+N/Users/David/Desktop/Suncorp/Repositories/Release 2/FrameWorkApp/FrameWorkApp/obj/Xcode/0/DerivedData/FrameWorkApp/Build/Products/MonoTouch-iphonesimulator/FrameWorkApp.app/FrameWorkApp
+t2
+s0
+
+N/Users/David/Desktop/Suncorp/Repositories/Release 2/FrameWorkApp/FrameWorkApp/obj/Xcode/0/DerivedData/FrameWorkApp/Build/Products/MonoTouch-iphonesimulator/FrameWorkApp.app/GrannyLocked.png
+t2
+s0
+
+N/Users/David/Desktop/Suncorp/Repositories/Release 2/FrameWorkApp/FrameWorkApp/obj/Xcode/0/DerivedData/FrameWorkApp/Build/Products/MonoTouch-iphonesimulator/FrameWorkApp.app/GrannyStyleLocked.png
+t2
+s0
+
+N/Users/David/Desktop/Suncorp/Repositories/Release 2/FrameWorkApp/FrameWorkApp/obj/Xcode/0/DerivedData/FrameWorkApp/Build/Products/MonoTouch-iphonesimulator/FrameWorkApp.app/Info.plist
+t2
+s0
+
+N/Users/David/Desktop/Suncorp/Repositories/Release 2/FrameWorkApp/FrameWorkApp/obj/Xcode/0/DerivedData/FrameWorkApp/Build/Products/MonoTouch-iphonesimulator/FrameWorkApp.app/InfoOff.png
+t2
+s0
+
+N/Users/David/Desktop/Suncorp/Repositories/Release 2/FrameWorkApp/FrameWorkApp/obj/Xcode/0/DerivedData/FrameWorkApp/Build/Products/MonoTouch-iphonesimulator/FrameWorkApp.app/InfoOn.png
+t2
+s0
+
+N/Users/David/Desktop/Suncorp/Repositories/Release 2/FrameWorkApp/FrameWorkApp/obj/Xcode/0/DerivedData/FrameWorkApp/Build/Products/MonoTouch-iphonesimulator/FrameWorkApp.app/KangarooLocked.png
+t2
+s0
+
+N/Users/David/Desktop/Suncorp/Repositories/Release 2/FrameWorkApp/FrameWorkApp/obj/Xcode/0/DerivedData/FrameWorkApp/Build/Products/MonoTouch-iphonesimulator/FrameWorkApp.app/LogOff.png
+t2
+s0
+
+N/Users/David/Desktop/Suncorp/Repositories/Release 2/FrameWorkApp/FrameWorkApp/obj/Xcode/0/DerivedData/FrameWorkApp/Build/Products/MonoTouch-iphonesimulator/FrameWorkApp.app/LogOn.png
+t2
+s0
+
+N/Users/David/Desktop/Suncorp/Repositories/Release 2/FrameWorkApp/FrameWorkApp/obj/Xcode/0/DerivedData/FrameWorkApp/Build/Products/MonoTouch-iphonesimulator/FrameWorkApp.app/MainStoryboard.storyboardc
+t2
+s0
+
+N/Users/David/Desktop/Suncorp/Repositories/Release 2/FrameWorkApp/FrameWorkApp/obj/Xcode/0/DerivedData/FrameWorkApp/Build/Products/MonoTouch-iphonesimulator/FrameWorkApp.app/OperatorLocked.png
+t2
+s0
+
+N/Users/David/Desktop/Suncorp/Repositories/Release 2/FrameWorkApp/FrameWorkApp/obj/Xcode/0/DerivedData/FrameWorkApp/Build/Products/MonoTouch-iphonesimulator/FrameWorkApp.app/PedalerLocked.png
+t2
+s0
+
+N/Users/David/Desktop/Suncorp/Repositories/Release 2/FrameWorkApp/FrameWorkApp/obj/Xcode/0/DerivedData/FrameWorkApp/Build/Products/MonoTouch-iphonesimulator/FrameWorkApp.app/PeteLocked.png
+t2
+s0
+
+N/Users/David/Desktop/Suncorp/Repositories/Release 2/FrameWorkApp/FrameWorkApp/obj/Xcode/0/DerivedData/FrameWorkApp/Build/Products/MonoTouch-iphonesimulator/FrameWorkApp.app/PretenderLocked.png
+t2
+s0
+
+N/Users/David/Desktop/Suncorp/Repositories/Release 2/FrameWorkApp/FrameWorkApp/obj/Xcode/0/DerivedData/FrameWorkApp/Build/Products/MonoTouch-iphonesimulator/FrameWorkApp.app/ProLocked.png
+t2
+s0
+
+N/Users/David/Desktop/Suncorp/Repositories/Release 2/FrameWorkApp/FrameWorkApp/obj/Xcode/0/DerivedData/FrameWorkApp/Build/Products/MonoTouch-iphonesimulator/FrameWorkApp.app/RoadWithLine(Final).jpeg
+t2
+s0
+
+N/Users/David/Desktop/Suncorp/Repositories/Release 2/FrameWorkApp/FrameWorkApp/obj/Xcode/0/DerivedData/FrameWorkApp/Build/Products/MonoTouch-iphonesimulator/FrameWorkApp.app/RoadWithoutLIne.jpeg
+t2
+s0
+
+N/Users/David/Desktop/Suncorp/Repositories/Release 2/FrameWorkApp/FrameWorkApp/obj/Xcode/0/DerivedData/FrameWorkApp/Build/Products/MonoTouch-iphonesimulator/FrameWorkApp.app/RookieLocked.png
+t2
+s0
+
+N/Users/David/Desktop/Suncorp/Repositories/Release 2/FrameWorkApp/FrameWorkApp/obj/Xcode/0/DerivedData/FrameWorkApp/Build/Products/MonoTouch-iphonesimulator/FrameWorkApp.app/Safe-driving-mate-app-splash-screen copy 2.png
+t2
+s0
+
+N/Users/David/Desktop/Suncorp/Repositories/Release 2/FrameWorkApp/FrameWorkApp/obj/Xcode/0/DerivedData/FrameWorkApp/Build/Products/MonoTouch-iphonesimulator/FrameWorkApp.app/Safe-driving-mate-app-splash-screen copy.png
+t2
+s0
+
+N/Users/David/Desktop/Suncorp/Repositories/Release 2/FrameWorkApp/FrameWorkApp/obj/Xcode/0/DerivedData/FrameWorkApp/Build/Products/MonoTouch-iphonesimulator/FrameWorkApp.app/ShooterLocked.png
+t2
+s0
+
+N/Users/David/Desktop/Suncorp/Repositories/Release 2/FrameWorkApp/FrameWorkApp/obj/Xcode/0/DerivedData/FrameWorkApp/Build/Products/MonoTouch-iphonesimulator/FrameWorkApp.app/ShowBoatLocked.png
+t2
+s0
+
+N/Users/David/Desktop/Suncorp/Repositories/Release 2/FrameWorkApp/FrameWorkApp/obj/Xcode/0/DerivedData/FrameWorkApp/Build/Products/MonoTouch-iphonesimulator/FrameWorkApp.app/StartFinalDefault.png
+t2
+s0
+
+N/Users/David/Desktop/Suncorp/Repositories/Release 2/FrameWorkApp/FrameWorkApp/obj/Xcode/0/DerivedData/FrameWorkApp/Build/Products/MonoTouch-iphonesimulator/FrameWorkApp.app/StartFinalHighlighted.png
+t2
+s0
+
+N/Users/David/Desktop/Suncorp/Repositories/Release 2/FrameWorkApp/FrameWorkApp/obj/Xcode/0/DerivedData/FrameWorkApp/Build/Products/MonoTouch-iphonesimulator/FrameWorkApp.app/StatsPicture.jpg
+t2
+s0
+
+N/Users/David/Desktop/Suncorp/Repositories/Release 2/FrameWorkApp/FrameWorkApp/obj/Xcode/0/DerivedData/FrameWorkApp/Build/Products/MonoTouch-iphonesimulator/FrameWorkApp.app/SuperLocked.png
+t2
+s0
+
+N/Users/David/Desktop/Suncorp/Repositories/Release 2/FrameWorkApp/FrameWorkApp/obj/Xcode/0/DerivedData/FrameWorkApp/Build/Products/MonoTouch-iphonesimulator/FrameWorkApp.app/TakeTenLocked.png
+t2
+s0
+
+N/Users/David/Desktop/Suncorp/Repositories/Release 2/FrameWorkApp/FrameWorkApp/obj/Xcode/0/DerivedData/FrameWorkApp/Build/Products/MonoTouch-iphonesimulator/FrameWorkApp.app/TrainingLocked.png
+t2
+s0
+
+N/Users/David/Desktop/Suncorp/Repositories/Release 2/FrameWorkApp/FrameWorkApp/obj/Xcode/0/DerivedData/FrameWorkApp/Build/Products/MonoTouch-iphonesimulator/FrameWorkApp.app/TripOff.png
+t2
+s0
+
+N/Users/David/Desktop/Suncorp/Repositories/Release 2/FrameWorkApp/FrameWorkApp/obj/Xcode/0/DerivedData/FrameWorkApp/Build/Products/MonoTouch-iphonesimulator/FrameWorkApp.app/TripOn.png
+t2
+s0
+
+N/Users/David/Desktop/Suncorp/Repositories/Release 2/FrameWorkApp/FrameWorkApp/obj/Xcode/0/DerivedData/FrameWorkApp/Build/Products/MonoTouch-iphonesimulator/FrameWorkApp.app/TurnerLocked.png
+t2
+s0
+
+N/Users/David/Desktop/Suncorp/Repositories/Release 2/FrameWorkApp/FrameWorkApp/obj/Xcode/0/DerivedData/FrameWorkApp/Build/Products/MonoTouch-iphonesimulator/FrameWorkApp.app/VetLocked.png
+t2
+s0
+
+N/Users/David/Desktop/Suncorp/Repositories/Release 2/FrameWorkApp/FrameWorkApp/obj/Xcode/0/DerivedData/FrameWorkApp/Build/Products/MonoTouch-iphonesimulator/FrameWorkApp.app/WarriorLocked.png
+t2
+s0
+
+N/Users/David/Desktop/Suncorp/Repositories/Release 2/FrameWorkApp/FrameWorkApp/obj/Xcode/0/DerivedData/FrameWorkApp/Build/Products/MonoTouch-iphonesimulator/FrameWorkApp.app/Win.png
+t2
+s0
+
+N/Users/David/Desktop/Suncorp/Repositories/Release 2/FrameWorkApp/FrameWorkApp/obj/Xcode/0/DerivedData/FrameWorkApp/Build/Products/MonoTouch-iphonesimulator/FrameWorkApp.app/XCountryLocked.png
+t2
+s0
+
+N/Users/David/Desktop/Suncorp/Repositories/Release 2/FrameWorkApp/FrameWorkApp/obj/Xcode/0/DerivedData/FrameWorkApp/Build/Products/MonoTouch-iphonesimulator/FrameWorkApp.app/achivementButton.png
+t2
+s0
+
+N/Users/David/Desktop/Suncorp/Repositories/Release 2/FrameWorkApp/FrameWorkApp/obj/Xcode/0/DerivedData/FrameWorkApp/Build/Products/MonoTouch-iphonesimulator/FrameWorkApp.app/finalstop.png
+t2
+s0
+
+N/Users/David/Desktop/Suncorp/Repositories/Release 2/FrameWorkApp/FrameWorkApp/obj/Xcode/0/DerivedData/FrameWorkApp/Build/Products/MonoTouch-iphonesimulator/FrameWorkApp.app/finalstop1.png
+t2
+s0
+
+N/Users/David/Desktop/Suncorp/Repositories/Release 2/FrameWorkApp/FrameWorkApp/obj/Xcode/0/DerivedData/FrameWorkApp/Build/Products/MonoTouch-iphonesimulator/FrameWorkApp.app/settingsButton.png
+t2
+s0
+
+N/Users/David/Desktop/Suncorp/Repositories/Release 2/FrameWorkApp/FrameWorkApp/obj/Xcode/0/DerivedData/FrameWorkApp/Build/Products/MonoTouch-iphonesimulator/FrameWorkApp.app/share-button-facebook.png
+t2
+s0
+
+N/Users/David/Desktop/Suncorp/Repositories/Release 2/FrameWorkApp/FrameWorkApp/obj/Xcode/0/DerivedData/FrameWorkApp/Build/Products/MonoTouch-iphonesimulator/FrameWorkApp.app/smallYellow.png
+t2
+s0
+
+N/Users/David/Desktop/Suncorp/Repositories/Release 2/FrameWorkApp/FrameWorkApp/obj/Xcode/0/DerivedData/FrameWorkApp/Build/Products/MonoTouch-iphonesimulator/FrameWorkApp.app/takeTripButton.png
+t2
+s0
+
+N/Users/David/Desktop/Suncorp/Repositories/Release 2/FrameWorkApp/FrameWorkApp/obj/Xcode/0/DerivedData/FrameWorkApp/Build/Products/MonoTouch-iphonesimulator/FrameWorkApp.app/tallOrangeButton.png
+t2
+s0
+
+N/Users/David/Desktop/Suncorp/Repositories/Release 2/FrameWorkApp/FrameWorkApp/obj/Xcode/0/DerivedData/FrameWorkApp/Build/Products/MonoTouch-iphonesimulator/FrameWorkApp.app/trophy2.png
+t2
+s0
+
+N/Users/David/Desktop/Suncorp/Repositories/Release 2/FrameWorkApp/FrameWorkApp/obj/Xcode/0/FlipsideViewController.m
+c00000000520004E0000000000000021B
+t1375732960
+s539
+
+N/Users/David/Desktop/Suncorp/Repositories/Release 2/FrameWorkApp/FrameWorkApp/obj/Xcode/0/FlyerLocked.png
+c0000000052029BF30000000000003BA7
+t1375902707
+s15271
+
+N/Users/David/Desktop/Suncorp/Repositories/Release 2/FrameWorkApp/FrameWorkApp/obj/Xcode/0/GoogleMapScreen.m
+c00000000520294D60000000000000179
+t1375900886
+s377
+
+N/Users/David/Desktop/Suncorp/Repositories/Release 2/FrameWorkApp/FrameWorkApp/obj/Xcode/0/GrannyLocked.png
+c0000000052029BF30000000000003CDE
+t1375902707
+s15582
+
+N/Users/David/Desktop/Suncorp/Repositories/Release 2/FrameWorkApp/FrameWorkApp/obj/Xcode/0/GrannyStyleLocked.png
+c0000000052029BF30000000000003BF9
+t1375902707
+s15353
+
+N/Users/David/Desktop/Suncorp/Repositories/Release 2/FrameWorkApp/FrameWorkApp/obj/Xcode/0/Info.plist
+c0000000052029BF3000000000000033F
+t1375902707
+s831
+
+N/Users/David/Desktop/Suncorp/Repositories/Release 2/FrameWorkApp/FrameWorkApp/obj/Xcode/0/InfoOff.png
+c0000000052029BF30000000000000D5B
+t1375902707
+s3419
+
+N/Users/David/Desktop/Suncorp/Repositories/Release 2/FrameWorkApp/FrameWorkApp/obj/Xcode/0/InfoOn.png
+c0000000052029BF30000000000000D57
+t1375902707
+s3415
+
+N/Users/David/Desktop/Suncorp/Repositories/Release 2/FrameWorkApp/FrameWorkApp/obj/Xcode/0/Information.m
+c000000005201472A0000000000000252
+t1375815466
+s594
+
+N/Users/David/Desktop/Suncorp/Repositories/Release 2/FrameWorkApp/FrameWorkApp/obj/Xcode/0/KangarooLocked.png
+c0000000052029BF30000000000003F6F
+t1375902707
+s16239
+
+N/Users/David/Desktop/Suncorp/Repositories/Release 2/FrameWorkApp/FrameWorkApp/obj/Xcode/0/LogOff.png
+c0000000052029BF30000000000001037
+t1375902707
+s4151
+
+N/Users/David/Desktop/Suncorp/Repositories/Release 2/FrameWorkApp/FrameWorkApp/obj/Xcode/0/LogOn.png
+c0000000052029BF30000000000001044
+t1375902707
+s4164
+
+N/Users/David/Desktop/Suncorp/Repositories/Release 2/FrameWorkApp/FrameWorkApp/obj/Xcode/0/MainNavigationController.m
+c00000000520004E0000000000000015E
+t1375732960
+s350
+
+N/Users/David/Desktop/Suncorp/Repositories/Release 2/FrameWorkApp/FrameWorkApp/obj/Xcode/0/MainStoryboard.storyboard
+c0000000052029E7F0000000000035BA0
+t1375903359
+s220064
+
+N/Users/David/Desktop/Suncorp/Repositories/Release 2/FrameWorkApp/FrameWorkApp/obj/Xcode/0/MainViewController.m
+c000000005201472A0000000000000325
+t1375815466
+s805
+
+N/Users/David/Desktop/Suncorp/Repositories/Release 2/FrameWorkApp/FrameWorkApp/obj/Xcode/0/MenuScreen.m
+c0000000051FFBD900000000000000169
+t1375714704
+s361
+
+N/Users/David/Desktop/Suncorp/Repositories/Release 2/FrameWorkApp/FrameWorkApp/obj/Xcode/0/MenuScreenTiles.m
+c0000000051FFBD900000000000000295
+t1375714704
+s661
+
+N/Users/David/Desktop/Suncorp/Repositories/Release 2/FrameWorkApp/FrameWorkApp/obj/Xcode/0/OperatorLocked.png
+c0000000052029BF30000000000003D6C
+t1375902707
+s15724
+
+N/Users/David/Desktop/Suncorp/Repositories/Release 2/FrameWorkApp/FrameWorkApp/obj/Xcode/0/PedalerLocked.png
+c0000000052029BF30000000000003CDF
+t1375902707
+s15583
+
+N/Users/David/Desktop/Suncorp/Repositories/Release 2/FrameWorkApp/FrameWorkApp/obj/Xcode/0/PeteLocked.png
+c0000000052029BF30000000000003968
+t1375902707
+s14696
+
+N/Users/David/Desktop/Suncorp/Repositories/Release 2/FrameWorkApp/FrameWorkApp/obj/Xcode/0/PretenderLocked.png
+c0000000052029BF300000000000044D7
+t1375902707
+s17623
+
+N/Users/David/Desktop/Suncorp/Repositories/Release 2/FrameWorkApp/FrameWorkApp/obj/Xcode/0/ProLocked.png
+c0000000052029BF30000000000004357
+t1375902707
+s17239
+
+N/Users/David/Desktop/Suncorp/Repositories/Release 2/FrameWorkApp/FrameWorkApp/obj/Xcode/0/RoadWithLine(Final).jpeg
+c0000000052029BF3000000000006F6DF
+t1375902707
+s456415
+
+N/Users/David/Desktop/Suncorp/Repositories/Release 2/FrameWorkApp/FrameWorkApp/obj/Xcode/0/RoadWithoutLIne.jpeg
+c0000000052029BF300000000000865D0
+t1375902707
+s550352
+
+N/Users/David/Desktop/Suncorp/Repositories/Release 2/FrameWorkApp/FrameWorkApp/obj/Xcode/0/RookieLocked.png
+c0000000052029BF300000000000044A4
+t1375902707
+s17572
+
+N/Users/David/Desktop/Suncorp/Repositories/Release 2/FrameWorkApp/FrameWorkApp/obj/Xcode/0/Safe-driving-mate-app-splash-screen copy 2.png
+c0000000052029BF30000000000001FD3
+t1375902707
+s8147
+
+N/Users/David/Desktop/Suncorp/Repositories/Release 2/FrameWorkApp/FrameWorkApp/obj/Xcode/0/Safe-driving-mate-app-splash-screen copy.png
+c0000000052029BF300000000000051F3
+t1375902707
+s20979
+
+N/Users/David/Desktop/Suncorp/Repositories/Release 2/FrameWorkApp/FrameWorkApp/obj/Xcode/0/SettingsScreen.m
+c0000000051FFBD900000000000000179
+t1375714704
+s377
+
+N/Users/David/Desktop/Suncorp/Repositories/Release 2/FrameWorkApp/FrameWorkApp/obj/Xcode/0/ShooterLocked.png
+c0000000052029BF30000000000003DDC
+t1375902707
+s15836
+
+N/Users/David/Desktop/Suncorp/Repositories/Release 2/FrameWorkApp/FrameWorkApp/obj/Xcode/0/ShowBoatLocked.png
+c0000000052029BF30000000000003CA0
+t1375902707
+s15520
+
+N/Users/David/Desktop/Suncorp/Repositories/Release 2/FrameWorkApp/FrameWorkApp/obj/Xcode/0/StartFinalDefault.png
+c0000000052029BF3000000000000ECE1
+t1375902707
+s60641
+
+N/Users/David/Desktop/Suncorp/Repositories/Release 2/FrameWorkApp/FrameWorkApp/obj/Xcode/0/StartFinalHighlighted.png
+c0000000052029BF3000000000000FA32
+t1375902707
+s64050
+
+N/Users/David/Desktop/Suncorp/Repositories/Release 2/FrameWorkApp/FrameWorkApp/obj/Xcode/0/StatsPicture.jpg
+c0000000052029BF300000000000027D9
+t1375902707
+s10201
+
+N/Users/David/Desktop/Suncorp/Repositories/Release 2/FrameWorkApp/FrameWorkApp/obj/Xcode/0/StatsScreen.m
+c00000000520150DA00000000000003F9
+t1375817946
+s1017
+
+N/Users/David/Desktop/Suncorp/Repositories/Release 2/FrameWorkApp/FrameWorkApp/obj/Xcode/0/StopScreen.m
+c000000005202980E0000000000000195
+t1375901710
+s405
+
+N/Users/David/Desktop/Suncorp/Repositories/Release 2/FrameWorkApp/FrameWorkApp/obj/Xcode/0/SuperLocked.png
+c0000000052029BF30000000000003BC8
+t1375902707
+s15304
+
+N/Users/David/Desktop/Suncorp/Repositories/Release 2/FrameWorkApp/FrameWorkApp/obj/Xcode/0/TakeTenLocked.png
+c0000000052029BF300000000000037DF
+t1375902707
+s14303
+
+N/Users/David/Desktop/Suncorp/Repositories/Release 2/FrameWorkApp/FrameWorkApp/obj/Xcode/0/TrainingLocked.png
+c0000000052029BF30000000000003D19
+t1375902707
+s15641
+
+N/Users/David/Desktop/Suncorp/Repositories/Release 2/FrameWorkApp/FrameWorkApp/obj/Xcode/0/TripLogDetailScreen.m
+c000000005201472B00000000000002DA
+t1375815467
+s730
+
+N/Users/David/Desktop/Suncorp/Repositories/Release 2/FrameWorkApp/FrameWorkApp/obj/Xcode/0/TripLogMapScreen.m
+c00000000520294D6000000000000017B
+t1375900886
+s379
+
+N/Users/David/Desktop/Suncorp/Repositories/Release 2/FrameWorkApp/FrameWorkApp/obj/Xcode/0/TripLogScreen.m
+c0000000051FFBD900000000000000187
+t1375714704
+s391
+
+N/Users/David/Desktop/Suncorp/Repositories/Release 2/FrameWorkApp/FrameWorkApp/obj/Xcode/0/TripOff.png
+c0000000052029BF30000000000001741
+t1375902707
+s5953
+
+N/Users/David/Desktop/Suncorp/Repositories/Release 2/FrameWorkApp/FrameWorkApp/obj/Xcode/0/TripOn.png
+c0000000052029BF3000000000000174F
+t1375902707
+s5967
+
+N/Users/David/Desktop/Suncorp/Repositories/Release 2/FrameWorkApp/FrameWorkApp/obj/Xcode/0/TripSummaryScreen.m
+c000000005202980E0000000000000487
+t1375901710
+s1159
+
+N/Users/David/Desktop/Suncorp/Repositories/Release 2/FrameWorkApp/FrameWorkApp/obj/Xcode/0/TurnerLocked.png
+c0000000052029BF30000000000003B96
+t1375902707
+s15254
+
+N/Users/David/Desktop/Suncorp/Repositories/Release 2/FrameWorkApp/FrameWorkApp/obj/Xcode/0/VetLocked.png
+c0000000052029BF30000000000004542
+t1375902707
+s17730
+
+N/Users/David/Desktop/Suncorp/Repositories/Release 2/FrameWorkApp/FrameWorkApp/obj/Xcode/0/WarriorLocked.png
+c0000000052029BF30000000000003EB6
+t1375902707
+s16054
+
+N/Users/David/Desktop/Suncorp/Repositories/Release 2/FrameWorkApp/FrameWorkApp/obj/Xcode/0/Win.png
+c0000000052029BF3000000000000F4D0
+t1375902707
+s62672
+
+N/Users/David/Desktop/Suncorp/Repositories/Release 2/FrameWorkApp/FrameWorkApp/obj/Xcode/0/XCountryLocked.png
+c0000000052029BF30000000000003F5B
+t1375902707
+s16219
+
+N/Users/David/Desktop/Suncorp/Repositories/Release 2/FrameWorkApp/FrameWorkApp/obj/Xcode/0/achivementButton.png
+c0000000052029BF3000000000000069C
+t1375902707
+s1692
+
+N/Users/David/Desktop/Suncorp/Repositories/Release 2/FrameWorkApp/FrameWorkApp/obj/Xcode/0/finalstop.png
+c0000000052029BF3000000000000D2E3
+t1375902707
+s53987
+
+N/Users/David/Desktop/Suncorp/Repositories/Release 2/FrameWorkApp/FrameWorkApp/obj/Xcode/0/finalstop1.png
+c0000000052029BF3000000000000DB20
+t1375902707
+s56096
+
+N/Users/David/Desktop/Suncorp/Repositories/Release 2/FrameWorkApp/FrameWorkApp/obj/Xcode/0/settingsButton.png
+c0000000052029BF300000000000004C3
+t1375902707
+s1219
+
+N/Users/David/Desktop/Suncorp/Repositories/Release 2/FrameWorkApp/FrameWorkApp/obj/Xcode/0/share-button-facebook.png
+c0000000052029BF30000000000000D3E
+t1375902707
+s3390
+
+N/Users/David/Desktop/Suncorp/Repositories/Release 2/FrameWorkApp/FrameWorkApp/obj/Xcode/0/shareButton.m
+c0000000051FFBD900000000000000144
+t1375714704
+s324
+
+N/Users/David/Desktop/Suncorp/Repositories/Release 2/FrameWorkApp/FrameWorkApp/obj/Xcode/0/smallYellow.png
+c0000000052029BF30000000000000519
+t1375902707
+s1305
+
+N/Users/David/Desktop/Suncorp/Repositories/Release 2/FrameWorkApp/FrameWorkApp/obj/Xcode/0/takeTripButton.png
+c0000000052029BF30000000000000569
+t1375902707
+s1385
+
+N/Users/David/Desktop/Suncorp/Repositories/Release 2/FrameWorkApp/FrameWorkApp/obj/Xcode/0/tallOrangeButton.png
+c0000000052029BF30000000000000877
+t1375902707
+s2167
+
+N/Users/David/Desktop/Suncorp/Repositories/Release 2/FrameWorkApp/FrameWorkApp/obj/Xcode/0/trophy2.png
+c0000000052029BF30000000000055D9D
+t1375902707
+s351645
+
+CBuild AST from "/Users/David/Desktop/Suncorp/Repositories/Release 2/FrameWorkApp/FrameWorkApp/obj/Xcode/0/AchievementsScreen.m"
+r0
+
+CBuild AST from "/Users/David/Desktop/Suncorp/Repositories/Release 2/FrameWorkApp/FrameWorkApp/obj/Xcode/0/AppDelegate.m"
+r0
+
+CBuild AST from "/Users/David/Desktop/Suncorp/Repositories/Release 2/FrameWorkApp/FrameWorkApp/obj/Xcode/0/FlipsideViewController.m"
+r0
+
+CBuild AST from "/Users/David/Desktop/Suncorp/Repositories/Release 2/FrameWorkApp/FrameWorkApp/obj/Xcode/0/GoogleMapScreen.m"
+r0
+
+CBuild AST from "/Users/David/Desktop/Suncorp/Repositories/Release 2/FrameWorkApp/FrameWorkApp/obj/Xcode/0/Information.m"
+r0
+
+CBuild AST from "/Users/David/Desktop/Suncorp/Repositories/Release 2/FrameWorkApp/FrameWorkApp/obj/Xcode/0/MainNavigationController.m"
+r0
+
+CBuild AST from "/Users/David/Desktop/Suncorp/Repositories/Release 2/FrameWorkApp/FrameWorkApp/obj/Xcode/0/MainViewController.m"
+r0
+
+CBuild AST from "/Users/David/Desktop/Suncorp/Repositories/Release 2/FrameWorkApp/FrameWorkApp/obj/Xcode/0/MenuScreen.m"
+r0
+
+CBuild AST from "/Users/David/Desktop/Suncorp/Repositories/Release 2/FrameWorkApp/FrameWorkApp/obj/Xcode/0/MenuScreenTiles.m"
+r0
+
+CBuild AST from "/Users/David/Desktop/Suncorp/Repositories/Release 2/FrameWorkApp/FrameWorkApp/obj/Xcode/0/SettingsScreen.m"
+r0
+
+CBuild AST from "/Users/David/Desktop/Suncorp/Repositories/Release 2/FrameWorkApp/FrameWorkApp/obj/Xcode/0/StatsScreen.m"
+r0
+
+CBuild AST from "/Users/David/Desktop/Suncorp/Repositories/Release 2/FrameWorkApp/FrameWorkApp/obj/Xcode/0/StopScreen.m"
+r0
+
+CBuild AST from "/Users/David/Desktop/Suncorp/Repositories/Release 2/FrameWorkApp/FrameWorkApp/obj/Xcode/0/TripLogDetailScreen.m"
+r0
+
+CBuild AST from "/Users/David/Desktop/Suncorp/Repositories/Release 2/FrameWorkApp/FrameWorkApp/obj/Xcode/0/TripLogMapScreen.m"
+r0
+
+CBuild AST from "/Users/David/Desktop/Suncorp/Repositories/Release 2/FrameWorkApp/FrameWorkApp/obj/Xcode/0/TripLogScreen.m"
+r0
+
+CBuild AST from "/Users/David/Desktop/Suncorp/Repositories/Release 2/FrameWorkApp/FrameWorkApp/obj/Xcode/0/TripSummaryScreen.m"
+r0
+
+CBuild AST from "/Users/David/Desktop/Suncorp/Repositories/Release 2/FrameWorkApp/FrameWorkApp/obj/Xcode/0/shareButton.m"
+r0
+
+CCheck dependencies
+r0
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection18"Check dependencies50c2c8ffd5b2b741^2576fdffd5b2b741^-1921"warning: no rule to process file '$(PROJECT_DIR)/AppDelegate.h' of type sourcecode.c.h for architecture i386warning: no rule to process file '$(PROJECT_DIR)/MainViewController.h' of type sourcecode.c.h for architecture i386warning: no rule to process file '$(PROJECT_DIR)/FlipsideViewController.h' of type sourcecode.c.h for architecture i386warning: no rule to process file '$(PROJECT_DIR)/MenuScreen.h' of type sourcecode.c.h for architecture i386warning: no rule to process file '$(PROJECT_DIR)/SettingsScreen.h' of type sourcecode.c.h for architecture i386warning: no rule to process file '$(PROJECT_DIR)/TripSummaryScreen.h' of type sourcecode.c.h for architecture i386warning: no rule to process file '$(PROJECT_DIR)/MenuScreenTiles.h' of type sourcecode.c.h for architecture i386warning: no rule to process file '$(PROJECT_DIR)/AchievementsScreen.h' of type sourcecode.c.h for architecture i386warning: no rule to process file '$(PROJECT_DIR)/TripLogScreen.h' of type sourcecode.c.h for architecture i386warning: no rule to process file '$(PROJECT_DIR)/StatsScreen.h' of type sourcecode.c.h for architecture i386warning: no rule to process file '$(PROJECT_DIR)/GoogleMapScreen.h' of type sourcecode.c.h for architecture i386warning: no rule to process file '$(PROJECT_DIR)/StopScreen.h' of type sourcecode.c.h for architecture i386warning: no rule to process file '$(PROJECT_DIR)/shareButton.h' of type sourcecode.c.h for architecture i386warning: no rule to process file '$(PROJECT_DIR)/TripLogDetailScreen.h' of type sourcecode.c.h for architecture i386warning: no rule to process file '$(PROJECT_DIR)/TripLogMapScreen.h' of type sourcecode.c.h for architecture i386warning: no rule to process file '$(PROJECT_DIR)/MainNavigationController.h' of type sourcecode.c.h for architecture i386warning: no rule to process file '$(PROJECT_DIR)/Information.h' of type sourcecode.c.h for architecture i38617(21%IDEActivityLogMessage2@108"Warning: no rule to process file '$(PROJECT_DIR)/AppDelegate.h' of type sourcecode.c.h for architecture i386-397596159#18446744073709551615#0#-1#27"com.apple.dt.IDE.LogMessage-27"Dependency Analysis Warning--2@115"Warning: no rule to process file '$(PROJECT_DIR)/MainViewController.h' of type sourcecode.c.h for architecture i386-397596159#18446744073709551615#0#-1#27"com.apple.dt.IDE.LogMessage-27"Dependency Analysis Warning--2@119"Warning: no rule to process file '$(PROJECT_DIR)/FlipsideViewController.h' of type sourcecode.c.h for architecture i386-397596159#18446744073709551615#0#-1#27"com.apple.dt.IDE.LogMessage-27"Dependency Analysis Warning--2@107"Warning: no rule to process file '$(PROJECT_DIR)/MenuScreen.h' of type sourcecode.c.h for architecture i386-397596159#18446744073709551615#0#-1#27"com.apple.dt.IDE.LogMessage-27"Dependency Analysis Warning--2@111"Warning: no rule to process file '$(PROJECT_DIR)/SettingsScreen.h' of type sourcecode.c.h for architecture i386-397596159#18446744073709551615#0#-1#27"com.apple.dt.IDE.LogMessage-27"Dependency Analysis Warning--2@114"Warning: no rule to process file '$(PROJECT_DIR)/TripSummaryScreen.h' of type sourcecode.c.h for architecture i386-397596159#18446744073709551615#0#-1#27"com.apple.dt.IDE.LogMessage-27"Dependency Analysis Warning--2@112"Warning: no rule to process file '$(PROJECT_DIR)/MenuScreenTiles.h' of type sourcecode.c.h for architecture i386-397596159#18446744073709551615#0#-1#27"com.apple.dt.IDE.LogMessage-27"Dependency Analysis Warning--2@115"Warning: no rule to process file '$(PROJECT_DIR)/AchievementsScreen.h' of type sourcecode.c.h for architecture i386-397596159#18446744073709551615#0#-1#27"com.apple.dt.IDE.LogMessage-27"Dependency Analysis Warning--2@110"Warning: no rule to process file '$(PROJECT_DIR)/TripLogScreen.h' of type sourcecode.c.h for architecture i386-397596159#18446744073709551615#0#-1#27"com.apple.dt.IDE.LogMessage-27"Dependency Analysis Warning--2@108"Warning: no rule to process file '$(PROJECT_DIR)/StatsScreen.h' of type sourcecode.c.h for architecture i386-397596159#18446744073709551615#0#-1#27"com.apple.dt.IDE.LogMessage-27"Dependency Analysis Warning--2@112"Warning: no rule to process file '$(PROJECT_DIR)/GoogleMapScreen.h' of type sourcecode.c.h for architecture i386-397596159#18446744073709551615#0#-1#27"com.apple.dt.IDE.LogMessage-27"Dependency Analysis Warning--2@107"Warning: no rule to process file '$(PROJECT_DIR)/StopScreen.h' of type sourcecode.c.h for architecture i386-397596159#18446744073709551615#0#-1#27"com.apple.dt.IDE.LogMessage-27"Dependency Analysis Warning--2@108"Warning: no rule to process file '$(PROJECT_DIR)/shareButton.h' of type sourcecode.c.h for architecture i386-397596159#18446744073709551615#0#-1#27"com.apple.dt.IDE.LogMessage-27"Dependency Analysis Warning--2@116"Warning: no rule to process file '$(PROJECT_DIR)/TripLogDetailScreen.h' of type sourcecode.c.h for architecture i386-397596159#18446744073709551615#0#-1#27"com.apple.dt.IDE.LogMessage-27"Dependency Analysis Warning--2@113"Warning: no rule to process file '$(PROJECT_DIR)/TripLogMapScreen.h' of type sourcecode.c.h for architecture i386-397596159#18446744073709551615#0#-1#27"com.apple.dt.IDE.LogMessage-27"Dependency Analysis Warning--2@121"Warning: no rule to process file '$(PROJECT_DIR)/MainNavigationController.h' of type sourcecode.c.h for architecture i386-397596159#18446744073709551615#0#-1#27"com.apple.dt.IDE.LogMessage-27"Dependency Analysis Warning--2@108"Warning: no rule to process file '$(PROJECT_DIR)/Information.h' of type sourcecode.c.h for architecture i386-397596159#18446744073709551615#0#-1#27"com.apple.dt.IDE.LogMessage-27"Dependency Analysis Warning--0#1#0#--18"Check dependencies36"47482D21-0225-42DF-98CC-1CA94122646C-
+
+CCompileC DerivedData/FrameWorkApp/Build/Intermediates/FrameWorkApp.build/MonoTouch-iphonesimulator/FrameWorkApp.build/Objects-normal/i386/AchievementsScreen-84B13DEBF8FBAFDF.o "/Users/David/Desktop/Suncorp/Repositories/Release 2/FrameWorkApp/FrameWorkApp/obj/Xcode/0/AchievementsScreen.m" normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s397596161.531368
+e397596162.225025
+r1
+xCompileC
+xDerivedData/FrameWorkApp/Build/Intermediates/FrameWorkApp.build/MonoTouch-iphonesimulator/FrameWorkApp.build/Objects-normal/i386/AchievementsScreen-84B13DEBF8FBAFDF.o
+x/Users/David/Desktop/Suncorp/Repositories/Release 2/FrameWorkApp/FrameWorkApp/obj/Xcode/0/AchievementsScreen.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection118"Compile /Users/David/Desktop/Suncorp/Repositories/Release 2/FrameWorkApp/FrameWorkApp/obj/Xcode/0/AchievementsScreen.me63f8801d6b2b741^d0983902d6b2b741^---0#0#0#-19%DVTDocumentLocation2@128"file://localhost/Users/David/Desktop/Suncorp/Repositories/Release%202/FrameWorkApp/FrameWorkApp/obj/Xcode/0/AchievementsScreen.m0000000000000000^4690"CompileC DerivedData/FrameWorkApp/Build/Intermediates/FrameWorkApp.build/MonoTouch-iphonesimulator/FrameWorkApp.build/Objects-normal/i386/AchievementsScreen-84B13DEBF8FBAFDF.o AchievementsScreen.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd "/Users/David/Desktop/Suncorp/Repositories/Release 2/FrameWorkApp/FrameWorkApp/obj/Xcode/0"    setenv LANG en_US.US-ASCII    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/Applications/Xamarin Studio.app/Contents/MacOS:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch i386 -fmessage-length=0 -std=gnu99 -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wmissing-prototypes -Wreturn-type -Wno-implicit-atomic-properties -Wno-receiver-is-weak -Wformat -Wno-missing-braces -Wparentheses -Wswitch -Wno-unused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wno-empty-body -Wno-uninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wno-constant-conversion -Wno-int-conversion -Wno-enum-conversion -Wno-shorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wno-undeclared-selector -Wno-deprecated-implementations -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator6.1.sdk -fexceptions -fasm-blocks -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -g -Wno-sign-conversion -fobjc-abi-version=2 -fobjc-legacy-dispatch -mios-simulator-version-min=6.1 -iquote "/Users/David/Desktop/Suncorp/Repositories/Release 2/FrameWorkApp/FrameWorkApp/obj/Xcode/0/DerivedData/FrameWorkApp/Build/Intermediates/FrameWorkApp.build/MonoTouch-iphonesimulator/FrameWorkApp.build/FrameWorkApp-generated-files.hmap" "-I/Users/David/Desktop/Suncorp/Repositories/Release 2/FrameWorkApp/FrameWorkApp/obj/Xcode/0/DerivedData/FrameWorkApp/Build/Intermediates/FrameWorkApp.build/MonoTouch-iphonesimulator/FrameWorkApp.build/FrameWorkApp-own-target-headers.hmap" "-I/Users/David/Desktop/Suncorp/Repositories/Release 2/FrameWorkApp/FrameWorkApp/obj/Xcode/0/DerivedData/FrameWorkApp/Build/Intermediates/FrameWorkApp.build/MonoTouch-iphonesimulator/FrameWorkApp.build/FrameWorkApp-all-target-headers.hmap" -iquote "/Users/David/Desktop/Suncorp/Repositories/Release 2/FrameWorkApp/FrameWorkApp/obj/Xcode/0/DerivedData/FrameWorkApp/Build/Intermediates/FrameWorkApp.build/MonoTouch-iphonesimulator/FrameWorkApp.build/FrameWorkApp-project-headers.hmap" "-I/Users/David/Desktop/Suncorp/Repositories/Release 2/FrameWorkApp/FrameWorkApp/obj/Xcode/0/DerivedData/FrameWorkApp/Build/Products/MonoTouch-iphonesimulator/include" -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include "-I/Users/David/Desktop/Suncorp/Repositories/Release 2/FrameWorkApp/FrameWorkApp/obj/Xcode/0/DerivedData/FrameWorkApp/Build/Intermediates/FrameWorkApp.build/MonoTouch-iphonesimulator/FrameWorkApp.build/DerivedSources/i386" "-I/Users/David/Desktop/Suncorp/Repositories/Release 2/FrameWorkApp/FrameWorkApp/obj/Xcode/0/DerivedData/FrameWorkApp/Build/Intermediates/FrameWorkApp.build/MonoTouch-iphonesimulator/FrameWorkApp.build/DerivedSources" "-F/Users/David/Desktop/Suncorp/Repositories/Release 2/FrameWorkApp/FrameWorkApp/obj/Xcode/0/DerivedData/FrameWorkApp/Build/Products/MonoTouch-iphonesimulator" -MMD -MT dependencies -MF "/Users/David/Desktop/Suncorp/Repositories/Release 2/FrameWorkApp/FrameWorkApp/obj/Xcode/0/DerivedData/FrameWorkApp/Build/Intermediates/FrameWorkApp.build/MonoTouch-iphonesimulator/FrameWorkApp.build/Objects-normal/i386/AchievementsScreen-84B13DEBF8FBAFDF.d" --serialize-diagnostics "/Users/David/Desktop/Suncorp/Repositories/Release 2/FrameWorkApp/FrameWorkApp/obj/Xcode/0/DerivedData/FrameWorkApp/Build/Intermediates/FrameWorkApp.build/MonoTouch-iphonesimulator/FrameWorkApp.build/Objects-normal/i386/AchievementsScreen-84B13DEBF8FBAFDF.dia" -c "/Users/David/Desktop/Suncorp/Repositories/Release 2/FrameWorkApp/FrameWorkApp/obj/Xcode/0/AchievementsScreen.m" -o "/Users/David/Desktop/Suncorp/Repositories/Release 2/FrameWorkApp/FrameWorkApp/obj/Xcode/0/DerivedData/FrameWorkApp/Build/Intermediates/FrameWorkApp.build/MonoTouch-iphonesimulator/FrameWorkApp.build/Objects-normal/i386/AchievementsScreen-84B13DEBF8FBAFDF.o"36"E16B229C-196F-4AD6-8851-2117D4D84833-
+
+CCompileC DerivedData/FrameWorkApp/Build/Intermediates/FrameWorkApp.build/MonoTouch-iphonesimulator/FrameWorkApp.build/Objects-normal/i386/AppDelegate-B3021CB824BE24ED.o "/Users/David/Desktop/Suncorp/Repositories/Release 2/FrameWorkApp/FrameWorkApp/obj/Xcode/0/AppDelegate.m" normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s397596160.204042
+e397596161.458872
+r1
+xCompileC
+xDerivedData/FrameWorkApp/Build/Intermediates/FrameWorkApp.build/MonoTouch-iphonesimulator/FrameWorkApp.build/Objects-normal/i386/AppDelegate-B3021CB824BE24ED.o
+x/Users/David/Desktop/Suncorp/Repositories/Release 2/FrameWorkApp/FrameWorkApp/obj/Xcode/0/AppDelegate.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection111"Compile /Users/David/Desktop/Suncorp/Repositories/Release 2/FrameWorkApp/FrameWorkApp/obj/Xcode/0/AppDelegate.m368f4f00d6b2b741^8a767501d6b2b741^---0#0#0#-19%DVTDocumentLocation2@121"file://localhost/Users/David/Desktop/Suncorp/Repositories/Release%202/FrameWorkApp/FrameWorkApp/obj/Xcode/0/AppDelegate.m0000000000000000^4648"CompileC DerivedData/FrameWorkApp/Build/Intermediates/FrameWorkApp.build/MonoTouch-iphonesimulator/FrameWorkApp.build/Objects-normal/i386/AppDelegate-B3021CB824BE24ED.o AppDelegate.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd "/Users/David/Desktop/Suncorp/Repositories/Release 2/FrameWorkApp/FrameWorkApp/obj/Xcode/0"    setenv LANG en_US.US-ASCII    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/Applications/Xamarin Studio.app/Contents/MacOS:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch i386 -fmessage-length=0 -std=gnu99 -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wmissing-prototypes -Wreturn-type -Wno-implicit-atomic-properties -Wno-receiver-is-weak -Wformat -Wno-missing-braces -Wparentheses -Wswitch -Wno-unused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wno-empty-body -Wno-uninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wno-constant-conversion -Wno-int-conversion -Wno-enum-conversion -Wno-shorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wno-undeclared-selector -Wno-deprecated-implementations -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator6.1.sdk -fexceptions -fasm-blocks -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -g -Wno-sign-conversion -fobjc-abi-version=2 -fobjc-legacy-dispatch -mios-simulator-version-min=6.1 -iquote "/Users/David/Desktop/Suncorp/Repositories/Release 2/FrameWorkApp/FrameWorkApp/obj/Xcode/0/DerivedData/FrameWorkApp/Build/Intermediates/FrameWorkApp.build/MonoTouch-iphonesimulator/FrameWorkApp.build/FrameWorkApp-generated-files.hmap" "-I/Users/David/Desktop/Suncorp/Repositories/Release 2/FrameWorkApp/FrameWorkApp/obj/Xcode/0/DerivedData/FrameWorkApp/Build/Intermediates/FrameWorkApp.build/MonoTouch-iphonesimulator/FrameWorkApp.build/FrameWorkApp-own-target-headers.hmap" "-I/Users/David/Desktop/Suncorp/Repositories/Release 2/FrameWorkApp/FrameWorkApp/obj/Xcode/0/DerivedData/FrameWorkApp/Build/Intermediates/FrameWorkApp.build/MonoTouch-iphonesimulator/FrameWorkApp.build/FrameWorkApp-all-target-headers.hmap" -iquote "/Users/David/Desktop/Suncorp/Repositories/Release 2/FrameWorkApp/FrameWorkApp/obj/Xcode/0/DerivedData/FrameWorkApp/Build/Intermediates/FrameWorkApp.build/MonoTouch-iphonesimulator/FrameWorkApp.build/FrameWorkApp-project-headers.hmap" "-I/Users/David/Desktop/Suncorp/Repositories/Release 2/FrameWorkApp/FrameWorkApp/obj/Xcode/0/DerivedData/FrameWorkApp/Build/Products/MonoTouch-iphonesimulator/include" -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include "-I/Users/David/Desktop/Suncorp/Repositories/Release 2/FrameWorkApp/FrameWorkApp/obj/Xcode/0/DerivedData/FrameWorkApp/Build/Intermediates/FrameWorkApp.build/MonoTouch-iphonesimulator/FrameWorkApp.build/DerivedSources/i386" "-I/Users/David/Desktop/Suncorp/Repositories/Release 2/FrameWorkApp/FrameWorkApp/obj/Xcode/0/DerivedData/FrameWorkApp/Build/Intermediates/FrameWorkApp.build/MonoTouch-iphonesimulator/FrameWorkApp.build/DerivedSources" "-F/Users/David/Desktop/Suncorp/Repositories/Release 2/FrameWorkApp/FrameWorkApp/obj/Xcode/0/DerivedData/FrameWorkApp/Build/Products/MonoTouch-iphonesimulator" -MMD -MT dependencies -MF "/Users/David/Desktop/Suncorp/Repositories/Release 2/FrameWorkApp/FrameWorkApp/obj/Xcode/0/DerivedData/FrameWorkApp/Build/Intermediates/FrameWorkApp.build/MonoTouch-iphonesimulator/FrameWorkApp.build/Objects-normal/i386/AppDelegate-B3021CB824BE24ED.d" --serialize-diagnostics "/Users/David/Desktop/Suncorp/Repositories/Release 2/FrameWorkApp/FrameWorkApp/obj/Xcode/0/DerivedData/FrameWorkApp/Build/Intermediates/FrameWorkApp.build/MonoTouch-iphonesimulator/FrameWorkApp.build/Objects-normal/i386/AppDelegate-B3021CB824BE24ED.dia" -c "/Users/David/Desktop/Suncorp/Repositories/Release 2/FrameWorkApp/FrameWorkApp/obj/Xcode/0/AppDelegate.m" -o "/Users/David/Desktop/Suncorp/Repositories/Release 2/FrameWorkApp/FrameWorkApp/obj/Xcode/0/DerivedData/FrameWorkApp/Build/Intermediates/FrameWorkApp.build/MonoTouch-iphonesimulator/FrameWorkApp.build/Objects-normal/i386/AppDelegate-B3021CB824BE24ED.o"36"C2972185-7394-4358-9410-52EA359E934A-
+
+CCompileC DerivedData/FrameWorkApp/Build/Intermediates/FrameWorkApp.build/MonoTouch-iphonesimulator/FrameWorkApp.build/Objects-normal/i386/FlipsideViewController-A37DDE9631A48DD4.o "/Users/David/Desktop/Suncorp/Repositories/Release 2/FrameWorkApp/FrameWorkApp/obj/Xcode/0/FlipsideViewController.m" normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s397596160.204057
+e397596161.508777
+r1
+xCompileC
+xDerivedData/FrameWorkApp/Build/Intermediates/FrameWorkApp.build/MonoTouch-iphonesimulator/FrameWorkApp.build/Objects-normal/i386/FlipsideViewController-A37DDE9631A48DD4.o
+x/Users/David/Desktop/Suncorp/Repositories/Release 2/FrameWorkApp/FrameWorkApp/obj/Xcode/0/FlipsideViewController.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection122"Compile /Users/David/Desktop/Suncorp/Repositories/Release 2/FrameWorkApp/FrameWorkApp/obj/Xcode/0/FlipsideViewController.m2e8d4f00d6b2b741^c24d8201d6b2b741^---0#0#0#-19%DVTDocumentLocation2@132"file://localhost/Users/David/Desktop/Suncorp/Repositories/Release%202/FrameWorkApp/FrameWorkApp/obj/Xcode/0/FlipsideViewController.m0000000000000000^4714"CompileC DerivedData/FrameWorkApp/Build/Intermediates/FrameWorkApp.build/MonoTouch-iphonesimulator/FrameWorkApp.build/Objects-normal/i386/FlipsideViewController-A37DDE9631A48DD4.o FlipsideViewController.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd "/Users/David/Desktop/Suncorp/Repositories/Release 2/FrameWorkApp/FrameWorkApp/obj/Xcode/0"    setenv LANG en_US.US-ASCII    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/Applications/Xamarin Studio.app/Contents/MacOS:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch i386 -fmessage-length=0 -std=gnu99 -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wmissing-prototypes -Wreturn-type -Wno-implicit-atomic-properties -Wno-receiver-is-weak -Wformat -Wno-missing-braces -Wparentheses -Wswitch -Wno-unused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wno-empty-body -Wno-uninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wno-constant-conversion -Wno-int-conversion -Wno-enum-conversion -Wno-shorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wno-undeclared-selector -Wno-deprecated-implementations -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator6.1.sdk -fexceptions -fasm-blocks -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -g -Wno-sign-conversion -fobjc-abi-version=2 -fobjc-legacy-dispatch -mios-simulator-version-min=6.1 -iquote "/Users/David/Desktop/Suncorp/Repositories/Release 2/FrameWorkApp/FrameWorkApp/obj/Xcode/0/DerivedData/FrameWorkApp/Build/Intermediates/FrameWorkApp.build/MonoTouch-iphonesimulator/FrameWorkApp.build/FrameWorkApp-generated-files.hmap" "-I/Users/David/Desktop/Suncorp/Repositories/Release 2/FrameWorkApp/FrameWorkApp/obj/Xcode/0/DerivedData/FrameWorkApp/Build/Intermediates/FrameWorkApp.build/MonoTouch-iphonesimulator/FrameWorkApp.build/FrameWorkApp-own-target-headers.hmap" "-I/Users/David/Desktop/Suncorp/Repositories/Release 2/FrameWorkApp/FrameWorkApp/obj/Xcode/0/DerivedData/FrameWorkApp/Build/Intermediates/FrameWorkApp.build/MonoTouch-iphonesimulator/FrameWorkApp.build/FrameWorkApp-all-target-headers.hmap" -iquote "/Users/David/Desktop/Suncorp/Repositories/Release 2/FrameWorkApp/FrameWorkApp/obj/Xcode/0/DerivedData/FrameWorkApp/Build/Intermediates/FrameWorkApp.build/MonoTouch-iphonesimulator/FrameWorkApp.build/FrameWorkApp-project-headers.hmap" "-I/Users/David/Desktop/Suncorp/Repositories/Release 2/FrameWorkApp/FrameWorkApp/obj/Xcode/0/DerivedData/FrameWorkApp/Build/Products/MonoTouch-iphonesimulator/include" -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include "-I/Users/David/Desktop/Suncorp/Repositories/Release 2/FrameWorkApp/FrameWorkApp/obj/Xcode/0/DerivedData/FrameWorkApp/Build/Intermediates/FrameWorkApp.build/MonoTouch-iphonesimulator/FrameWorkApp.build/DerivedSources/i386" "-I/Users/David/Desktop/Suncorp/Repositories/Release 2/FrameWorkApp/FrameWorkApp/obj/Xcode/0/DerivedData/FrameWorkApp/Build/Intermediates/FrameWorkApp.build/MonoTouch-iphonesimulator/FrameWorkApp.build/DerivedSources" "-F/Users/David/Desktop/Suncorp/Repositories/Release 2/FrameWorkApp/FrameWorkApp/obj/Xcode/0/DerivedData/FrameWorkApp/Build/Products/MonoTouch-iphonesimulator" -MMD -MT dependencies -MF "/Users/David/Desktop/Suncorp/Repositories/Release 2/FrameWorkApp/FrameWorkApp/obj/Xcode/0/DerivedData/FrameWorkApp/Build/Intermediates/FrameWorkApp.build/MonoTouch-iphonesimulator/FrameWorkApp.build/Objects-normal/i386/FlipsideViewController-A37DDE9631A48DD4.d" --serialize-diagnostics "/Users/David/Desktop/Suncorp/Repositories/Release 2/FrameWorkApp/FrameWorkApp/obj/Xcode/0/DerivedData/FrameWorkApp/Build/Intermediates/FrameWorkApp.build/MonoTouch-iphonesimulator/FrameWorkApp.build/Objects-normal/i386/FlipsideViewController-A37DDE9631A48DD4.dia" -c "/Users/David/Desktop/Suncorp/Repositories/Release 2/FrameWorkApp/FrameWorkApp/obj/Xcode/0/FlipsideViewController.m" -o "/Users/David/Desktop/Suncorp/Repositories/Release 2/FrameWorkApp/FrameWorkApp/obj/Xcode/0/DerivedData/FrameWorkApp/Build/Intermediates/FrameWorkApp.build/MonoTouch-iphonesimulator/FrameWorkApp.build/Objects-normal/i386/FlipsideViewController-A37DDE9631A48DD4.o"36"3878106B-5BCF-436C-93E0-5FA6E0DC230D-
+
+CCompileC DerivedData/FrameWorkApp/Build/Intermediates/FrameWorkApp.build/MonoTouch-iphonesimulator/FrameWorkApp.build/Objects-normal/i386/GoogleMapScreen-C5CFD75E14D1BAD3.o "/Users/David/Desktop/Suncorp/Repositories/Release 2/FrameWorkApp/FrameWorkApp/obj/Xcode/0/GoogleMapScreen.m" normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s397596162.168212
+e397596162.754941
+r0
+xCompileC
+xDerivedData/FrameWorkApp/Build/Intermediates/FrameWorkApp.build/MonoTouch-iphonesimulator/FrameWorkApp.build/Objects-normal/i386/GoogleMapScreen-C5CFD75E14D1BAD3.o
+x/Users/David/Desktop/Suncorp/Repositories/Release 2/FrameWorkApp/FrameWorkApp/obj/Xcode/0/GoogleMapScreen.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+oIn file included from /Users/David/Desktop/Suncorp/Repositories/Release 2/FrameWorkApp/FrameWorkApp/obj/Xcode/0/GoogleMapScreen.m:8:
+o/Users/David/Desktop/Suncorp/Repositories/Release 2/FrameWorkApp/FrameWorkApp/obj/Xcode/0/GoogleMapScreen.h:13:2: error: unknown type name 'MKMapView'
+o        MKMapView *_mapViewOutlet;
+o        ^
+o/Users/David/Desktop/Suncorp/Repositories/Release 2/FrameWorkApp/FrameWorkApp/obj/Xcode/0/GoogleMapScreen.h:16:40: error: unknown type name 'MKMapView'
+o@property (nonatomic, retain) IBOutlet MKMapView *mapViewOutlet;
+o                                       ^
+o/Users/David/Desktop/Suncorp/Repositories/Release 2/FrameWorkApp/FrameWorkApp/obj/Xcode/0/GoogleMapScreen.h:16:31: warning: property with 'iboutlet' attribute must be an object type (invalid 'int *') [-Winvalid-iboutlet]
+o@property (nonatomic, retain) IBOutlet MKMapView *mapViewOutlet;
+o                              ^
+o<built-in>:22:33: note: expanded from macro 'IBOutlet'
+o#define IBOutlet __attribute__((iboutlet))
+o                                ^
+oIn file included from /Users/David/Desktop/Suncorp/Repositories/Release 2/FrameWorkApp/FrameWorkApp/obj/Xcode/0/GoogleMapScreen.m:8:
+o/Users/David/Desktop/Suncorp/Repositories/Release 2/FrameWorkApp/FrameWorkApp/obj/Xcode/0/GoogleMapScreen.h:16:1: error: property with 'retain (or strong)' attribute must be of object type
+o@property (nonatomic, retain) IBOutlet MKMapView *mapViewOutlet;
+o^
+o1 warning and 3 errors generated.
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection115"Compile /Users/David/Desktop/Suncorp/Repositories/Release 2/FrameWorkApp/FrameWorkApp/obj/Xcode/0/GoogleMapScreen.ma6432b02d6b2b741^153cc102d6b2b741^-1460"In file included from /Users/David/Desktop/Suncorp/Repositories/Release 2/FrameWorkApp/FrameWorkApp/obj/Xcode/0/GoogleMapScreen.m:8:/Users/David/Desktop/Suncorp/Repositories/Release 2/FrameWorkApp/FrameWorkApp/obj/Xcode/0/GoogleMapScreen.h:13:2: error: unknown type name 'MKMapView'        MKMapView *_mapViewOutlet;        ^/Users/David/Desktop/Suncorp/Repositories/Release 2/FrameWorkApp/FrameWorkApp/obj/Xcode/0/GoogleMapScreen.h:16:40: error: unknown type name 'MKMapView'@property (nonatomic, retain) IBOutlet MKMapView *mapViewOutlet;                                       ^/Users/David/Desktop/Suncorp/Repositories/Release 2/FrameWorkApp/FrameWorkApp/obj/Xcode/0/GoogleMapScreen.h:16:31: warning: property with 'iboutlet' attribute must be an object type (invalid 'int *') [-Winvalid-iboutlet]@property (nonatomic, retain) IBOutlet MKMapView *mapViewOutlet;                              ^<built-in>:22:33: note: expanded from macro 'IBOutlet'#define IBOutlet __attribute__((iboutlet))                                ^In file included from /Users/David/Desktop/Suncorp/Repositories/Release 2/FrameWorkApp/FrameWorkApp/obj/Xcode/0/GoogleMapScreen.m:8:/Users/David/Desktop/Suncorp/Repositories/Release 2/FrameWorkApp/FrameWorkApp/obj/Xcode/0/GoogleMapScreen.h:16:1: error: property with 'retain (or strong)' attribute must be of object type@property (nonatomic, retain) IBOutlet MKMapView *mapViewOutlet;^1 warning and 3 errors generated.4(36%IDEClangDiagnosticActivityLogMessage2@29"Unknown type name 'MKMapView'-397596162#18446744073709551615#0#1(2@132"In file included from /Users/David/Desktop/Suncorp/Repositories/Release 2/FrameWorkApp/FrameWorkApp/obj/Xcode/0/GoogleMapScreen.m:8:-397596162#18446744073709551615#0#-0#27"com.apple.dt.IDE.diagnostic23%DVTTextDocumentLocation3@125"file://localhost/Users/David/Desktop/Suncorp/Repositories/Release%202/FrameWorkApp/FrameWorkApp/obj/Xcode/0/GoogleMapScreen.m0000000000000000^7#8#7#8#273#0#30"Apple LLVM compiler 4.2 Notice--2#27"com.apple.dt.IDE.diagnostic3@125"file://localhost/Users/David/Desktop/Suncorp/Repositories/Release%202/FrameWorkApp/FrameWorkApp/obj/Xcode/0/GoogleMapScreen.h0000000000000000^12#1#12#1#374#0#11"Parse Issue--2@29"Unknown type name 'MKMapView'-397596162#18446744073709551615#0#1(2@132"In file included from /Users/David/Desktop/Suncorp/Repositories/Release 2/FrameWorkApp/FrameWorkApp/obj/Xcode/0/GoogleMapScreen.m:8:-397596162#18446744073709551615#0#-0#27"com.apple.dt.IDE.diagnostic3@125"file://localhost/Users/David/Desktop/Suncorp/Repositories/Release%202/FrameWorkApp/FrameWorkApp/obj/Xcode/0/GoogleMapScreen.m0000000000000000^7#8#7#8#273#0#30"Apple LLVM compiler 4.2 Notice--2#27"com.apple.dt.IDE.diagnostic3@125"file://localhost/Users/David/Desktop/Suncorp/Repositories/Release%202/FrameWorkApp/FrameWorkApp/obj/Xcode/0/GoogleMapScreen.h0000000000000000^15#39#15#39#443#0#11"Parse Issue--2@75"Property with 'iboutlet' attribute must be an object type (invalid 'int *')-397596162#18446744073709551615#0#2(2@132"In file included from /Users/David/Desktop/Suncorp/Repositories/Release 2/FrameWorkApp/FrameWorkApp/obj/Xcode/0/GoogleMapScreen.m:8:-397596162#18446744073709551615#0#-0#27"com.apple.dt.IDE.diagnostic3@125"file://localhost/Users/David/Desktop/Suncorp/Repositories/Release%202/FrameWorkApp/FrameWorkApp/obj/Xcode/0/GoogleMapScreen.m0000000000000000^7#8#7#8#273#0#30"Apple LLVM compiler 4.2 Notice--2@30"Expanded from macro 'IBOutlet'-397596162#18446744073709551615#0#-0#27"com.apple.dt.IDE.diagnostic3@122"file://localhost/Users/David/Desktop/Suncorp/Repositories/Release%202/FrameWorkApp/FrameWorkApp/obj/Xcode/0/%3Cbuilt-in%3E0000000000000000^21#32#21#32#678#0#30"Apple LLVM compiler 4.2 Notice--1#27"com.apple.dt.IDE.diagnostic3@125"file://localhost/Users/David/Desktop/Suncorp/Repositories/Release%202/FrameWorkApp/FrameWorkApp/obj/Xcode/0/GoogleMapScreen.h0000000000000000^15#30#15#30#15#0#14"Semantic Issue--2@67"Property with 'retain (or strong)' attribute must be of object type-397596162#18446744073709551615#0#1(2@132"In file included from /Users/David/Desktop/Suncorp/Repositories/Release 2/FrameWorkApp/FrameWorkApp/obj/Xcode/0/GoogleMapScreen.m:8:-397596162#18446744073709551615#0#-0#27"com.apple.dt.IDE.diagnostic3@125"file://localhost/Users/David/Desktop/Suncorp/Repositories/Release%202/FrameWorkApp/FrameWorkApp/obj/Xcode/0/GoogleMapScreen.m0000000000000000^7#8#7#8#273#0#30"Apple LLVM compiler 4.2 Notice--2#27"com.apple.dt.IDE.diagnostic3@125"file://localhost/Users/David/Desktop/Suncorp/Repositories/Release%202/FrameWorkApp/FrameWorkApp/obj/Xcode/0/GoogleMapScreen.h0000000000000000^15#0#15#0#404#0#14"Semantic Issue--0#0#0#-19%DVTDocumentLocation4@125"file://localhost/Users/David/Desktop/Suncorp/Repositories/Release%202/FrameWorkApp/FrameWorkApp/obj/Xcode/0/GoogleMapScreen.m0000000000000000^4672"CompileC DerivedData/FrameWorkApp/Build/Intermediates/FrameWorkApp.build/MonoTouch-iphonesimulator/FrameWorkApp.build/Objects-normal/i386/GoogleMapScreen-C5CFD75E14D1BAD3.o GoogleMapScreen.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd "/Users/David/Desktop/Suncorp/Repositories/Release 2/FrameWorkApp/FrameWorkApp/obj/Xcode/0"    setenv LANG en_US.US-ASCII    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/Applications/Xamarin Studio.app/Contents/MacOS:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch i386 -fmessage-length=0 -std=gnu99 -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wmissing-prototypes -Wreturn-type -Wno-implicit-atomic-properties -Wno-receiver-is-weak -Wformat -Wno-missing-braces -Wparentheses -Wswitch -Wno-unused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wno-empty-body -Wno-uninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wno-constant-conversion -Wno-int-conversion -Wno-enum-conversion -Wno-shorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wno-undeclared-selector -Wno-deprecated-implementations -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator6.1.sdk -fexceptions -fasm-blocks -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -g -Wno-sign-conversion -fobjc-abi-version=2 -fobjc-legacy-dispatch -mios-simulator-version-min=6.1 -iquote "/Users/David/Desktop/Suncorp/Repositories/Release 2/FrameWorkApp/FrameWorkApp/obj/Xcode/0/DerivedData/FrameWorkApp/Build/Intermediates/FrameWorkApp.build/MonoTouch-iphonesimulator/FrameWorkApp.build/FrameWorkApp-generated-files.hmap" "-I/Users/David/Desktop/Suncorp/Repositories/Release 2/FrameWorkApp/FrameWorkApp/obj/Xcode/0/DerivedData/FrameWorkApp/Build/Intermediates/FrameWorkApp.build/MonoTouch-iphonesimulator/FrameWorkApp.build/FrameWorkApp-own-target-headers.hmap" "-I/Users/David/Desktop/Suncorp/Repositories/Release 2/FrameWorkApp/FrameWorkApp/obj/Xcode/0/DerivedData/FrameWorkApp/Build/Intermediates/FrameWorkApp.build/MonoTouch-iphonesimulator/FrameWorkApp.build/FrameWorkApp-all-target-headers.hmap" -iquote "/Users/David/Desktop/Suncorp/Repositories/Release 2/FrameWorkApp/FrameWorkApp/obj/Xcode/0/DerivedData/FrameWorkApp/Build/Intermediates/FrameWorkApp.build/MonoTouch-iphonesimulator/FrameWorkApp.build/FrameWorkApp-project-headers.hmap" "-I/Users/David/Desktop/Suncorp/Repositories/Release 2/FrameWorkApp/FrameWorkApp/obj/Xcode/0/DerivedData/FrameWorkApp/Build/Products/MonoTouch-iphonesimulator/include" -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include "-I/Users/David/Desktop/Suncorp/Repositories/Release 2/FrameWorkApp/FrameWorkApp/obj/Xcode/0/DerivedData/FrameWorkApp/Build/Intermediates/FrameWorkApp.build/MonoTouch-iphonesimulator/FrameWorkApp.build/DerivedSources/i386" "-I/Users/David/Desktop/Suncorp/Repositories/Release 2/FrameWorkApp/FrameWorkApp/obj/Xcode/0/DerivedData/FrameWorkApp/Build/Intermediates/FrameWorkApp.build/MonoTouch-iphonesimulator/FrameWorkApp.build/DerivedSources" "-F/Users/David/Desktop/Suncorp/Repositories/Release 2/FrameWorkApp/FrameWorkApp/obj/Xcode/0/DerivedData/FrameWorkApp/Build/Products/MonoTouch-iphonesimulator" -MMD -MT dependencies -MF "/Users/David/Desktop/Suncorp/Repositories/Release 2/FrameWorkApp/FrameWorkApp/obj/Xcode/0/DerivedData/FrameWorkApp/Build/Intermediates/FrameWorkApp.build/MonoTouch-iphonesimulator/FrameWorkApp.build/Objects-normal/i386/GoogleMapScreen-C5CFD75E14D1BAD3.d" --serialize-diagnostics "/Users/David/Desktop/Suncorp/Repositories/Release 2/FrameWorkApp/FrameWorkApp/obj/Xcode/0/DerivedData/FrameWorkApp/Build/Intermediates/FrameWorkApp.build/MonoTouch-iphonesimulator/FrameWorkApp.build/Objects-normal/i386/GoogleMapScreen-C5CFD75E14D1BAD3.dia" -c "/Users/David/Desktop/Suncorp/Repositories/Release 2/FrameWorkApp/FrameWorkApp/obj/Xcode/0/GoogleMapScreen.m" -o "/Users/David/Desktop/Suncorp/Repositories/Release 2/FrameWorkApp/FrameWorkApp/obj/Xcode/0/DerivedData/FrameWorkApp/Build/Intermediates/FrameWorkApp.build/MonoTouch-iphonesimulator/FrameWorkApp.build/Objects-normal/i386/GoogleMapScreen-C5CFD75E14D1BAD3.o"36"422ED76D-231E-4C7D-AC22-70A3570A3FB2-
+
+CCompileC DerivedData/FrameWorkApp/Build/Intermediates/FrameWorkApp.build/MonoTouch-iphonesimulator/FrameWorkApp.build/Objects-normal/i386/Information-9FB5CFF3F364E8F2.o "/Users/David/Desktop/Suncorp/Repositories/Release 2/FrameWorkApp/FrameWorkApp/obj/Xcode/0/Information.m" normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+r0
+
+CCompileC DerivedData/FrameWorkApp/Build/Intermediates/FrameWorkApp.build/MonoTouch-iphonesimulator/FrameWorkApp.build/Objects-normal/i386/MainNavigationController-3D8800E8335A67CF.o "/Users/David/Desktop/Suncorp/Repositories/Release 2/FrameWorkApp/FrameWorkApp/obj/Xcode/0/MainNavigationController.m" normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s397596162.740159
+e397596163.058393
+r1
+xCompileC
+xDerivedData/FrameWorkApp/Build/Intermediates/FrameWorkApp.build/MonoTouch-iphonesimulator/FrameWorkApp.build/Objects-normal/i386/MainNavigationController-3D8800E8335A67CF.o
+x/Users/David/Desktop/Suncorp/Repositories/Release 2/FrameWorkApp/FrameWorkApp/obj/Xcode/0/MainNavigationController.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection124"Compile /Users/David/Desktop/Suncorp/Repositories/Release 2/FrameWorkApp/FrameWorkApp/obj/Xcode/0/MainNavigationController.maa9dbd02d6b2b741^bd1d4103d6b2b741^---0#0#0#-19%DVTDocumentLocation2@134"file://localhost/Users/David/Desktop/Suncorp/Repositories/Release%202/FrameWorkApp/FrameWorkApp/obj/Xcode/0/MainNavigationController.m0000000000000000^4726"CompileC DerivedData/FrameWorkApp/Build/Intermediates/FrameWorkApp.build/MonoTouch-iphonesimulator/FrameWorkApp.build/Objects-normal/i386/MainNavigationController-3D8800E8335A67CF.o MainNavigationController.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd "/Users/David/Desktop/Suncorp/Repositories/Release 2/FrameWorkApp/FrameWorkApp/obj/Xcode/0"    setenv LANG en_US.US-ASCII    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/Applications/Xamarin Studio.app/Contents/MacOS:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch i386 -fmessage-length=0 -std=gnu99 -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wmissing-prototypes -Wreturn-type -Wno-implicit-atomic-properties -Wno-receiver-is-weak -Wformat -Wno-missing-braces -Wparentheses -Wswitch -Wno-unused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wno-empty-body -Wno-uninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wno-constant-conversion -Wno-int-conversion -Wno-enum-conversion -Wno-shorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wno-undeclared-selector -Wno-deprecated-implementations -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator6.1.sdk -fexceptions -fasm-blocks -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -g -Wno-sign-conversion -fobjc-abi-version=2 -fobjc-legacy-dispatch -mios-simulator-version-min=6.1 -iquote "/Users/David/Desktop/Suncorp/Repositories/Release 2/FrameWorkApp/FrameWorkApp/obj/Xcode/0/DerivedData/FrameWorkApp/Build/Intermediates/FrameWorkApp.build/MonoTouch-iphonesimulator/FrameWorkApp.build/FrameWorkApp-generated-files.hmap" "-I/Users/David/Desktop/Suncorp/Repositories/Release 2/FrameWorkApp/FrameWorkApp/obj/Xcode/0/DerivedData/FrameWorkApp/Build/Intermediates/FrameWorkApp.build/MonoTouch-iphonesimulator/FrameWorkApp.build/FrameWorkApp-own-target-headers.hmap" "-I/Users/David/Desktop/Suncorp/Repositories/Release 2/FrameWorkApp/FrameWorkApp/obj/Xcode/0/DerivedData/FrameWorkApp/Build/Intermediates/FrameWorkApp.build/MonoTouch-iphonesimulator/FrameWorkApp.build/FrameWorkApp-all-target-headers.hmap" -iquote "/Users/David/Desktop/Suncorp/Repositories/Release 2/FrameWorkApp/FrameWorkApp/obj/Xcode/0/DerivedData/FrameWorkApp/Build/Intermediates/FrameWorkApp.build/MonoTouch-iphonesimulator/FrameWorkApp.build/FrameWorkApp-project-headers.hmap" "-I/Users/David/Desktop/Suncorp/Repositories/Release 2/FrameWorkApp/FrameWorkApp/obj/Xcode/0/DerivedData/FrameWorkApp/Build/Products/MonoTouch-iphonesimulator/include" -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include "-I/Users/David/Desktop/Suncorp/Repositories/Release 2/FrameWorkApp/FrameWorkApp/obj/Xcode/0/DerivedData/FrameWorkApp/Build/Intermediates/FrameWorkApp.build/MonoTouch-iphonesimulator/FrameWorkApp.build/DerivedSources/i386" "-I/Users/David/Desktop/Suncorp/Repositories/Release 2/FrameWorkApp/FrameWorkApp/obj/Xcode/0/DerivedData/FrameWorkApp/Build/Intermediates/FrameWorkApp.build/MonoTouch-iphonesimulator/FrameWorkApp.build/DerivedSources" "-F/Users/David/Desktop/Suncorp/Repositories/Release 2/FrameWorkApp/FrameWorkApp/obj/Xcode/0/DerivedData/FrameWorkApp/Build/Products/MonoTouch-iphonesimulator" -MMD -MT dependencies -MF "/Users/David/Desktop/Suncorp/Repositories/Release 2/FrameWorkApp/FrameWorkApp/obj/Xcode/0/DerivedData/FrameWorkApp/Build/Intermediates/FrameWorkApp.build/MonoTouch-iphonesimulator/FrameWorkApp.build/Objects-normal/i386/MainNavigationController-3D8800E8335A67CF.d" --serialize-diagnostics "/Users/David/Desktop/Suncorp/Repositories/Release 2/FrameWorkApp/FrameWorkApp/obj/Xcode/0/DerivedData/FrameWorkApp/Build/Intermediates/FrameWorkApp.build/MonoTouch-iphonesimulator/FrameWorkApp.build/Objects-normal/i386/MainNavigationController-3D8800E8335A67CF.dia" -c "/Users/David/Desktop/Suncorp/Repositories/Release 2/FrameWorkApp/FrameWorkApp/obj/Xcode/0/MainNavigationController.m" -o "/Users/David/Desktop/Suncorp/Repositories/Release 2/FrameWorkApp/FrameWorkApp/obj/Xcode/0/DerivedData/FrameWorkApp/Build/Intermediates/FrameWorkApp.build/MonoTouch-iphonesimulator/FrameWorkApp.build/Objects-normal/i386/MainNavigationController-3D8800E8335A67CF.o"36"613D6EE1-7413-48A3-B06F-1D2E92911FBA-
+
+CCompileC DerivedData/FrameWorkApp/Build/Intermediates/FrameWorkApp.build/MonoTouch-iphonesimulator/FrameWorkApp.build/Objects-normal/i386/MainViewController-4070BA7EF6532EB.o "/Users/David/Desktop/Suncorp/Repositories/Release 2/FrameWorkApp/FrameWorkApp/obj/Xcode/0/MainViewController.m" normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s397596160.204040
+e397596161.529982
+r1
+xCompileC
+xDerivedData/FrameWorkApp/Build/Intermediates/FrameWorkApp.build/MonoTouch-iphonesimulator/FrameWorkApp.build/Objects-normal/i386/MainViewController-4070BA7EF6532EB.o
+x/Users/David/Desktop/Suncorp/Repositories/Release 2/FrameWorkApp/FrameWorkApp/obj/Xcode/0/MainViewController.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection118"Compile /Users/David/Desktop/Suncorp/Repositories/Release 2/FrameWorkApp/FrameWorkApp/obj/Xcode/0/MainViewController.m9c8b4f00d6b2b741^8baa8701d6b2b741^---0#0#0#-19%DVTDocumentLocation2@128"file://localhost/Users/David/Desktop/Suncorp/Repositories/Release%202/FrameWorkApp/FrameWorkApp/obj/Xcode/0/MainViewController.m0000000000000000^4686"CompileC DerivedData/FrameWorkApp/Build/Intermediates/FrameWorkApp.build/MonoTouch-iphonesimulator/FrameWorkApp.build/Objects-normal/i386/MainViewController-4070BA7EF6532EB.o MainViewController.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd "/Users/David/Desktop/Suncorp/Repositories/Release 2/FrameWorkApp/FrameWorkApp/obj/Xcode/0"    setenv LANG en_US.US-ASCII    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/Applications/Xamarin Studio.app/Contents/MacOS:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch i386 -fmessage-length=0 -std=gnu99 -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wmissing-prototypes -Wreturn-type -Wno-implicit-atomic-properties -Wno-receiver-is-weak -Wformat -Wno-missing-braces -Wparentheses -Wswitch -Wno-unused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wno-empty-body -Wno-uninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wno-constant-conversion -Wno-int-conversion -Wno-enum-conversion -Wno-shorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wno-undeclared-selector -Wno-deprecated-implementations -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator6.1.sdk -fexceptions -fasm-blocks -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -g -Wno-sign-conversion -fobjc-abi-version=2 -fobjc-legacy-dispatch -mios-simulator-version-min=6.1 -iquote "/Users/David/Desktop/Suncorp/Repositories/Release 2/FrameWorkApp/FrameWorkApp/obj/Xcode/0/DerivedData/FrameWorkApp/Build/Intermediates/FrameWorkApp.build/MonoTouch-iphonesimulator/FrameWorkApp.build/FrameWorkApp-generated-files.hmap" "-I/Users/David/Desktop/Suncorp/Repositories/Release 2/FrameWorkApp/FrameWorkApp/obj/Xcode/0/DerivedData/FrameWorkApp/Build/Intermediates/FrameWorkApp.build/MonoTouch-iphonesimulator/FrameWorkApp.build/FrameWorkApp-own-target-headers.hmap" "-I/Users/David/Desktop/Suncorp/Repositories/Release 2/FrameWorkApp/FrameWorkApp/obj/Xcode/0/DerivedData/FrameWorkApp/Build/Intermediates/FrameWorkApp.build/MonoTouch-iphonesimulator/FrameWorkApp.build/FrameWorkApp-all-target-headers.hmap" -iquote "/Users/David/Desktop/Suncorp/Repositories/Release 2/FrameWorkApp/FrameWorkApp/obj/Xcode/0/DerivedData/FrameWorkApp/Build/Intermediates/FrameWorkApp.build/MonoTouch-iphonesimulator/FrameWorkApp.build/FrameWorkApp-project-headers.hmap" "-I/Users/David/Desktop/Suncorp/Repositories/Release 2/FrameWorkApp/FrameWorkApp/obj/Xcode/0/DerivedData/FrameWorkApp/Build/Products/MonoTouch-iphonesimulator/include" -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include "-I/Users/David/Desktop/Suncorp/Repositories/Release 2/FrameWorkApp/FrameWorkApp/obj/Xcode/0/DerivedData/FrameWorkApp/Build/Intermediates/FrameWorkApp.build/MonoTouch-iphonesimulator/FrameWorkApp.build/DerivedSources/i386" "-I/Users/David/Desktop/Suncorp/Repositories/Release 2/FrameWorkApp/FrameWorkApp/obj/Xcode/0/DerivedData/FrameWorkApp/Build/Intermediates/FrameWorkApp.build/MonoTouch-iphonesimulator/FrameWorkApp.build/DerivedSources" "-F/Users/David/Desktop/Suncorp/Repositories/Release 2/FrameWorkApp/FrameWorkApp/obj/Xcode/0/DerivedData/FrameWorkApp/Build/Products/MonoTouch-iphonesimulator" -MMD -MT dependencies -MF "/Users/David/Desktop/Suncorp/Repositories/Release 2/FrameWorkApp/FrameWorkApp/obj/Xcode/0/DerivedData/FrameWorkApp/Build/Intermediates/FrameWorkApp.build/MonoTouch-iphonesimulator/FrameWorkApp.build/Objects-normal/i386/MainViewController-4070BA7EF6532EB.d" --serialize-diagnostics "/Users/David/Desktop/Suncorp/Repositories/Release 2/FrameWorkApp/FrameWorkApp/obj/Xcode/0/DerivedData/FrameWorkApp/Build/Intermediates/FrameWorkApp.build/MonoTouch-iphonesimulator/FrameWorkApp.build/Objects-normal/i386/MainViewController-4070BA7EF6532EB.dia" -c "/Users/David/Desktop/Suncorp/Repositories/Release 2/FrameWorkApp/FrameWorkApp/obj/Xcode/0/MainViewController.m" -o "/Users/David/Desktop/Suncorp/Repositories/Release 2/FrameWorkApp/FrameWorkApp/obj/Xcode/0/DerivedData/FrameWorkApp/Build/Intermediates/FrameWorkApp.build/MonoTouch-iphonesimulator/FrameWorkApp.build/Objects-normal/i386/MainViewController-4070BA7EF6532EB.o"36"2A5E76AD-9A5A-4CBF-9EF1-700F95386B1D-
+
+CCompileC DerivedData/FrameWorkApp/Build/Intermediates/FrameWorkApp.build/MonoTouch-iphonesimulator/FrameWorkApp.build/Objects-normal/i386/MenuScreen-AD6585BA969F41DA.o "/Users/David/Desktop/Suncorp/Repositories/Release 2/FrameWorkApp/FrameWorkApp/obj/Xcode/0/MenuScreen.m" normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s397596160.204221
+e397596161.508009
+r1
+xCompileC
+xDerivedData/FrameWorkApp/Build/Intermediates/FrameWorkApp.build/MonoTouch-iphonesimulator/FrameWorkApp.build/Objects-normal/i386/MenuScreen-AD6585BA969F41DA.o
+x/Users/David/Desktop/Suncorp/Repositories/Release 2/FrameWorkApp/FrameWorkApp/obj/Xcode/0/MenuScreen.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection110"Compile /Users/David/Desktop/Suncorp/Repositories/Release 2/FrameWorkApp/FrameWorkApp/obj/Xcode/0/MenuScreen.m378b4f00d6b2b741^e90a8201d6b2b741^---0#0#0#-19%DVTDocumentLocation2@120"file://localhost/Users/David/Desktop/Suncorp/Repositories/Release%202/FrameWorkApp/FrameWorkApp/obj/Xcode/0/MenuScreen.m0000000000000000^4642"CompileC DerivedData/FrameWorkApp/Build/Intermediates/FrameWorkApp.build/MonoTouch-iphonesimulator/FrameWorkApp.build/Objects-normal/i386/MenuScreen-AD6585BA969F41DA.o MenuScreen.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd "/Users/David/Desktop/Suncorp/Repositories/Release 2/FrameWorkApp/FrameWorkApp/obj/Xcode/0"    setenv LANG en_US.US-ASCII    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/Applications/Xamarin Studio.app/Contents/MacOS:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch i386 -fmessage-length=0 -std=gnu99 -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wmissing-prototypes -Wreturn-type -Wno-implicit-atomic-properties -Wno-receiver-is-weak -Wformat -Wno-missing-braces -Wparentheses -Wswitch -Wno-unused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wno-empty-body -Wno-uninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wno-constant-conversion -Wno-int-conversion -Wno-enum-conversion -Wno-shorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wno-undeclared-selector -Wno-deprecated-implementations -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator6.1.sdk -fexceptions -fasm-blocks -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -g -Wno-sign-conversion -fobjc-abi-version=2 -fobjc-legacy-dispatch -mios-simulator-version-min=6.1 -iquote "/Users/David/Desktop/Suncorp/Repositories/Release 2/FrameWorkApp/FrameWorkApp/obj/Xcode/0/DerivedData/FrameWorkApp/Build/Intermediates/FrameWorkApp.build/MonoTouch-iphonesimulator/FrameWorkApp.build/FrameWorkApp-generated-files.hmap" "-I/Users/David/Desktop/Suncorp/Repositories/Release 2/FrameWorkApp/FrameWorkApp/obj/Xcode/0/DerivedData/FrameWorkApp/Build/Intermediates/FrameWorkApp.build/MonoTouch-iphonesimulator/FrameWorkApp.build/FrameWorkApp-own-target-headers.hmap" "-I/Users/David/Desktop/Suncorp/Repositories/Release 2/FrameWorkApp/FrameWorkApp/obj/Xcode/0/DerivedData/FrameWorkApp/Build/Intermediates/FrameWorkApp.build/MonoTouch-iphonesimulator/FrameWorkApp.build/FrameWorkApp-all-target-headers.hmap" -iquote "/Users/David/Desktop/Suncorp/Repositories/Release 2/FrameWorkApp/FrameWorkApp/obj/Xcode/0/DerivedData/FrameWorkApp/Build/Intermediates/FrameWorkApp.build/MonoTouch-iphonesimulator/FrameWorkApp.build/FrameWorkApp-project-headers.hmap" "-I/Users/David/Desktop/Suncorp/Repositories/Release 2/FrameWorkApp/FrameWorkApp/obj/Xcode/0/DerivedData/FrameWorkApp/Build/Products/MonoTouch-iphonesimulator/include" -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include "-I/Users/David/Desktop/Suncorp/Repositories/Release 2/FrameWorkApp/FrameWorkApp/obj/Xcode/0/DerivedData/FrameWorkApp/Build/Intermediates/FrameWorkApp.build/MonoTouch-iphonesimulator/FrameWorkApp.build/DerivedSources/i386" "-I/Users/David/Desktop/Suncorp/Repositories/Release 2/FrameWorkApp/FrameWorkApp/obj/Xcode/0/DerivedData/FrameWorkApp/Build/Intermediates/FrameWorkApp.build/MonoTouch-iphonesimulator/FrameWorkApp.build/DerivedSources" "-F/Users/David/Desktop/Suncorp/Repositories/Release 2/FrameWorkApp/FrameWorkApp/obj/Xcode/0/DerivedData/FrameWorkApp/Build/Products/MonoTouch-iphonesimulator" -MMD -MT dependencies -MF "/Users/David/Desktop/Suncorp/Repositories/Release 2/FrameWorkApp/FrameWorkApp/obj/Xcode/0/DerivedData/FrameWorkApp/Build/Intermediates/FrameWorkApp.build/MonoTouch-iphonesimulator/FrameWorkApp.build/Objects-normal/i386/MenuScreen-AD6585BA969F41DA.d" --serialize-diagnostics "/Users/David/Desktop/Suncorp/Repositories/Release 2/FrameWorkApp/FrameWorkApp/obj/Xcode/0/DerivedData/FrameWorkApp/Build/Intermediates/FrameWorkApp.build/MonoTouch-iphonesimulator/FrameWorkApp.build/Objects-normal/i386/MenuScreen-AD6585BA969F41DA.dia" -c "/Users/David/Desktop/Suncorp/Repositories/Release 2/FrameWorkApp/FrameWorkApp/obj/Xcode/0/MenuScreen.m" -o "/Users/David/Desktop/Suncorp/Repositories/Release 2/FrameWorkApp/FrameWorkApp/obj/Xcode/0/DerivedData/FrameWorkApp/Build/Intermediates/FrameWorkApp.build/MonoTouch-iphonesimulator/FrameWorkApp.build/Objects-normal/i386/MenuScreen-AD6585BA969F41DA.o"36"7D04BC46-A845-4DB9-AA0E-37C9600E0009-
+
+CCompileC DerivedData/FrameWorkApp/Build/Intermediates/FrameWorkApp.build/MonoTouch-iphonesimulator/FrameWorkApp.build/Objects-normal/i386/MenuScreenTiles-1FAAF4485497F5CA.o "/Users/David/Desktop/Suncorp/Repositories/Release 2/FrameWorkApp/FrameWorkApp/obj/Xcode/0/MenuScreenTiles.m" normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s397596161.509279
+e397596162.166817
+r1
+xCompileC
+xDerivedData/FrameWorkApp/Build/Intermediates/FrameWorkApp.build/MonoTouch-iphonesimulator/FrameWorkApp.build/Objects-normal/i386/MenuScreenTiles-1FAAF4485497F5CA.o
+x/Users/David/Desktop/Suncorp/Repositories/Release 2/FrameWorkApp/FrameWorkApp/obj/Xcode/0/MenuScreenTiles.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection115"Compile /Users/David/Desktop/Suncorp/Repositories/Release 2/FrameWorkApp/FrameWorkApp/obj/Xcode/0/MenuScreenTiles.mb4928201d6b2b741^e1b22a02d6b2b741^---0#0#0#-19%DVTDocumentLocation2@125"file://localhost/Users/David/Desktop/Suncorp/Repositories/Release%202/FrameWorkApp/FrameWorkApp/obj/Xcode/0/MenuScreenTiles.m0000000000000000^4672"CompileC DerivedData/FrameWorkApp/Build/Intermediates/FrameWorkApp.build/MonoTouch-iphonesimulator/FrameWorkApp.build/Objects-normal/i386/MenuScreenTiles-1FAAF4485497F5CA.o MenuScreenTiles.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd "/Users/David/Desktop/Suncorp/Repositories/Release 2/FrameWorkApp/FrameWorkApp/obj/Xcode/0"    setenv LANG en_US.US-ASCII    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/Applications/Xamarin Studio.app/Contents/MacOS:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch i386 -fmessage-length=0 -std=gnu99 -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wmissing-prototypes -Wreturn-type -Wno-implicit-atomic-properties -Wno-receiver-is-weak -Wformat -Wno-missing-braces -Wparentheses -Wswitch -Wno-unused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wno-empty-body -Wno-uninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wno-constant-conversion -Wno-int-conversion -Wno-enum-conversion -Wno-shorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wno-undeclared-selector -Wno-deprecated-implementations -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator6.1.sdk -fexceptions -fasm-blocks -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -g -Wno-sign-conversion -fobjc-abi-version=2 -fobjc-legacy-dispatch -mios-simulator-version-min=6.1 -iquote "/Users/David/Desktop/Suncorp/Repositories/Release 2/FrameWorkApp/FrameWorkApp/obj/Xcode/0/DerivedData/FrameWorkApp/Build/Intermediates/FrameWorkApp.build/MonoTouch-iphonesimulator/FrameWorkApp.build/FrameWorkApp-generated-files.hmap" "-I/Users/David/Desktop/Suncorp/Repositories/Release 2/FrameWorkApp/FrameWorkApp/obj/Xcode/0/DerivedData/FrameWorkApp/Build/Intermediates/FrameWorkApp.build/MonoTouch-iphonesimulator/FrameWorkApp.build/FrameWorkApp-own-target-headers.hmap" "-I/Users/David/Desktop/Suncorp/Repositories/Release 2/FrameWorkApp/FrameWorkApp/obj/Xcode/0/DerivedData/FrameWorkApp/Build/Intermediates/FrameWorkApp.build/MonoTouch-iphonesimulator/FrameWorkApp.build/FrameWorkApp-all-target-headers.hmap" -iquote "/Users/David/Desktop/Suncorp/Repositories/Release 2/FrameWorkApp/FrameWorkApp/obj/Xcode/0/DerivedData/FrameWorkApp/Build/Intermediates/FrameWorkApp.build/MonoTouch-iphonesimulator/FrameWorkApp.build/FrameWorkApp-project-headers.hmap" "-I/Users/David/Desktop/Suncorp/Repositories/Release 2/FrameWorkApp/FrameWorkApp/obj/Xcode/0/DerivedData/FrameWorkApp/Build/Products/MonoTouch-iphonesimulator/include" -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include "-I/Users/David/Desktop/Suncorp/Repositories/Release 2/FrameWorkApp/FrameWorkApp/obj/Xcode/0/DerivedData/FrameWorkApp/Build/Intermediates/FrameWorkApp.build/MonoTouch-iphonesimulator/FrameWorkApp.build/DerivedSources/i386" "-I/Users/David/Desktop/Suncorp/Repositories/Release 2/FrameWorkApp/FrameWorkApp/obj/Xcode/0/DerivedData/FrameWorkApp/Build/Intermediates/FrameWorkApp.build/MonoTouch-iphonesimulator/FrameWorkApp.build/DerivedSources" "-F/Users/David/Desktop/Suncorp/Repositories/Release 2/FrameWorkApp/FrameWorkApp/obj/Xcode/0/DerivedData/FrameWorkApp/Build/Products/MonoTouch-iphonesimulator" -MMD -MT dependencies -MF "/Users/David/Desktop/Suncorp/Repositories/Release 2/FrameWorkApp/FrameWorkApp/obj/Xcode/0/DerivedData/FrameWorkApp/Build/Intermediates/FrameWorkApp.build/MonoTouch-iphonesimulator/FrameWorkApp.build/Objects-normal/i386/MenuScreenTiles-1FAAF4485497F5CA.d" --serialize-diagnostics "/Users/David/Desktop/Suncorp/Repositories/Release 2/FrameWorkApp/FrameWorkApp/obj/Xcode/0/DerivedData/FrameWorkApp/Build/Intermediates/FrameWorkApp.build/MonoTouch-iphonesimulator/FrameWorkApp.build/Objects-normal/i386/MenuScreenTiles-1FAAF4485497F5CA.dia" -c "/Users/David/Desktop/Suncorp/Repositories/Release 2/FrameWorkApp/FrameWorkApp/obj/Xcode/0/MenuScreenTiles.m" -o "/Users/David/Desktop/Suncorp/Repositories/Release 2/FrameWorkApp/FrameWorkApp/obj/Xcode/0/DerivedData/FrameWorkApp/Build/Intermediates/FrameWorkApp.build/MonoTouch-iphonesimulator/FrameWorkApp.build/Objects-normal/i386/MenuScreenTiles-1FAAF4485497F5CA.o"36"26C43FD8-E26A-43B7-BD10-221164359FFC-
+
+CCompileC DerivedData/FrameWorkApp/Build/Intermediates/FrameWorkApp.build/MonoTouch-iphonesimulator/FrameWorkApp.build/Objects-normal/i386/SettingsScreen-DEEB5E81631013E0.o "/Users/David/Desktop/Suncorp/Repositories/Release 2/FrameWorkApp/FrameWorkApp/obj/Xcode/0/SettingsScreen.m" normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s397596161.460310
+e397596162.153652
+r1
+xCompileC
+xDerivedData/FrameWorkApp/Build/Intermediates/FrameWorkApp.build/MonoTouch-iphonesimulator/FrameWorkApp.build/Objects-normal/i386/SettingsScreen-DEEB5E81631013E0.o
+x/Users/David/Desktop/Suncorp/Repositories/Release 2/FrameWorkApp/FrameWorkApp/obj/Xcode/0/SettingsScreen.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection114"Compile /Users/David/Desktop/Suncorp/Repositories/Release 2/FrameWorkApp/FrameWorkApp/obj/Xcode/0/SettingsScreen.me2007601d6b2b741^b5532702d6b2b741^---0#0#0#-19%DVTDocumentLocation2@124"file://localhost/Users/David/Desktop/Suncorp/Repositories/Release%202/FrameWorkApp/FrameWorkApp/obj/Xcode/0/SettingsScreen.m0000000000000000^4666"CompileC DerivedData/FrameWorkApp/Build/Intermediates/FrameWorkApp.build/MonoTouch-iphonesimulator/FrameWorkApp.build/Objects-normal/i386/SettingsScreen-DEEB5E81631013E0.o SettingsScreen.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd "/Users/David/Desktop/Suncorp/Repositories/Release 2/FrameWorkApp/FrameWorkApp/obj/Xcode/0"    setenv LANG en_US.US-ASCII    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/Applications/Xamarin Studio.app/Contents/MacOS:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch i386 -fmessage-length=0 -std=gnu99 -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wmissing-prototypes -Wreturn-type -Wno-implicit-atomic-properties -Wno-receiver-is-weak -Wformat -Wno-missing-braces -Wparentheses -Wswitch -Wno-unused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wno-empty-body -Wno-uninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wno-constant-conversion -Wno-int-conversion -Wno-enum-conversion -Wno-shorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wno-undeclared-selector -Wno-deprecated-implementations -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator6.1.sdk -fexceptions -fasm-blocks -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -g -Wno-sign-conversion -fobjc-abi-version=2 -fobjc-legacy-dispatch -mios-simulator-version-min=6.1 -iquote "/Users/David/Desktop/Suncorp/Repositories/Release 2/FrameWorkApp/FrameWorkApp/obj/Xcode/0/DerivedData/FrameWorkApp/Build/Intermediates/FrameWorkApp.build/MonoTouch-iphonesimulator/FrameWorkApp.build/FrameWorkApp-generated-files.hmap" "-I/Users/David/Desktop/Suncorp/Repositories/Release 2/FrameWorkApp/FrameWorkApp/obj/Xcode/0/DerivedData/FrameWorkApp/Build/Intermediates/FrameWorkApp.build/MonoTouch-iphonesimulator/FrameWorkApp.build/FrameWorkApp-own-target-headers.hmap" "-I/Users/David/Desktop/Suncorp/Repositories/Release 2/FrameWorkApp/FrameWorkApp/obj/Xcode/0/DerivedData/FrameWorkApp/Build/Intermediates/FrameWorkApp.build/MonoTouch-iphonesimulator/FrameWorkApp.build/FrameWorkApp-all-target-headers.hmap" -iquote "/Users/David/Desktop/Suncorp/Repositories/Release 2/FrameWorkApp/FrameWorkApp/obj/Xcode/0/DerivedData/FrameWorkApp/Build/Intermediates/FrameWorkApp.build/MonoTouch-iphonesimulator/FrameWorkApp.build/FrameWorkApp-project-headers.hmap" "-I/Users/David/Desktop/Suncorp/Repositories/Release 2/FrameWorkApp/FrameWorkApp/obj/Xcode/0/DerivedData/FrameWorkApp/Build/Products/MonoTouch-iphonesimulator/include" -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include "-I/Users/David/Desktop/Suncorp/Repositories/Release 2/FrameWorkApp/FrameWorkApp/obj/Xcode/0/DerivedData/FrameWorkApp/Build/Intermediates/FrameWorkApp.build/MonoTouch-iphonesimulator/FrameWorkApp.build/DerivedSources/i386" "-I/Users/David/Desktop/Suncorp/Repositories/Release 2/FrameWorkApp/FrameWorkApp/obj/Xcode/0/DerivedData/FrameWorkApp/Build/Intermediates/FrameWorkApp.build/MonoTouch-iphonesimulator/FrameWorkApp.build/DerivedSources" "-F/Users/David/Desktop/Suncorp/Repositories/Release 2/FrameWorkApp/FrameWorkApp/obj/Xcode/0/DerivedData/FrameWorkApp/Build/Products/MonoTouch-iphonesimulator" -MMD -MT dependencies -MF "/Users/David/Desktop/Suncorp/Repositories/Release 2/FrameWorkApp/FrameWorkApp/obj/Xcode/0/DerivedData/FrameWorkApp/Build/Intermediates/FrameWorkApp.build/MonoTouch-iphonesimulator/FrameWorkApp.build/Objects-normal/i386/SettingsScreen-DEEB5E81631013E0.d" --serialize-diagnostics "/Users/David/Desktop/Suncorp/Repositories/Release 2/FrameWorkApp/FrameWorkApp/obj/Xcode/0/DerivedData/FrameWorkApp/Build/Intermediates/FrameWorkApp.build/MonoTouch-iphonesimulator/FrameWorkApp.build/Objects-normal/i386/SettingsScreen-DEEB5E81631013E0.dia" -c "/Users/David/Desktop/Suncorp/Repositories/Release 2/FrameWorkApp/FrameWorkApp/obj/Xcode/0/SettingsScreen.m" -o "/Users/David/Desktop/Suncorp/Repositories/Release 2/FrameWorkApp/FrameWorkApp/obj/Xcode/0/DerivedData/FrameWorkApp/Build/Intermediates/FrameWorkApp.build/MonoTouch-iphonesimulator/FrameWorkApp.build/Objects-normal/i386/SettingsScreen-DEEB5E81631013E0.o"36"14C93E1A-6A00-4CB0-ACE2-BA9160D48D1D-
+
+CCompileC DerivedData/FrameWorkApp/Build/Intermediates/FrameWorkApp.build/MonoTouch-iphonesimulator/FrameWorkApp.build/Objects-normal/i386/StatsScreen-A0343C9813BFEBEA.o "/Users/David/Desktop/Suncorp/Repositories/Release 2/FrameWorkApp/FrameWorkApp/obj/Xcode/0/StatsScreen.m" normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s397596162.168216
+e397596162.481467
+r1
+xCompileC
+xDerivedData/FrameWorkApp/Build/Intermediates/FrameWorkApp.build/MonoTouch-iphonesimulator/FrameWorkApp.build/Objects-normal/i386/StatsScreen-A0343C9813BFEBEA.o
+x/Users/David/Desktop/Suncorp/Repositories/Release 2/FrameWorkApp/FrameWorkApp/obj/Xcode/0/StatsScreen.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection111"Compile /Users/David/Desktop/Suncorp/Repositories/Release 2/FrameWorkApp/FrameWorkApp/obj/Xcode/0/StatsScreen.m96432b02d6b2b741^8d457b02d6b2b741^---0#0#0#-19%DVTDocumentLocation2@121"file://localhost/Users/David/Desktop/Suncorp/Repositories/Release%202/FrameWorkApp/FrameWorkApp/obj/Xcode/0/StatsScreen.m0000000000000000^4648"CompileC DerivedData/FrameWorkApp/Build/Intermediates/FrameWorkApp.build/MonoTouch-iphonesimulator/FrameWorkApp.build/Objects-normal/i386/StatsScreen-A0343C9813BFEBEA.o StatsScreen.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd "/Users/David/Desktop/Suncorp/Repositories/Release 2/FrameWorkApp/FrameWorkApp/obj/Xcode/0"    setenv LANG en_US.US-ASCII    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/Applications/Xamarin Studio.app/Contents/MacOS:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch i386 -fmessage-length=0 -std=gnu99 -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wmissing-prototypes -Wreturn-type -Wno-implicit-atomic-properties -Wno-receiver-is-weak -Wformat -Wno-missing-braces -Wparentheses -Wswitch -Wno-unused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wno-empty-body -Wno-uninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wno-constant-conversion -Wno-int-conversion -Wno-enum-conversion -Wno-shorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wno-undeclared-selector -Wno-deprecated-implementations -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator6.1.sdk -fexceptions -fasm-blocks -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -g -Wno-sign-conversion -fobjc-abi-version=2 -fobjc-legacy-dispatch -mios-simulator-version-min=6.1 -iquote "/Users/David/Desktop/Suncorp/Repositories/Release 2/FrameWorkApp/FrameWorkApp/obj/Xcode/0/DerivedData/FrameWorkApp/Build/Intermediates/FrameWorkApp.build/MonoTouch-iphonesimulator/FrameWorkApp.build/FrameWorkApp-generated-files.hmap" "-I/Users/David/Desktop/Suncorp/Repositories/Release 2/FrameWorkApp/FrameWorkApp/obj/Xcode/0/DerivedData/FrameWorkApp/Build/Intermediates/FrameWorkApp.build/MonoTouch-iphonesimulator/FrameWorkApp.build/FrameWorkApp-own-target-headers.hmap" "-I/Users/David/Desktop/Suncorp/Repositories/Release 2/FrameWorkApp/FrameWorkApp/obj/Xcode/0/DerivedData/FrameWorkApp/Build/Intermediates/FrameWorkApp.build/MonoTouch-iphonesimulator/FrameWorkApp.build/FrameWorkApp-all-target-headers.hmap" -iquote "/Users/David/Desktop/Suncorp/Repositories/Release 2/FrameWorkApp/FrameWorkApp/obj/Xcode/0/DerivedData/FrameWorkApp/Build/Intermediates/FrameWorkApp.build/MonoTouch-iphonesimulator/FrameWorkApp.build/FrameWorkApp-project-headers.hmap" "-I/Users/David/Desktop/Suncorp/Repositories/Release 2/FrameWorkApp/FrameWorkApp/obj/Xcode/0/DerivedData/FrameWorkApp/Build/Products/MonoTouch-iphonesimulator/include" -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include "-I/Users/David/Desktop/Suncorp/Repositories/Release 2/FrameWorkApp/FrameWorkApp/obj/Xcode/0/DerivedData/FrameWorkApp/Build/Intermediates/FrameWorkApp.build/MonoTouch-iphonesimulator/FrameWorkApp.build/DerivedSources/i386" "-I/Users/David/Desktop/Suncorp/Repositories/Release 2/FrameWorkApp/FrameWorkApp/obj/Xcode/0/DerivedData/FrameWorkApp/Build/Intermediates/FrameWorkApp.build/MonoTouch-iphonesimulator/FrameWorkApp.build/DerivedSources" "-F/Users/David/Desktop/Suncorp/Repositories/Release 2/FrameWorkApp/FrameWorkApp/obj/Xcode/0/DerivedData/FrameWorkApp/Build/Products/MonoTouch-iphonesimulator" -MMD -MT dependencies -MF "/Users/David/Desktop/Suncorp/Repositories/Release 2/FrameWorkApp/FrameWorkApp/obj/Xcode/0/DerivedData/FrameWorkApp/Build/Intermediates/FrameWorkApp.build/MonoTouch-iphonesimulator/FrameWorkApp.build/Objects-normal/i386/StatsScreen-A0343C9813BFEBEA.d" --serialize-diagnostics "/Users/David/Desktop/Suncorp/Repositories/Release 2/FrameWorkApp/FrameWorkApp/obj/Xcode/0/DerivedData/FrameWorkApp/Build/Intermediates/FrameWorkApp.build/MonoTouch-iphonesimulator/FrameWorkApp.build/Objects-normal/i386/StatsScreen-A0343C9813BFEBEA.dia" -c "/Users/David/Desktop/Suncorp/Repositories/Release 2/FrameWorkApp/FrameWorkApp/obj/Xcode/0/StatsScreen.m" -o "/Users/David/Desktop/Suncorp/Repositories/Release 2/FrameWorkApp/FrameWorkApp/obj/Xcode/0/DerivedData/FrameWorkApp/Build/Intermediates/FrameWorkApp.build/MonoTouch-iphonesimulator/FrameWorkApp.build/Objects-normal/i386/StatsScreen-A0343C9813BFEBEA.o"36"3C6340FF-F639-4C1B-8825-7572C0DF684F-
+
+CCompileC DerivedData/FrameWorkApp/Build/Intermediates/FrameWorkApp.build/MonoTouch-iphonesimulator/FrameWorkApp.build/Objects-normal/i386/StopScreen-4992B6AABAF9FAD9.o "/Users/David/Desktop/Suncorp/Repositories/Release 2/FrameWorkApp/FrameWorkApp/obj/Xcode/0/StopScreen.m" normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s397596162.226483
+e397596162.574822
+r1
+xCompileC
+xDerivedData/FrameWorkApp/Build/Intermediates/FrameWorkApp.build/MonoTouch-iphonesimulator/FrameWorkApp.build/Objects-normal/i386/StopScreen-4992B6AABAF9FAD9.o
+x/Users/David/Desktop/Suncorp/Repositories/Release 2/FrameWorkApp/FrameWorkApp/obj/Xcode/0/StopScreen.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection110"Compile /Users/David/Desktop/Suncorp/Repositories/Release 2/FrameWorkApp/FrameWorkApp/obj/Xcode/0/StopScreen.m8c2f3a02d6b2b741^d5259302d6b2b741^---0#0#0#-19%DVTDocumentLocation2@120"file://localhost/Users/David/Desktop/Suncorp/Repositories/Release%202/FrameWorkApp/FrameWorkApp/obj/Xcode/0/StopScreen.m0000000000000000^4642"CompileC DerivedData/FrameWorkApp/Build/Intermediates/FrameWorkApp.build/MonoTouch-iphonesimulator/FrameWorkApp.build/Objects-normal/i386/StopScreen-4992B6AABAF9FAD9.o StopScreen.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd "/Users/David/Desktop/Suncorp/Repositories/Release 2/FrameWorkApp/FrameWorkApp/obj/Xcode/0"    setenv LANG en_US.US-ASCII    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/Applications/Xamarin Studio.app/Contents/MacOS:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch i386 -fmessage-length=0 -std=gnu99 -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wmissing-prototypes -Wreturn-type -Wno-implicit-atomic-properties -Wno-receiver-is-weak -Wformat -Wno-missing-braces -Wparentheses -Wswitch -Wno-unused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wno-empty-body -Wno-uninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wno-constant-conversion -Wno-int-conversion -Wno-enum-conversion -Wno-shorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wno-undeclared-selector -Wno-deprecated-implementations -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator6.1.sdk -fexceptions -fasm-blocks -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -g -Wno-sign-conversion -fobjc-abi-version=2 -fobjc-legacy-dispatch -mios-simulator-version-min=6.1 -iquote "/Users/David/Desktop/Suncorp/Repositories/Release 2/FrameWorkApp/FrameWorkApp/obj/Xcode/0/DerivedData/FrameWorkApp/Build/Intermediates/FrameWorkApp.build/MonoTouch-iphonesimulator/FrameWorkApp.build/FrameWorkApp-generated-files.hmap" "-I/Users/David/Desktop/Suncorp/Repositories/Release 2/FrameWorkApp/FrameWorkApp/obj/Xcode/0/DerivedData/FrameWorkApp/Build/Intermediates/FrameWorkApp.build/MonoTouch-iphonesimulator/FrameWorkApp.build/FrameWorkApp-own-target-headers.hmap" "-I/Users/David/Desktop/Suncorp/Repositories/Release 2/FrameWorkApp/FrameWorkApp/obj/Xcode/0/DerivedData/FrameWorkApp/Build/Intermediates/FrameWorkApp.build/MonoTouch-iphonesimulator/FrameWorkApp.build/FrameWorkApp-all-target-headers.hmap" -iquote "/Users/David/Desktop/Suncorp/Repositories/Release 2/FrameWorkApp/FrameWorkApp/obj/Xcode/0/DerivedData/FrameWorkApp/Build/Intermediates/FrameWorkApp.build/MonoTouch-iphonesimulator/FrameWorkApp.build/FrameWorkApp-project-headers.hmap" "-I/Users/David/Desktop/Suncorp/Repositories/Release 2/FrameWorkApp/FrameWorkApp/obj/Xcode/0/DerivedData/FrameWorkApp/Build/Products/MonoTouch-iphonesimulator/include" -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include "-I/Users/David/Desktop/Suncorp/Repositories/Release 2/FrameWorkApp/FrameWorkApp/obj/Xcode/0/DerivedData/FrameWorkApp/Build/Intermediates/FrameWorkApp.build/MonoTouch-iphonesimulator/FrameWorkApp.build/DerivedSources/i386" "-I/Users/David/Desktop/Suncorp/Repositories/Release 2/FrameWorkApp/FrameWorkApp/obj/Xcode/0/DerivedData/FrameWorkApp/Build/Intermediates/FrameWorkApp.build/MonoTouch-iphonesimulator/FrameWorkApp.build/DerivedSources" "-F/Users/David/Desktop/Suncorp/Repositories/Release 2/FrameWorkApp/FrameWorkApp/obj/Xcode/0/DerivedData/FrameWorkApp/Build/Products/MonoTouch-iphonesimulator" -MMD -MT dependencies -MF "/Users/David/Desktop/Suncorp/Repositories/Release 2/FrameWorkApp/FrameWorkApp/obj/Xcode/0/DerivedData/FrameWorkApp/Build/Intermediates/FrameWorkApp.build/MonoTouch-iphonesimulator/FrameWorkApp.build/Objects-normal/i386/StopScreen-4992B6AABAF9FAD9.d" --serialize-diagnostics "/Users/David/Desktop/Suncorp/Repositories/Release 2/FrameWorkApp/FrameWorkApp/obj/Xcode/0/DerivedData/FrameWorkApp/Build/Intermediates/FrameWorkApp.build/MonoTouch-iphonesimulator/FrameWorkApp.build/Objects-normal/i386/StopScreen-4992B6AABAF9FAD9.dia" -c "/Users/David/Desktop/Suncorp/Repositories/Release 2/FrameWorkApp/FrameWorkApp/obj/Xcode/0/StopScreen.m" -o "/Users/David/Desktop/Suncorp/Repositories/Release 2/FrameWorkApp/FrameWorkApp/obj/Xcode/0/DerivedData/FrameWorkApp/Build/Intermediates/FrameWorkApp.build/MonoTouch-iphonesimulator/FrameWorkApp.build/Objects-normal/i386/StopScreen-4992B6AABAF9FAD9.o"36"D8BBC0D5-1F53-4C4E-B191-6487B05ED3BF-
+
+CCompileC DerivedData/FrameWorkApp/Build/Intermediates/FrameWorkApp.build/MonoTouch-iphonesimulator/FrameWorkApp.build/Objects-normal/i386/TripLogDetailScreen-AB36C5DA1D3AF8DD.o "/Users/David/Desktop/Suncorp/Repositories/Release 2/FrameWorkApp/FrameWorkApp/obj/Xcode/0/TripLogDetailScreen.m" normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s397596162.575606
+e397596162.957298
+r1
+xCompileC
+xDerivedData/FrameWorkApp/Build/Intermediates/FrameWorkApp.build/MonoTouch-iphonesimulator/FrameWorkApp.build/Objects-normal/i386/TripLogDetailScreen-AB36C5DA1D3AF8DD.o
+x/Users/David/Desktop/Suncorp/Repositories/Release 2/FrameWorkApp/FrameWorkApp/obj/Xcode/0/TripLogDetailScreen.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection119"Compile /Users/David/Desktop/Suncorp/Repositories/Release 2/FrameWorkApp/FrameWorkApp/obj/Xcode/0/TripLogDetailScreen.m7b839302d6b2b741^3f1b4103d6b2b741^---0#0#0#-19%DVTDocumentLocation2@129"file://localhost/Users/David/Desktop/Suncorp/Repositories/Release%202/FrameWorkApp/FrameWorkApp/obj/Xcode/0/TripLogDetailScreen.m0000000000000000^4696"CompileC DerivedData/FrameWorkApp/Build/Intermediates/FrameWorkApp.build/MonoTouch-iphonesimulator/FrameWorkApp.build/Objects-normal/i386/TripLogDetailScreen-AB36C5DA1D3AF8DD.o TripLogDetailScreen.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd "/Users/David/Desktop/Suncorp/Repositories/Release 2/FrameWorkApp/FrameWorkApp/obj/Xcode/0"    setenv LANG en_US.US-ASCII    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/Applications/Xamarin Studio.app/Contents/MacOS:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch i386 -fmessage-length=0 -std=gnu99 -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wmissing-prototypes -Wreturn-type -Wno-implicit-atomic-properties -Wno-receiver-is-weak -Wformat -Wno-missing-braces -Wparentheses -Wswitch -Wno-unused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wno-empty-body -Wno-uninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wno-constant-conversion -Wno-int-conversion -Wno-enum-conversion -Wno-shorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wno-undeclared-selector -Wno-deprecated-implementations -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator6.1.sdk -fexceptions -fasm-blocks -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -g -Wno-sign-conversion -fobjc-abi-version=2 -fobjc-legacy-dispatch -mios-simulator-version-min=6.1 -iquote "/Users/David/Desktop/Suncorp/Repositories/Release 2/FrameWorkApp/FrameWorkApp/obj/Xcode/0/DerivedData/FrameWorkApp/Build/Intermediates/FrameWorkApp.build/MonoTouch-iphonesimulator/FrameWorkApp.build/FrameWorkApp-generated-files.hmap" "-I/Users/David/Desktop/Suncorp/Repositories/Release 2/FrameWorkApp/FrameWorkApp/obj/Xcode/0/DerivedData/FrameWorkApp/Build/Intermediates/FrameWorkApp.build/MonoTouch-iphonesimulator/FrameWorkApp.build/FrameWorkApp-own-target-headers.hmap" "-I/Users/David/Desktop/Suncorp/Repositories/Release 2/FrameWorkApp/FrameWorkApp/obj/Xcode/0/DerivedData/FrameWorkApp/Build/Intermediates/FrameWorkApp.build/MonoTouch-iphonesimulator/FrameWorkApp.build/FrameWorkApp-all-target-headers.hmap" -iquote "/Users/David/Desktop/Suncorp/Repositories/Release 2/FrameWorkApp/FrameWorkApp/obj/Xcode/0/DerivedData/FrameWorkApp/Build/Intermediates/FrameWorkApp.build/MonoTouch-iphonesimulator/FrameWorkApp.build/FrameWorkApp-project-headers.hmap" "-I/Users/David/Desktop/Suncorp/Repositories/Release 2/FrameWorkApp/FrameWorkApp/obj/Xcode/0/DerivedData/FrameWorkApp/Build/Products/MonoTouch-iphonesimulator/include" -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include "-I/Users/David/Desktop/Suncorp/Repositories/Release 2/FrameWorkApp/FrameWorkApp/obj/Xcode/0/DerivedData/FrameWorkApp/Build/Intermediates/FrameWorkApp.build/MonoTouch-iphonesimulator/FrameWorkApp.build/DerivedSources/i386" "-I/Users/David/Desktop/Suncorp/Repositories/Release 2/FrameWorkApp/FrameWorkApp/obj/Xcode/0/DerivedData/FrameWorkApp/Build/Intermediates/FrameWorkApp.build/MonoTouch-iphonesimulator/FrameWorkApp.build/DerivedSources" "-F/Users/David/Desktop/Suncorp/Repositories/Release 2/FrameWorkApp/FrameWorkApp/obj/Xcode/0/DerivedData/FrameWorkApp/Build/Products/MonoTouch-iphonesimulator" -MMD -MT dependencies -MF "/Users/David/Desktop/Suncorp/Repositories/Release 2/FrameWorkApp/FrameWorkApp/obj/Xcode/0/DerivedData/FrameWorkApp/Build/Intermediates/FrameWorkApp.build/MonoTouch-iphonesimulator/FrameWorkApp.build/Objects-normal/i386/TripLogDetailScreen-AB36C5DA1D3AF8DD.d" --serialize-diagnostics "/Users/David/Desktop/Suncorp/Repositories/Release 2/FrameWorkApp/FrameWorkApp/obj/Xcode/0/DerivedData/FrameWorkApp/Build/Intermediates/FrameWorkApp.build/MonoTouch-iphonesimulator/FrameWorkApp.build/Objects-normal/i386/TripLogDetailScreen-AB36C5DA1D3AF8DD.dia" -c "/Users/David/Desktop/Suncorp/Repositories/Release 2/FrameWorkApp/FrameWorkApp/obj/Xcode/0/TripLogDetailScreen.m" -o "/Users/David/Desktop/Suncorp/Repositories/Release 2/FrameWorkApp/FrameWorkApp/obj/Xcode/0/DerivedData/FrameWorkApp/Build/Intermediates/FrameWorkApp.build/MonoTouch-iphonesimulator/FrameWorkApp.build/Objects-normal/i386/TripLogDetailScreen-AB36C5DA1D3AF8DD.o"36"A970B9E0-1EFC-425D-90DE-D90A14DF69CB-
+
+CCompileC DerivedData/FrameWorkApp/Build/Intermediates/FrameWorkApp.build/MonoTouch-iphonesimulator/FrameWorkApp.build/Objects-normal/i386/TripLogMapScreen-C4C97C17D202C7F2.o "/Users/David/Desktop/Suncorp/Repositories/Release 2/FrameWorkApp/FrameWorkApp/obj/Xcode/0/TripLogMapScreen.m" normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s397596162.575622
+e397596162.957285
+r0
+xCompileC
+xDerivedData/FrameWorkApp/Build/Intermediates/FrameWorkApp.build/MonoTouch-iphonesimulator/FrameWorkApp.build/Objects-normal/i386/TripLogMapScreen-C4C97C17D202C7F2.o
+x/Users/David/Desktop/Suncorp/Repositories/Release 2/FrameWorkApp/FrameWorkApp/obj/Xcode/0/TripLogMapScreen.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+oIn file included from /Users/David/Desktop/Suncorp/Repositories/Release 2/FrameWorkApp/FrameWorkApp/obj/Xcode/0/TripLogMapScreen.m:8:
+o/Users/David/Desktop/Suncorp/Repositories/Release 2/FrameWorkApp/FrameWorkApp/obj/Xcode/0/TripLogMapScreen.h:13:2: error: unknown type name 'MKMapView'
+o        MKMapView *_mapViewOutlet;
+o        ^
+o/Users/David/Desktop/Suncorp/Repositories/Release 2/FrameWorkApp/FrameWorkApp/obj/Xcode/0/TripLogMapScreen.h:16:40: error: unknown type name 'MKMapView'
+o@property (nonatomic, retain) IBOutlet MKMapView *mapViewOutlet;
+o                                       ^
+o/Users/David/Desktop/Suncorp/Repositories/Release 2/FrameWorkApp/FrameWorkApp/obj/Xcode/0/TripLogMapScreen.h:16:31: warning: property with 'iboutlet' attribute must be an object type (invalid 'int *') [-Winvalid-iboutlet]
+o@property (nonatomic, retain) IBOutlet MKMapView *mapViewOutlet;
+o                              ^
+o<built-in>:22:33: note: expanded from macro 'IBOutlet'
+o#define IBOutlet __attribute__((iboutlet))
+o                                ^
+oIn file included from /Users/David/Desktop/Suncorp/Repositories/Release 2/FrameWorkApp/FrameWorkApp/obj/Xcode/0/TripLogMapScreen.m:8:
+o/Users/David/Desktop/Suncorp/Repositories/Release 2/FrameWorkApp/FrameWorkApp/obj/Xcode/0/TripLogMapScreen.h:16:1: error: property with 'retain (or strong)' attribute must be of object type
+o@property (nonatomic, retain) IBOutlet MKMapView *mapViewOutlet;
+o^
+o1 warning and 3 errors generated.
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection116"Compile /Users/David/Desktop/Suncorp/Repositories/Release 2/FrameWorkApp/FrameWorkApp/obj/Xcode/0/TripLogMapScreen.m598b9302d6b2b741^a0184103d6b2b741^-1466"In file included from /Users/David/Desktop/Suncorp/Repositories/Release 2/FrameWorkApp/FrameWorkApp/obj/Xcode/0/TripLogMapScreen.m:8:/Users/David/Desktop/Suncorp/Repositories/Release 2/FrameWorkApp/FrameWorkApp/obj/Xcode/0/TripLogMapScreen.h:13:2: error: unknown type name 'MKMapView'        MKMapView *_mapViewOutlet;        ^/Users/David/Desktop/Suncorp/Repositories/Release 2/FrameWorkApp/FrameWorkApp/obj/Xcode/0/TripLogMapScreen.h:16:40: error: unknown type name 'MKMapView'@property (nonatomic, retain) IBOutlet MKMapView *mapViewOutlet;                                       ^/Users/David/Desktop/Suncorp/Repositories/Release 2/FrameWorkApp/FrameWorkApp/obj/Xcode/0/TripLogMapScreen.h:16:31: warning: property with 'iboutlet' attribute must be an object type (invalid 'int *') [-Winvalid-iboutlet]@property (nonatomic, retain) IBOutlet MKMapView *mapViewOutlet;                              ^<built-in>:22:33: note: expanded from macro 'IBOutlet'#define IBOutlet __attribute__((iboutlet))                                ^In file included from /Users/David/Desktop/Suncorp/Repositories/Release 2/FrameWorkApp/FrameWorkApp/obj/Xcode/0/TripLogMapScreen.m:8:/Users/David/Desktop/Suncorp/Repositories/Release 2/FrameWorkApp/FrameWorkApp/obj/Xcode/0/TripLogMapScreen.h:16:1: error: property with 'retain (or strong)' attribute must be of object type@property (nonatomic, retain) IBOutlet MKMapView *mapViewOutlet;^1 warning and 3 errors generated.-0#0#0#-19%DVTDocumentLocation2@126"file://localhost/Users/David/Desktop/Suncorp/Repositories/Release%202/FrameWorkApp/FrameWorkApp/obj/Xcode/0/TripLogMapScreen.m0000000000000000^4678"CompileC DerivedData/FrameWorkApp/Build/Intermediates/FrameWorkApp.build/MonoTouch-iphonesimulator/FrameWorkApp.build/Objects-normal/i386/TripLogMapScreen-C4C97C17D202C7F2.o TripLogMapScreen.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd "/Users/David/Desktop/Suncorp/Repositories/Release 2/FrameWorkApp/FrameWorkApp/obj/Xcode/0"    setenv LANG en_US.US-ASCII    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/Applications/Xamarin Studio.app/Contents/MacOS:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch i386 -fmessage-length=0 -std=gnu99 -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wmissing-prototypes -Wreturn-type -Wno-implicit-atomic-properties -Wno-receiver-is-weak -Wformat -Wno-missing-braces -Wparentheses -Wswitch -Wno-unused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wno-empty-body -Wno-uninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wno-constant-conversion -Wno-int-conversion -Wno-enum-conversion -Wno-shorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wno-undeclared-selector -Wno-deprecated-implementations -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator6.1.sdk -fexceptions -fasm-blocks -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -g -Wno-sign-conversion -fobjc-abi-version=2 -fobjc-legacy-dispatch -mios-simulator-version-min=6.1 -iquote "/Users/David/Desktop/Suncorp/Repositories/Release 2/FrameWorkApp/FrameWorkApp/obj/Xcode/0/DerivedData/FrameWorkApp/Build/Intermediates/FrameWorkApp.build/MonoTouch-iphonesimulator/FrameWorkApp.build/FrameWorkApp-generated-files.hmap" "-I/Users/David/Desktop/Suncorp/Repositories/Release 2/FrameWorkApp/FrameWorkApp/obj/Xcode/0/DerivedData/FrameWorkApp/Build/Intermediates/FrameWorkApp.build/MonoTouch-iphonesimulator/FrameWorkApp.build/FrameWorkApp-own-target-headers.hmap" "-I/Users/David/Desktop/Suncorp/Repositories/Release 2/FrameWorkApp/FrameWorkApp/obj/Xcode/0/DerivedData/FrameWorkApp/Build/Intermediates/FrameWorkApp.build/MonoTouch-iphonesimulator/FrameWorkApp.build/FrameWorkApp-all-target-headers.hmap" -iquote "/Users/David/Desktop/Suncorp/Repositories/Release 2/FrameWorkApp/FrameWorkApp/obj/Xcode/0/DerivedData/FrameWorkApp/Build/Intermediates/FrameWorkApp.build/MonoTouch-iphonesimulator/FrameWorkApp.build/FrameWorkApp-project-headers.hmap" "-I/Users/David/Desktop/Suncorp/Repositories/Release 2/FrameWorkApp/FrameWorkApp/obj/Xcode/0/DerivedData/FrameWorkApp/Build/Products/MonoTouch-iphonesimulator/include" -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include "-I/Users/David/Desktop/Suncorp/Repositories/Release 2/FrameWorkApp/FrameWorkApp/obj/Xcode/0/DerivedData/FrameWorkApp/Build/Intermediates/FrameWorkApp.build/MonoTouch-iphonesimulator/FrameWorkApp.build/DerivedSources/i386" "-I/Users/David/Desktop/Suncorp/Repositories/Release 2/FrameWorkApp/FrameWorkApp/obj/Xcode/0/DerivedData/FrameWorkApp/Build/Intermediates/FrameWorkApp.build/MonoTouch-iphonesimulator/FrameWorkApp.build/DerivedSources" "-F/Users/David/Desktop/Suncorp/Repositories/Release 2/FrameWorkApp/FrameWorkApp/obj/Xcode/0/DerivedData/FrameWorkApp/Build/Products/MonoTouch-iphonesimulator" -MMD -MT dependencies -MF "/Users/David/Desktop/Suncorp/Repositories/Release 2/FrameWorkApp/FrameWorkApp/obj/Xcode/0/DerivedData/FrameWorkApp/Build/Intermediates/FrameWorkApp.build/MonoTouch-iphonesimulator/FrameWorkApp.build/Objects-normal/i386/TripLogMapScreen-C4C97C17D202C7F2.d" --serialize-diagnostics "/Users/David/Desktop/Suncorp/Repositories/Release 2/FrameWorkApp/FrameWorkApp/obj/Xcode/0/DerivedData/FrameWorkApp/Build/Intermediates/FrameWorkApp.build/MonoTouch-iphonesimulator/FrameWorkApp.build/Objects-normal/i386/TripLogMapScreen-C4C97C17D202C7F2.dia" -c "/Users/David/Desktop/Suncorp/Repositories/Release 2/FrameWorkApp/FrameWorkApp/obj/Xcode/0/TripLogMapScreen.m" -o "/Users/David/Desktop/Suncorp/Repositories/Release 2/FrameWorkApp/FrameWorkApp/obj/Xcode/0/DerivedData/FrameWorkApp/Build/Intermediates/FrameWorkApp.build/MonoTouch-iphonesimulator/FrameWorkApp.build/Objects-normal/i386/TripLogMapScreen-C4C97C17D202C7F2.o"36"F9F56DCE-6A21-484F-8294-8F1A5A1346E1-
+
+CCompileC DerivedData/FrameWorkApp/Build/Intermediates/FrameWorkApp.build/MonoTouch-iphonesimulator/FrameWorkApp.build/Objects-normal/i386/TripLogScreen-B8B843A0EABDDFD6.o "/Users/David/Desktop/Suncorp/Repositories/Release 2/FrameWorkApp/FrameWorkApp/obj/Xcode/0/TripLogScreen.m" normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s397596162.155105
+e397596162.574275
+r1
+xCompileC
+xDerivedData/FrameWorkApp/Build/Intermediates/FrameWorkApp.build/MonoTouch-iphonesimulator/FrameWorkApp.build/Objects-normal/i386/TripLogScreen-B8B843A0EABDDFD6.o
+x/Users/David/Desktop/Suncorp/Repositories/Release 2/FrameWorkApp/FrameWorkApp/obj/Xcode/0/TripLogScreen.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection113"Compile /Users/David/Desktop/Suncorp/Repositories/Release 2/FrameWorkApp/FrameWorkApp/obj/Xcode/0/TripLogScreen.m96e92702d6b2b741^97019302d6b2b741^---0#0#0#-19%DVTDocumentLocation2@123"file://localhost/Users/David/Desktop/Suncorp/Repositories/Release%202/FrameWorkApp/FrameWorkApp/obj/Xcode/0/TripLogScreen.m0000000000000000^4660"CompileC DerivedData/FrameWorkApp/Build/Intermediates/FrameWorkApp.build/MonoTouch-iphonesimulator/FrameWorkApp.build/Objects-normal/i386/TripLogScreen-B8B843A0EABDDFD6.o TripLogScreen.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd "/Users/David/Desktop/Suncorp/Repositories/Release 2/FrameWorkApp/FrameWorkApp/obj/Xcode/0"    setenv LANG en_US.US-ASCII    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/Applications/Xamarin Studio.app/Contents/MacOS:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch i386 -fmessage-length=0 -std=gnu99 -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wmissing-prototypes -Wreturn-type -Wno-implicit-atomic-properties -Wno-receiver-is-weak -Wformat -Wno-missing-braces -Wparentheses -Wswitch -Wno-unused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wno-empty-body -Wno-uninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wno-constant-conversion -Wno-int-conversion -Wno-enum-conversion -Wno-shorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wno-undeclared-selector -Wno-deprecated-implementations -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator6.1.sdk -fexceptions -fasm-blocks -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -g -Wno-sign-conversion -fobjc-abi-version=2 -fobjc-legacy-dispatch -mios-simulator-version-min=6.1 -iquote "/Users/David/Desktop/Suncorp/Repositories/Release 2/FrameWorkApp/FrameWorkApp/obj/Xcode/0/DerivedData/FrameWorkApp/Build/Intermediates/FrameWorkApp.build/MonoTouch-iphonesimulator/FrameWorkApp.build/FrameWorkApp-generated-files.hmap" "-I/Users/David/Desktop/Suncorp/Repositories/Release 2/FrameWorkApp/FrameWorkApp/obj/Xcode/0/DerivedData/FrameWorkApp/Build/Intermediates/FrameWorkApp.build/MonoTouch-iphonesimulator/FrameWorkApp.build/FrameWorkApp-own-target-headers.hmap" "-I/Users/David/Desktop/Suncorp/Repositories/Release 2/FrameWorkApp/FrameWorkApp/obj/Xcode/0/DerivedData/FrameWorkApp/Build/Intermediates/FrameWorkApp.build/MonoTouch-iphonesimulator/FrameWorkApp.build/FrameWorkApp-all-target-headers.hmap" -iquote "/Users/David/Desktop/Suncorp/Repositories/Release 2/FrameWorkApp/FrameWorkApp/obj/Xcode/0/DerivedData/FrameWorkApp/Build/Intermediates/FrameWorkApp.build/MonoTouch-iphonesimulator/FrameWorkApp.build/FrameWorkApp-project-headers.hmap" "-I/Users/David/Desktop/Suncorp/Repositories/Release 2/FrameWorkApp/FrameWorkApp/obj/Xcode/0/DerivedData/FrameWorkApp/Build/Products/MonoTouch-iphonesimulator/include" -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include "-I/Users/David/Desktop/Suncorp/Repositories/Release 2/FrameWorkApp/FrameWorkApp/obj/Xcode/0/DerivedData/FrameWorkApp/Build/Intermediates/FrameWorkApp.build/MonoTouch-iphonesimulator/FrameWorkApp.build/DerivedSources/i386" "-I/Users/David/Desktop/Suncorp/Repositories/Release 2/FrameWorkApp/FrameWorkApp/obj/Xcode/0/DerivedData/FrameWorkApp/Build/Intermediates/FrameWorkApp.build/MonoTouch-iphonesimulator/FrameWorkApp.build/DerivedSources" "-F/Users/David/Desktop/Suncorp/Repositories/Release 2/FrameWorkApp/FrameWorkApp/obj/Xcode/0/DerivedData/FrameWorkApp/Build/Products/MonoTouch-iphonesimulator" -MMD -MT dependencies -MF "/Users/David/Desktop/Suncorp/Repositories/Release 2/FrameWorkApp/FrameWorkApp/obj/Xcode/0/DerivedData/FrameWorkApp/Build/Intermediates/FrameWorkApp.build/MonoTouch-iphonesimulator/FrameWorkApp.build/Objects-normal/i386/TripLogScreen-B8B843A0EABDDFD6.d" --serialize-diagnostics "/Users/David/Desktop/Suncorp/Repositories/Release 2/FrameWorkApp/FrameWorkApp/obj/Xcode/0/DerivedData/FrameWorkApp/Build/Intermediates/FrameWorkApp.build/MonoTouch-iphonesimulator/FrameWorkApp.build/Objects-normal/i386/TripLogScreen-B8B843A0EABDDFD6.dia" -c "/Users/David/Desktop/Suncorp/Repositories/Release 2/FrameWorkApp/FrameWorkApp/obj/Xcode/0/TripLogScreen.m" -o "/Users/David/Desktop/Suncorp/Repositories/Release 2/FrameWorkApp/FrameWorkApp/obj/Xcode/0/DerivedData/FrameWorkApp/Build/Intermediates/FrameWorkApp.build/MonoTouch-iphonesimulator/FrameWorkApp.build/Objects-normal/i386/TripLogScreen-B8B843A0EABDDFD6.o"36"2371D06D-0B4D-44B1-927A-A61060BAC16A-
+
+CCompileC DerivedData/FrameWorkApp/Build/Intermediates/FrameWorkApp.build/MonoTouch-iphonesimulator/FrameWorkApp.build/Objects-normal/i386/TripSummaryScreen-9C1F2EA6F570C3F4.o "/Users/David/Desktop/Suncorp/Repositories/Release 2/FrameWorkApp/FrameWorkApp/obj/Xcode/0/TripSummaryScreen.m" normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s397596161.509265
+e397596162.167262
+r1
+xCompileC
+xDerivedData/FrameWorkApp/Build/Intermediates/FrameWorkApp.build/MonoTouch-iphonesimulator/FrameWorkApp.build/Objects-normal/i386/TripSummaryScreen-9C1F2EA6F570C3F4.o
+x/Users/David/Desktop/Suncorp/Repositories/Release 2/FrameWorkApp/FrameWorkApp/obj/Xcode/0/TripSummaryScreen.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection117"Compile /Users/David/Desktop/Suncorp/Repositories/Release 2/FrameWorkApp/FrameWorkApp/obj/Xcode/0/TripSummaryScreen.mb4928201d6b2b741^abce2a02d6b2b741^---0#0#0#-19%DVTDocumentLocation2@127"file://localhost/Users/David/Desktop/Suncorp/Repositories/Release%202/FrameWorkApp/FrameWorkApp/obj/Xcode/0/TripSummaryScreen.m0000000000000000^4684"CompileC DerivedData/FrameWorkApp/Build/Intermediates/FrameWorkApp.build/MonoTouch-iphonesimulator/FrameWorkApp.build/Objects-normal/i386/TripSummaryScreen-9C1F2EA6F570C3F4.o TripSummaryScreen.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd "/Users/David/Desktop/Suncorp/Repositories/Release 2/FrameWorkApp/FrameWorkApp/obj/Xcode/0"    setenv LANG en_US.US-ASCII    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/Applications/Xamarin Studio.app/Contents/MacOS:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch i386 -fmessage-length=0 -std=gnu99 -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wmissing-prototypes -Wreturn-type -Wno-implicit-atomic-properties -Wno-receiver-is-weak -Wformat -Wno-missing-braces -Wparentheses -Wswitch -Wno-unused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wno-empty-body -Wno-uninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wno-constant-conversion -Wno-int-conversion -Wno-enum-conversion -Wno-shorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wno-undeclared-selector -Wno-deprecated-implementations -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator6.1.sdk -fexceptions -fasm-blocks -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -g -Wno-sign-conversion -fobjc-abi-version=2 -fobjc-legacy-dispatch -mios-simulator-version-min=6.1 -iquote "/Users/David/Desktop/Suncorp/Repositories/Release 2/FrameWorkApp/FrameWorkApp/obj/Xcode/0/DerivedData/FrameWorkApp/Build/Intermediates/FrameWorkApp.build/MonoTouch-iphonesimulator/FrameWorkApp.build/FrameWorkApp-generated-files.hmap" "-I/Users/David/Desktop/Suncorp/Repositories/Release 2/FrameWorkApp/FrameWorkApp/obj/Xcode/0/DerivedData/FrameWorkApp/Build/Intermediates/FrameWorkApp.build/MonoTouch-iphonesimulator/FrameWorkApp.build/FrameWorkApp-own-target-headers.hmap" "-I/Users/David/Desktop/Suncorp/Repositories/Release 2/FrameWorkApp/FrameWorkApp/obj/Xcode/0/DerivedData/FrameWorkApp/Build/Intermediates/FrameWorkApp.build/MonoTouch-iphonesimulator/FrameWorkApp.build/FrameWorkApp-all-target-headers.hmap" -iquote "/Users/David/Desktop/Suncorp/Repositories/Release 2/FrameWorkApp/FrameWorkApp/obj/Xcode/0/DerivedData/FrameWorkApp/Build/Intermediates/FrameWorkApp.build/MonoTouch-iphonesimulator/FrameWorkApp.build/FrameWorkApp-project-headers.hmap" "-I/Users/David/Desktop/Suncorp/Repositories/Release 2/FrameWorkApp/FrameWorkApp/obj/Xcode/0/DerivedData/FrameWorkApp/Build/Products/MonoTouch-iphonesimulator/include" -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include "-I/Users/David/Desktop/Suncorp/Repositories/Release 2/FrameWorkApp/FrameWorkApp/obj/Xcode/0/DerivedData/FrameWorkApp/Build/Intermediates/FrameWorkApp.build/MonoTouch-iphonesimulator/FrameWorkApp.build/DerivedSources/i386" "-I/Users/David/Desktop/Suncorp/Repositories/Release 2/FrameWorkApp/FrameWorkApp/obj/Xcode/0/DerivedData/FrameWorkApp/Build/Intermediates/FrameWorkApp.build/MonoTouch-iphonesimulator/FrameWorkApp.build/DerivedSources" "-F/Users/David/Desktop/Suncorp/Repositories/Release 2/FrameWorkApp/FrameWorkApp/obj/Xcode/0/DerivedData/FrameWorkApp/Build/Products/MonoTouch-iphonesimulator" -MMD -MT dependencies -MF "/Users/David/Desktop/Suncorp/Repositories/Release 2/FrameWorkApp/FrameWorkApp/obj/Xcode/0/DerivedData/FrameWorkApp/Build/Intermediates/FrameWorkApp.build/MonoTouch-iphonesimulator/FrameWorkApp.build/Objects-normal/i386/TripSummaryScreen-9C1F2EA6F570C3F4.d" --serialize-diagnostics "/Users/David/Desktop/Suncorp/Repositories/Release 2/FrameWorkApp/FrameWorkApp/obj/Xcode/0/DerivedData/FrameWorkApp/Build/Intermediates/FrameWorkApp.build/MonoTouch-iphonesimulator/FrameWorkApp.build/Objects-normal/i386/TripSummaryScreen-9C1F2EA6F570C3F4.dia" -c "/Users/David/Desktop/Suncorp/Repositories/Release 2/FrameWorkApp/FrameWorkApp/obj/Xcode/0/TripSummaryScreen.m" -o "/Users/David/Desktop/Suncorp/Repositories/Release 2/FrameWorkApp/FrameWorkApp/obj/Xcode/0/DerivedData/FrameWorkApp/Build/Intermediates/FrameWorkApp.build/MonoTouch-iphonesimulator/FrameWorkApp.build/Objects-normal/i386/TripSummaryScreen-9C1F2EA6F570C3F4.o"36"1C496A39-9942-408D-AF10-8E4069BCCC90-
+
+CCompileC DerivedData/FrameWorkApp/Build/Intermediates/FrameWorkApp.build/MonoTouch-iphonesimulator/FrameWorkApp.build/Objects-normal/i386/shareButton-13D5749463D40DF.o "/Users/David/Desktop/Suncorp/Repositories/Release 2/FrameWorkApp/FrameWorkApp/obj/Xcode/0/shareButton.m" normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s397596162.482937
+e397596162.738789
+r1
+xCompileC
+xDerivedData/FrameWorkApp/Build/Intermediates/FrameWorkApp.build/MonoTouch-iphonesimulator/FrameWorkApp.build/Objects-normal/i386/shareButton-13D5749463D40DF.o
+x/Users/David/Desktop/Suncorp/Repositories/Release 2/FrameWorkApp/FrameWorkApp/obj/Xcode/0/shareButton.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection111"Compile /Users/David/Desktop/Suncorp/Repositories/Release 2/FrameWorkApp/FrameWorkApp/obj/Xcode/0/shareButton.m23d97b02d6b2b741^921fbd02d6b2b741^---0#0#0#-19%DVTDocumentLocation2@121"file://localhost/Users/David/Desktop/Suncorp/Repositories/Release%202/FrameWorkApp/FrameWorkApp/obj/Xcode/0/shareButton.m0000000000000000^4644"CompileC DerivedData/FrameWorkApp/Build/Intermediates/FrameWorkApp.build/MonoTouch-iphonesimulator/FrameWorkApp.build/Objects-normal/i386/shareButton-13D5749463D40DF.o shareButton.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd "/Users/David/Desktop/Suncorp/Repositories/Release 2/FrameWorkApp/FrameWorkApp/obj/Xcode/0"    setenv LANG en_US.US-ASCII    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/Applications/Xamarin Studio.app/Contents/MacOS:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch i386 -fmessage-length=0 -std=gnu99 -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wmissing-prototypes -Wreturn-type -Wno-implicit-atomic-properties -Wno-receiver-is-weak -Wformat -Wno-missing-braces -Wparentheses -Wswitch -Wno-unused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wno-empty-body -Wno-uninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wno-constant-conversion -Wno-int-conversion -Wno-enum-conversion -Wno-shorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wno-undeclared-selector -Wno-deprecated-implementations -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator6.1.sdk -fexceptions -fasm-blocks -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -g -Wno-sign-conversion -fobjc-abi-version=2 -fobjc-legacy-dispatch -mios-simulator-version-min=6.1 -iquote "/Users/David/Desktop/Suncorp/Repositories/Release 2/FrameWorkApp/FrameWorkApp/obj/Xcode/0/DerivedData/FrameWorkApp/Build/Intermediates/FrameWorkApp.build/MonoTouch-iphonesimulator/FrameWorkApp.build/FrameWorkApp-generated-files.hmap" "-I/Users/David/Desktop/Suncorp/Repositories/Release 2/FrameWorkApp/FrameWorkApp/obj/Xcode/0/DerivedData/FrameWorkApp/Build/Intermediates/FrameWorkApp.build/MonoTouch-iphonesimulator/FrameWorkApp.build/FrameWorkApp-own-target-headers.hmap" "-I/Users/David/Desktop/Suncorp/Repositories/Release 2/FrameWorkApp/FrameWorkApp/obj/Xcode/0/DerivedData/FrameWorkApp/Build/Intermediates/FrameWorkApp.build/MonoTouch-iphonesimulator/FrameWorkApp.build/FrameWorkApp-all-target-headers.hmap" -iquote "/Users/David/Desktop/Suncorp/Repositories/Release 2/FrameWorkApp/FrameWorkApp/obj/Xcode/0/DerivedData/FrameWorkApp/Build/Intermediates/FrameWorkApp.build/MonoTouch-iphonesimulator/FrameWorkApp.build/FrameWorkApp-project-headers.hmap" "-I/Users/David/Desktop/Suncorp/Repositories/Release 2/FrameWorkApp/FrameWorkApp/obj/Xcode/0/DerivedData/FrameWorkApp/Build/Products/MonoTouch-iphonesimulator/include" -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include "-I/Users/David/Desktop/Suncorp/Repositories/Release 2/FrameWorkApp/FrameWorkApp/obj/Xcode/0/DerivedData/FrameWorkApp/Build/Intermediates/FrameWorkApp.build/MonoTouch-iphonesimulator/FrameWorkApp.build/DerivedSources/i386" "-I/Users/David/Desktop/Suncorp/Repositories/Release 2/FrameWorkApp/FrameWorkApp/obj/Xcode/0/DerivedData/FrameWorkApp/Build/Intermediates/FrameWorkApp.build/MonoTouch-iphonesimulator/FrameWorkApp.build/DerivedSources" "-F/Users/David/Desktop/Suncorp/Repositories/Release 2/FrameWorkApp/FrameWorkApp/obj/Xcode/0/DerivedData/FrameWorkApp/Build/Products/MonoTouch-iphonesimulator" -MMD -MT dependencies -MF "/Users/David/Desktop/Suncorp/Repositories/Release 2/FrameWorkApp/FrameWorkApp/obj/Xcode/0/DerivedData/FrameWorkApp/Build/Intermediates/FrameWorkApp.build/MonoTouch-iphonesimulator/FrameWorkApp.build/Objects-normal/i386/shareButton-13D5749463D40DF.d" --serialize-diagnostics "/Users/David/Desktop/Suncorp/Repositories/Release 2/FrameWorkApp/FrameWorkApp/obj/Xcode/0/DerivedData/FrameWorkApp/Build/Intermediates/FrameWorkApp.build/MonoTouch-iphonesimulator/FrameWorkApp.build/Objects-normal/i386/shareButton-13D5749463D40DF.dia" -c "/Users/David/Desktop/Suncorp/Repositories/Release 2/FrameWorkApp/FrameWorkApp/obj/Xcode/0/shareButton.m" -o "/Users/David/Desktop/Suncorp/Repositories/Release 2/FrameWorkApp/FrameWorkApp/obj/Xcode/0/DerivedData/FrameWorkApp/Build/Intermediates/FrameWorkApp.build/MonoTouch-iphonesimulator/FrameWorkApp.build/Objects-normal/i386/shareButton-13D5749463D40DF.o"36"AB1FAACD-169B-4B5A-8E6B-4E4287131555-
+
+CCompileStoryboard "/Users/David/Desktop/Suncorp/Repositories/Release 2/FrameWorkApp/FrameWorkApp/obj/Xcode/0/MainStoryboard.storyboard"
+r0
+
+CCopyPlistFile "/Users/David/Desktop/Suncorp/Repositories/Release 2/FrameWorkApp/FrameWorkApp/obj/Xcode/0/DerivedData/FrameWorkApp/Build/Products/MonoTouch-iphonesimulator/FrameWorkApp.app/Info.plist" Info.plist
+r0
+
+CCpResource "Safe-driving-mate-app-splash-screen copy 2.png" "DerivedData/FrameWorkApp/Build/Products/MonoTouch-iphonesimulator/FrameWorkApp.app/Safe-driving-mate-app-splash-screen copy 2.png"
+r0
+
+CCpResource "Safe-driving-mate-app-splash-screen copy.png" "DerivedData/FrameWorkApp/Build/Products/MonoTouch-iphonesimulator/FrameWorkApp.app/Safe-driving-mate-app-splash-screen copy.png"
+r0
+
+CCpResource ACHIEVEMENTS-01.png DerivedData/FrameWorkApp/Build/Products/MonoTouch-iphonesimulator/FrameWorkApp.app/ACHIEVEMENTS-01.png
+r0
+
+CCpResource ACHIEVEMENTS-02.png DerivedData/FrameWorkApp/Build/Products/MonoTouch-iphonesimulator/FrameWorkApp.app/ACHIEVEMENTS-02.png
+r0
+
+CCpResource ACHIEVEMENTS-03.png DerivedData/FrameWorkApp/Build/Products/MonoTouch-iphonesimulator/FrameWorkApp.app/ACHIEVEMENTS-03.png
+r0
+
+CCpResource ACHIEVEMENTS-04.png DerivedData/FrameWorkApp/Build/Products/MonoTouch-iphonesimulator/FrameWorkApp.app/ACHIEVEMENTS-04.png
+r0
+
+CCpResource ACHIEVEMENTS-05.png DerivedData/FrameWorkApp/Build/Products/MonoTouch-iphonesimulator/FrameWorkApp.app/ACHIEVEMENTS-05.png
+r0
+
+CCpResource ACHIEVEMENTS-08.png DerivedData/FrameWorkApp/Build/Products/MonoTouch-iphonesimulator/FrameWorkApp.app/ACHIEVEMENTS-08.png
+r0
+
+CCpResource ACHIEVEMENTS-09.png DerivedData/FrameWorkApp/Build/Products/MonoTouch-iphonesimulator/FrameWorkApp.app/ACHIEVEMENTS-09.png
+r0
+
+CCpResource ACHIEVEMENTS-10.png DerivedData/FrameWorkApp/Build/Products/MonoTouch-iphonesimulator/FrameWorkApp.app/ACHIEVEMENTS-10.png
+r0
+
+CCpResource ACHIEVEMENTS-11.png DerivedData/FrameWorkApp/Build/Products/MonoTouch-iphonesimulator/FrameWorkApp.app/ACHIEVEMENTS-11.png
+r0
+
+CCpResource AllStarLocked.png DerivedData/FrameWorkApp/Build/Products/MonoTouch-iphonesimulator/FrameWorkApp.app/AllStarLocked.png
+r0
+
+CCpResource BadgesNotifications.png DerivedData/FrameWorkApp/Build/Products/MonoTouch-iphonesimulator/FrameWorkApp.app/BadgesNotifications.png
+r0
+
+CCpResource BadgesOff.png DerivedData/FrameWorkApp/Build/Products/MonoTouch-iphonesimulator/FrameWorkApp.app/BadgesOff.png
+r0
+
+CCpResource BadgesOn.png DerivedData/FrameWorkApp/Build/Products/MonoTouch-iphonesimulator/FrameWorkApp.app/BadgesOn.png
+r0
+
+CCpResource CatieLocked.png DerivedData/FrameWorkApp/Build/Products/MonoTouch-iphonesimulator/FrameWorkApp.app/CatieLocked.png
+r0
+
+CCpResource CommuterLocked.png DerivedData/FrameWorkApp/Build/Products/MonoTouch-iphonesimulator/FrameWorkApp.app/CommuterLocked.png
+r0
+
+CCpResource CrikeyLocked.png DerivedData/FrameWorkApp/Build/Products/MonoTouch-iphonesimulator/FrameWorkApp.app/CrikeyLocked.png
+r0
+
+CCpResource Default-568h@2x.png DerivedData/FrameWorkApp/Build/Products/MonoTouch-iphonesimulator/FrameWorkApp.app/Default-568h@2x.png
+r0
+
+CCpResource Default.png DerivedData/FrameWorkApp/Build/Products/MonoTouch-iphonesimulator/FrameWorkApp.app/Default.png
+r0
+
+CCpResource Default@2x.png DerivedData/FrameWorkApp/Build/Products/MonoTouch-iphonesimulator/FrameWorkApp.app/Default@2x.png
+r0
+
+CCpResource FlyerLocked.png DerivedData/FrameWorkApp/Build/Products/MonoTouch-iphonesimulator/FrameWorkApp.app/FlyerLocked.png
+r0
+
+CCpResource GrannyLocked.png DerivedData/FrameWorkApp/Build/Products/MonoTouch-iphonesimulator/FrameWorkApp.app/GrannyLocked.png
+r0
+
+CCpResource GrannyStyleLocked.png DerivedData/FrameWorkApp/Build/Products/MonoTouch-iphonesimulator/FrameWorkApp.app/GrannyStyleLocked.png
+r0
+
+CCpResource InfoOff.png DerivedData/FrameWorkApp/Build/Products/MonoTouch-iphonesimulator/FrameWorkApp.app/InfoOff.png
+r0
+
+CCpResource InfoOn.png DerivedData/FrameWorkApp/Build/Products/MonoTouch-iphonesimulator/FrameWorkApp.app/InfoOn.png
+r0
+
+CCpResource KangarooLocked.png DerivedData/FrameWorkApp/Build/Products/MonoTouch-iphonesimulator/FrameWorkApp.app/KangarooLocked.png
+r0
+
+CCpResource LogOff.png DerivedData/FrameWorkApp/Build/Products/MonoTouch-iphonesimulator/FrameWorkApp.app/LogOff.png
+r0
+
+CCpResource LogOn.png DerivedData/FrameWorkApp/Build/Products/MonoTouch-iphonesimulator/FrameWorkApp.app/LogOn.png
+r0
+
+CCpResource OperatorLocked.png DerivedData/FrameWorkApp/Build/Products/MonoTouch-iphonesimulator/FrameWorkApp.app/OperatorLocked.png
+r0
+
+CCpResource PedalerLocked.png DerivedData/FrameWorkApp/Build/Products/MonoTouch-iphonesimulator/FrameWorkApp.app/PedalerLocked.png
+r0
+
+CCpResource PeteLocked.png DerivedData/FrameWorkApp/Build/Products/MonoTouch-iphonesimulator/FrameWorkApp.app/PeteLocked.png
+r0
+
+CCpResource PretenderLocked.png DerivedData/FrameWorkApp/Build/Products/MonoTouch-iphonesimulator/FrameWorkApp.app/PretenderLocked.png
+r0
+
+CCpResource ProLocked.png DerivedData/FrameWorkApp/Build/Products/MonoTouch-iphonesimulator/FrameWorkApp.app/ProLocked.png
+r0
+
+CCpResource RoadWithLine(Final).jpeg DerivedData/FrameWorkApp/Build/Products/MonoTouch-iphonesimulator/FrameWorkApp.app/RoadWithLine(Final).jpeg
+r0
+
+CCpResource RoadWithoutLIne.jpeg DerivedData/FrameWorkApp/Build/Products/MonoTouch-iphonesimulator/FrameWorkApp.app/RoadWithoutLIne.jpeg
+r0
+
+CCpResource RookieLocked.png DerivedData/FrameWorkApp/Build/Products/MonoTouch-iphonesimulator/FrameWorkApp.app/RookieLocked.png
+r0
+
+CCpResource ShooterLocked.png DerivedData/FrameWorkApp/Build/Products/MonoTouch-iphonesimulator/FrameWorkApp.app/ShooterLocked.png
+r0
+
+CCpResource ShowBoatLocked.png DerivedData/FrameWorkApp/Build/Products/MonoTouch-iphonesimulator/FrameWorkApp.app/ShowBoatLocked.png
+r0
+
+CCpResource StartFinalDefault.png DerivedData/FrameWorkApp/Build/Products/MonoTouch-iphonesimulator/FrameWorkApp.app/StartFinalDefault.png
+r0
+
+CCpResource StartFinalHighlighted.png DerivedData/FrameWorkApp/Build/Products/MonoTouch-iphonesimulator/FrameWorkApp.app/StartFinalHighlighted.png
+r0
+
+CCpResource StatsPicture.jpg DerivedData/FrameWorkApp/Build/Products/MonoTouch-iphonesimulator/FrameWorkApp.app/StatsPicture.jpg
+r0
+
+CCpResource SuperLocked.png DerivedData/FrameWorkApp/Build/Products/MonoTouch-iphonesimulator/FrameWorkApp.app/SuperLocked.png
+r0
+
+CCpResource TakeTenLocked.png DerivedData/FrameWorkApp/Build/Products/MonoTouch-iphonesimulator/FrameWorkApp.app/TakeTenLocked.png
+r0
+
+CCpResource TrainingLocked.png DerivedData/FrameWorkApp/Build/Products/MonoTouch-iphonesimulator/FrameWorkApp.app/TrainingLocked.png
+r0
+
+CCpResource TripOff.png DerivedData/FrameWorkApp/Build/Products/MonoTouch-iphonesimulator/FrameWorkApp.app/TripOff.png
+r0
+
+CCpResource TripOn.png DerivedData/FrameWorkApp/Build/Products/MonoTouch-iphonesimulator/FrameWorkApp.app/TripOn.png
+r0
+
+CCpResource TurnerLocked.png DerivedData/FrameWorkApp/Build/Products/MonoTouch-iphonesimulator/FrameWorkApp.app/TurnerLocked.png
+r0
+
+CCpResource VetLocked.png DerivedData/FrameWorkApp/Build/Products/MonoTouch-iphonesimulator/FrameWorkApp.app/VetLocked.png
+r0
+
+CCpResource WarriorLocked.png DerivedData/FrameWorkApp/Build/Products/MonoTouch-iphonesimulator/FrameWorkApp.app/WarriorLocked.png
+r0
+
+CCpResource Win.png DerivedData/FrameWorkApp/Build/Products/MonoTouch-iphonesimulator/FrameWorkApp.app/Win.png
+r0
+
+CCpResource XCountryLocked.png DerivedData/FrameWorkApp/Build/Products/MonoTouch-iphonesimulator/FrameWorkApp.app/XCountryLocked.png
+r0
+
+CCpResource achivementButton.png DerivedData/FrameWorkApp/Build/Products/MonoTouch-iphonesimulator/FrameWorkApp.app/achivementButton.png
+r0
+
+CCpResource finalstop.png DerivedData/FrameWorkApp/Build/Products/MonoTouch-iphonesimulator/FrameWorkApp.app/finalstop.png
+r0
+
+CCpResource finalstop1.png DerivedData/FrameWorkApp/Build/Products/MonoTouch-iphonesimulator/FrameWorkApp.app/finalstop1.png
+r0
+
+CCpResource settingsButton.png DerivedData/FrameWorkApp/Build/Products/MonoTouch-iphonesimulator/FrameWorkApp.app/settingsButton.png
+r0
+
+CCpResource share-button-facebook.png DerivedData/FrameWorkApp/Build/Products/MonoTouch-iphonesimulator/FrameWorkApp.app/share-button-facebook.png
+r0
+
+CCpResource smallYellow.png DerivedData/FrameWorkApp/Build/Products/MonoTouch-iphonesimulator/FrameWorkApp.app/smallYellow.png
+r0
+
+CCpResource takeTripButton.png DerivedData/FrameWorkApp/Build/Products/MonoTouch-iphonesimulator/FrameWorkApp.app/takeTripButton.png
+r0
+
+CCpResource tallOrangeButton.png DerivedData/FrameWorkApp/Build/Products/MonoTouch-iphonesimulator/FrameWorkApp.app/tallOrangeButton.png
+r0
+
+CCpResource trophy2.png DerivedData/FrameWorkApp/Build/Products/MonoTouch-iphonesimulator/FrameWorkApp.app/trophy2.png
+r0
+
+CGenerateDSYMFile "/Users/David/Desktop/Suncorp/Repositories/Release 2/FrameWorkApp/FrameWorkApp/obj/Xcode/0/DerivedData/FrameWorkApp/Build/Products/MonoTouch-iphonesimulator/FrameWorkApp.app.dSYM" "/Users/David/Desktop/Suncorp/Repositories/Release 2/FrameWorkApp/FrameWorkApp/obj/Xcode/0/DerivedData/FrameWorkApp/Build/Products/MonoTouch-iphonesimulator/FrameWorkApp.app/FrameWorkApp"
+r0
+
+CLd "/Users/David/Desktop/Suncorp/Repositories/Release 2/FrameWorkApp/FrameWorkApp/obj/Xcode/0/DerivedData/FrameWorkApp/Build/Products/MonoTouch-iphonesimulator/FrameWorkApp.app/FrameWorkApp" normal i386
+r0
+
+CTouch "/Users/David/Desktop/Suncorp/Repositories/Release 2/FrameWorkApp/FrameWorkApp/obj/Xcode/0/DerivedData/FrameWorkApp/Build/Products/MonoTouch-iphonesimulator/FrameWorkApp.app"
+r0
+
